@@ -30,26 +30,6 @@
       <SUPLINF>
         <HD SOURCE="HED">SUPPLEMENTARY INFORMATION:</HD>
         <HD SOURCE="HD1">I. Backgrounds</HD>
-        <P>ATF administers regulations published in 27 CFR part 555, concerning commerce in explosives. ATF identified several technical amendments that are needed to update and to provide clarity to these regulations.</P>
-        <P>Rather than make substantive changes to the regulations, these amendments focus on improving the clarity and accuracy of the regulations. Many of the technical changes reflect the removal of expired or obsolete regulations; removal of regulations that are no longer necessary; and the correction of dates, titles, addresses, and telephone numbers. Additionally, technical changes to § 555.11 reflect a change in nomenclature resulting from the transfer of ATF to the Department of Justice from the Department of the Treasury pursuant to the Homeland Security Act of 2002.</P>
-        <P>Section 555.11 is being amended to remove paragraph (a) and revise paragraph (b) in the definitions of “ATF”, “ATF Officer”, “Bureau”, and “Director” as the information in the regulations is obsolete, to revise the definition of “Director, Industry Operations” for accuracy, and to replace “Bureau of Alcohol, Tobacco and Firearms” with “Bureau of Alcohol, Tobacco, Firearms, and Explosives, Department of Justice” in the definition of “Region” as the current definition references the name of the agency under the Department of the Treasury, prior to the Homeland Security Act of 2002.</P>
-        <P>Section 555.27 is being removed and reserved as the requirement in the statute that this regulation implemented is expired and obsolete.</P>
-        <P>Section 555.30 is being amended to reflect the correct nationwide toll-free telephone number, and the reference to Form 4712 is being removed as this information is no longer necessary and is obsolete.</P>
-        <P>Sections 555.33, 555.142, and 555.165 are being amended to remove the effective dates, which are no longer necessary.</P>
-        <P>Sections 555.41, 555.49, 555.51, 555.103, and 555.125 are being amended to remove and reserve paragraph (a) in each of these sections as the information in those paragraphs is obsolete.</P>
-        <P>Section 555.45 is being amended to remove and reserve paragraphs (a) and (b) as the information in those paragraphs is obsolete.</P>
-        <P>Section 555.57 is being amended to remove “For all licenses or permits issued on and after May 24, 2003” as this delineation is no longer necessary.</P>
-        <P>Section 555.102 is being amended to remove paragraph (b)(1) and revise paragraph (b)(2) as the information in those paragraphs is obsolete.</P>
-        <P>Section 555.105 is being amended to remove the reference to nonlicensees and nonpermittees in the heading of the section, and to remove and reserve paragraph (a) as the information in the regulation is obsolete.</P>
-        <P>Section 555.126 is being amended to revise the heading of the section, and to remove and reserve paragraph (a) as the information in the regulation is obsolete.</P>
-        <P>Section 555.201 is being amended to remove and reserve paragraph (e) as the application of this paragraph is obsolete.</P>
-        <P>Section 555.202 is being amended to remove “See also § 555.201(e).” as the referenced sentence is obsolete.</P>
-        <P>Section 555.218 is being amended to remove the date “July, 1991” from the table title and replace it with “June 1991”, the correct date.</P>
-
-        <P>Section 555.219 is being amended to add the title of the table, as the title was incorrectly added to the table in 555.220 when published in the <E T="04">Federal Register</E>.</P>
-        <P>Section 555.220 is being amended to remove the title above the table and remove the address for the Fertilizer Institute, as this information is incorrect.</P>
-
-        <P>Section 555.224 is being amended to remove “(30 days from the date of publication of the final rule in the <E T="04">Federal Register</E>)” and to add the effective date in the third footnote.</P>
         <HD SOURCE="HD1">II. Statutory Orders and Executive Review</HD>
         <HD SOURCE="HD2">A. Executive Orders 12866, 13563, and 13771</HD>
         <P>This rule has been drafted and reviewed in accordance with Executive Order 12866, “Regulatory Planning and Review,” section 1(b), The Principles of Regulation; Executive Order 13563, “Improving Regulation and Regulatory Review,” section 1(b), General Principles of Regulation; and Executive Order 13771, “Reducing Regulation and Controlling Regulatory Costs.”</P>
@@ -93,33 +73,219 @@
           <SUBJECT> [Amended]</SUBJECT>
         </SECTION>
         <REGTEXT PART="555" TITLE="27">
-          <AMDPAR>2. Amend § 555.11 as follows:</AMDPAR>
-          <AMDPAR>a. In the definition of “ATF”:</AMDPAR>
-          <AMDPAR>i. Remove paragraph (a);</AMDPAR>
-          <AMDPAR>ii. Remove the (b) designation; and</AMDPAR>
-          <AMDPAR>iii. Remove “On and after January 24, 2003.” and “, Washington, DC”;</AMDPAR>
-          <AMDPAR>b. In the definition of “ATF Officer”:</AMDPAR>
-          <AMDPAR>i. Remove paragraph (a);</AMDPAR>
-          <AMDPAR>ii. Remove the (b) designation;</AMDPAR>
-          <AMDPAR>iii. Remove “On and after January 24, 2003.”; and</AMDPAR>
-          <AMDPAR>iv. Add “, Department of Justice” after “(ATF)”;</AMDPAR>
-          <AMDPAR>c. In the definition of “Bureau”:</AMDPAR>
-          <AMDPAR>i. Remove paragraph (a);</AMDPAR>
-          <AMDPAR>ii. Remove the (b) designation; and</AMDPAR>
-          <AMDPAR>iii. Remove “On and after January 24, 2003.” and “, Washington, DC”;</AMDPAR>
-          <AMDPAR>d. In the definition of “Director”:</AMDPAR>
-          <AMDPAR>i. Remove paragraph (a);</AMDPAR>
-          <AMDPAR>ii. Remove the (b) designation; and</AMDPAR>
-          <AMDPAR>iii. Remove “On and after January 24, 2003.” and “, Washington, DC”;</AMDPAR>
-          <AMDPAR>e. In the definition of “Director, Industry Operations” remove “principal regional official” and add in its place “principal field division official”; and</AMDPAR>
-          <AMDPAR>f. In the definition of “Region” remove “Bureau of Alcohol, Tobacco and Firearms” and add in its place “Bureau of Alcohol, Tobacco, Firearms, and Explosives, Department of Justice”.</AMDPAR>
+          <AMDPAR>2. Section § 555.11 is revised to read</AMDPAR>
+          <SECTION>
+            <SECTNO>§ 555.11</SECTNO>
+            <SUBJECT>Meaning of terms.</SUBJECT>
+            <P>When used in this part, terms are defined as follows in this section. Words in the plural form include the singular, and vice versa, and words indicating the masculine gender include the feminine. The terms “includes” and “including” do not exclude other things not named which are in the same general class or are otherwise within the scope of the term defined.</P>
+            <P>
+            <E T="03">Act.</E> 18 U.S.C. Chapter 40.</P>
+            <P>
+            <E T="03">Adjudicated as a mental defective.</E> (a) A determination by a court, board, commission, or other lawful authority that a person, as a result of marked subnormal intelligence, or mental illness, incompetency, condition, or disease:</P>
+            <P>(1) Is a danger to himself or to others; or</P>
+            <P>(2) Lacks the mental capacity to contract or manage his own affairs.</P>
+            <P>(b) The term will include—</P>
+            <P>(1) A finding of insanity by a court in a criminal case; and</P>
+            <P>(2) Those persons found incompetent to stand trial or found not guilty by reason of lack of mental responsibility by any court or pursuant to articles 50a and 76b of the Uniform Code of Military Justice, 10 U.S.C. 850a, 876b.</P>
+            <P>
+            <E T="03">Alien.</E> Any person who is not a citizen or national of the United States.</P>
+            <P>
+            <E T="03">Ammunition.</E> Small arms ammunition or cartridge cases, primers, bullets, or smokeless propellants designed for use in small arms, including percussion caps, and <FR>3/32</FR> inch and other external burning pyrotechnic hobby fuses. The term does not include black powder.</P>
+            <P>
+            <E T="03">Appropriate identifying information.</E> The term means, in relation to an individual:</P>
+            <P>(a) The full name, date of birth, place of birth, sex, race, street address, State of residence, telephone numbers (home and work), country or countries of citizenship, and position at the employer's business or operations of responsible persons and employees authorized to possess explosive materials;</P>
+            <P>(b) The business name, address, and license or permit number with which the responsible person or employee is affiliated;</P>
+            <P>(c) If an alien, INS-issued alien number or admission number; and</P>
+            <P>(d) Social security number, as optional information (this information is not required but is helpful in avoiding misidentification when a background check is conducted).</P>
+            <P>
+            <E T="03">Approved storage facility.</E> A place where explosive materials are stored, consisting of one or more approved magazines, conforming to the requirements of this part and covered by a license or permit issued under this part.</P>
+            <P>
+            <E T="03">Articles pyrotechnic.</E> Pyrotechnic devices for professional use similar to consumer fireworks in chemical composition and construction but not intended for consumer use. Such articles meeting the weight limits for consumer fireworks but not labeled as such and classified by U.S. Department of Transportation regulations in 49 CFR 172.101 as UN0431 or UN0432.</P>
+            <P>
+            <E T="03">Artificial barricade.</E> An artificial mound or revetted wall of earth of a minimum thickness of three feet, or any other approved barricade that offers equivalent protection.</P>
+            <P>
+            <E T="03">ATF.</E> The Bureau of Alcohol, Tobacco, Firearms and Explosives, Department of Justice.</P>
+            <P>
+            <E T="03">ATF officer.</E> An officer or employee of the Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF), Department of Justice; authorized to perform any function relating to the administration or enforcement of this part.</P>
+            <P>
+            <E T="03">Authority having jurisdiction for fire safety.</E> The fire department having jurisdiction over sites where explosives are manufactured or stored.</P>
+            <P>
+            <E T="03">Barricaded.</E> The effective screening of a magazine containing explosive materials from another magazine, a building, a railway, or a highway, either by a natural barricade or by an artificial barricade. To be properly barricaded, a straight line from the top of any sidewall of the magazine containing explosive materials to the eave line of any other magazine or building, or to a point 12 feet above the center of a railway or highway, will pass through the natural or artificial barricade.</P>
+            <P>
+            <E T="03">Blasting agent.</E> Any material or mixture, consisting of fuel and oxidizer, that is intended for blasting and not otherwise defined as an explosive; if the finished product, as mixed for use or shipment, cannot be detonated by means of a number 8 test blasting cap when unconfined. A number 8 test blasting cap is one containing 2 grams of a mixture of 80 percent mercury fulminate and 20 percent potassium chlorate, or a blasting cap of equivalent strength. An equivalent strength cap comprises 0.40-0.45 grams of PETN base charge pressed in an aluminum shell with bottom thickness not to exceed to 0.03 of an inch, to a specific gravity of not less than 1.4 g/cc., and primed with standard weights of primer depending on the manufacturer.</P>
+            <P>
+            <E T="03">Bulk salutes.</E> Salute components prior to final assembly into aerial shells, and finished salute shells held separately prior to being packed with other types of display fireworks.</P>
+            <P>
+            <E T="03">Bullet-sensitive explosive materials.</E> Explosive materials that can be exploded by 150-grain M2 ball ammunition having a nominal muzzle velocity of 2700 fps (824 mps) when fired from a .30 caliber rifle at a distance of 100 ft (30.5 m), measured perpendicular. The test material is at a temperature of 70 to 75 degrees F (21 to 24 degrees C) and is placed against a <FR>1/2</FR> inch (12.4 mm) steel backing plate.</P>
+            <P>
+            <E T="03">Bureau.</E> The Bureau of Alcohol, Tobacco, Firearms and Explosives, Department of Justice.</P>
+            <P>
+            <E T="03">Business premises.</E> When used with respect to a manufacturer, importer, or dealer, the property on which explosive materials are manufactured, imported, stored or distributed. The premises include the property where the records of a manufacturer, importer, or dealer are kept if different than the premises where explosive materials are manufactured, imported, stored or distributed. When used with respect to a user of explosive materials, the property on which the explosive materials are received or stored. The premises includes the property where the records of the users are kept if different than the premises where explosive materials are received or stored.</P>
+            <P>
+            <E T="03">Chief, Firearms and Explosives Licensing Center.</E> The ATF official responsible for the issuance and renewal of licenses and permits under this part.</P>
+            <P>
+            <E T="03">Committed to a mental institution.</E> A formal commitment of a person to a mental institution by a court, board, commission, or other lawful authority. The term includes a commitment to a mental institution involuntarily. The term includes commitment for mental defectiveness or mental illness. It also includes commitments for other reasons, such as for drug use. The term does not include a person in a mental institution for observation or a voluntary admission to a mental institution.</P>
+            <P>
+            <E T="03">Common or contract carrier.</E> Any individual or organization engaged in the business of transporting passengers or goods.<PRTPAGE P="117"/>
+            </P>
+            <P>
+            <E T="03">Consumer fireworks.</E> Any small firework device designed to produce visible effects by combustion and which must comply with the construction, chemical composition, and labeling regulations of the U.S. Consumer Product Safety Commission, as set forth in title 16, Code of Federal Regulations, parts 1500 and 1507. Some small devices designed to produce audible effects are included, such as whistling devices, ground devices containing 50 mg or less of explosive materials, and aerial devices containing 130 mg or less of explosive materials. Consumer fireworks are classified as fireworks UN0336, and UN0337 by the U.S. Department of Transportation at 49 CFR 172.101. This term does not include fused setpieces containing components which together exceed 50 mg of salute powder.</P>
+            <P>
+            <E T="03">Controlled substance.</E> A drug or other substance, or immediate precursor, as defined in section 102 of the Controlled Substances Act, 21 U.S.C. 802. The term includes, but is not limited to, marijuana, depressants, stimulants, and narcotic drugs. The term does not include distilled spirits, wine, malt beverages, or tobacco, as those terms are defined or used in Subtitle E of the Internal Revenue Code of 1986, as amended.</P>
+            <P>
+            <E T="03">Crime punishable by imprisonment for a term exceeding one year.</E> Any offense for which the maximum penalty, whether or not imposed, is capital punishment or imprisonment in excess of one year. The term does not include (a) any Federal or State offenses pertaining to antitrust violations, unfair trade practices, restraints of trade, or (b) any State offense (other than one involving a firearm or explosive) classified by the laws of the State as a misdemeanor and punishable by a term of imprisonment of two years or less.</P>
+            <P>
+            <E T="03">Customs officer.</E> Any officer of U.S. Customs and Border Protection, any commissioned, warrant, or petty officer of the Coast Guard, or any agent or other person authorized by law to perform the duties of a customs officer.</P>
+            <P>
+            <E T="03">Dealer.</E> Any person engaged in thebusiness of distributing explosive materialsat wholesale or retail.</P>
+            <P>
+            <E T="03">Detonator.</E> Any device containing a detonating charge that is used for initiating detonation in an explosive. The term includes, but is not limited to, electric blasting caps of instantaneous and delay types, blasting caps for use with safety fuses, detonating-cord delay connectors, and nonelectric instantaneous and delay blasting caps.</P>
+            <P>
+            <E T="03">Director.</E> The Director, Bureau of Alcohol, Tobacco, Firearms and Explosives, Department of Justice, Washington, DC.</P>
+            <P>
+            <E T="03">Director, Industry Operations.</E> The principal field division official responsible for administering regulations in this part.</P>
+            <P>
+            <E T="03">Discharged under dishonorable conditions.</E> Separation from the U.S. Armed Forces resulting from a dishonorable discharge or dismissal adjudged by general court-martial. The term does not include any separation from the Armed Forces resulting from any other discharge, <E T="03">e.g.,</E> a bad conduct discharge.</P>
+            <P>
+            <E T="03">Display fireworks.</E> Large fireworks designed primarily to produce visible or audible effects by combustion, deflagration, or detonation. This term includes, but is not limited to, salutes containing more than 2 grains (130 mg) of explosive materials, aerial shells containing more than 40 grams of pyrotechnic compositions, and other display pieces which exceed the limits of explosive materials for classification as “consumer fireworks.” Display fireworks are classified as fireworks UN0333, UN0334 or UN0335 by the U.S. Department of Transportation at 49 CFR 172.101. This term also includes fused setpieces containing components which together exceed 50 mg of salute powder.</P>
+            <P>
+            <E T="03">Distribute.</E> To sell, issue, give, transfer, or otherwise dispose of. The term does not include a mere change of possession from a person to his agent or employee in connection with the agency or employment.</P>
+            <P>
+            <E T="03">Executed under penalties of perjury.</E> Signed with the required declaration under the penalties of perjury as provided on or with respect to the return, form, or other document or, where no form of declaration is required, with the declaration:
+            </P>
+            <EXTRACT>
+            <PRTPAGE P="118"/>
+            <P>“I declare under the penalties of perjury that this—(insert type of document, such as, statement, application, request, certificate), including the documents submitted in support thereof, has been examined by me and, to the best of my knowledge and belief, is true, correct, and complete”.</P>
+            </EXTRACT>
+            
+            <P>
+            <E T="03">Explosive actuated device.</E> Any tool or special mechanized device which is actuated by explosives, but not a propellent actuated device.</P>
+            <P>
+            <E T="03">Explosive materials.</E> Explosives, blasting agents, water gels and detonators. Explosive materials include, but are not limited to, all items in the “List of Explosive Materials” provided for in § 555.23.</P>
+            <P>
+            <E T="03">Explosives.</E> Any chemical compound, mixture, or device, the primary or common purpose of which is to function by explosion. The term includes, but is not limited to, dynamite and other high explosives, black powder, pellet powder, initiating explosives, detonators, safety fuses, squibs, detonating cord, igniter cord, and igniters.</P>
+            <P>
+            <E T="03">Fireworks.</E> Any composition or device designed to produce a visible or an audible effect by combustion, deflagration, or detonation, and which meets the definition of “consumer fireworks” or “display fireworks” as defined by this section.</P>
+            <P>
+            <E T="03">Fireworks mixing building.</E> Any building or area used for mixing and blending pyrotechnic compositions except wet sparkler mix.</P>
+            <P>
+            <E T="03">Fireworks nonprocess building.</E> Any office building or other building or area in a fireworks plant where no fireworks, pyrotechnic compositions or explosive materials are processed or stored.</P>
+            <P>
+            <E T="03">Fireworks plant.</E> All land and buildings thereon used for or in connection with the assembly or processing of fireworks, including warehouses used with or in connection with fireworks plant operations.</P>
+            <P>
+            <E T="03">Fireworks plant warehouse.</E> Any building or structure used exclusively for the storage of materials which are neither explosive materials nor pyrotechnic compositions used to manufacture or assemble fireworks.</P>
+            <P>
+            <E T="03">Fireworks process building.</E> Any mixing building; any building in which pyrotechnic compositions or explosive materials is pressed or otherwise prepared for finished and assembly; or any finishing or assembly building.</P>
+            <P>
+            <E T="03">Fireworks shipping building.</E> A building used for the packing of assorted display fireworks into shipping cartons for individual public displays and for the loading of packaged displays for shipment to purchasers.</P>
+            <P>
+            <E T="03">Flash powder.</E> An explosive material intended to produce an audible report and a flash of light when ignited which includes but is not limited to oxidizers such as potassium chlorate or potassium perchlorate, and fuels such as sulfur or aluminum powder.</P>
+            <P>
+            <E T="03">Fugitive from justice.</E> Any person who has fled from the jurisdiction of any court of record to avoid prosecution for any crime or to avoid giving testimony in any criminal proceeding. The term also includes any person who has been convicted of any crime and has fled to avoid imprisonment.</P>
+            <P>
+            <E T="03">Hardwood.</E> Oak, maple, ash, hickory, or other hard wood, free from loose knots, spaces, or similar defects.</P>
+            <P>
+            <E T="03">Highway.</E> Any public street, public alley, or public road, including a privately financed, constructed, or maintained road that is regularly and openly traveled by the general public.</P>
+            <P>
+            <E T="03">Identification document.</E> A document containing the name, residence address, date of birth, and photograph of the holder and which was made or issued by or under the authority of the United States Government, a State, political subdivision of a State, a foreign government, a political subdivision of a foreign government, an international governmental or an international quasi-governmental organization which, when completed with information concerning a particular individual, is of a type intended or commonly accepted for the purpose of identification of individuals.</P>
+            <P>
+            <E T="03">Importer.</E> Any person engaged in the business of importing or bringing explosive materials into the United States for purposes of sale or distribution.</P>
+            <P>
+            <E T="03">Indictment.</E> Includes an indictment or information in any court under which a crime punishable by imprisonment for a term exceeding one year may be prosecuted.</P>
+            <P>
+            <E T="03">Inhabited building.</E> Any building regularly occupied in whole or in part as a <PRTPAGE P="119"/>habitation for human beings, or any church, schoolhouse, railroad station, store, or other structure where people are accustomed to assemble, except any building occupied in connection with the manufacture, transportation, storage, or use of explosive materials.</P>
+            <P>
+            <E T="03">Interstate or foreign commerce.</E> Commerce between any place in a State and any place outside of that State, or within any possession of the United States or the District of Columbia, and commerce between places within the same State but through any place outside of that State.</P>
+            <P>
+            <E T="03">Licensed dealer.</E> A dealer licensed under this part.</P>
+            <P>
+            <E T="03">Licensed importer.</E> An importer licensed under this part.</P>
+            <P>
+            <E T="03">Licensed manufacturer.</E> A manufacturer licensed under this part to engage in the business of manufacturing explosive materials for purposes of sale or distribution or for his own use.</P>
+            <P>
+            <E T="03">Licensee.</E> Any importer, manufacturer, or dealer licensed under this part.</P>
+            <P>
+            <E T="03">Limited permit.</E> A permit issued to a person authorizing him to receive for his use explosive materials from a licensee or permittee in his state of residence on no more than 6 occasions during the 12-month period in which the permit is valid. A limited permit does not authorize the receipt or transportation of explosive materials in interstate or foreign commerce.</P>
+            <P>
+            <E T="03">Magazine.</E> Any building or structure, other than an explosives manufacturing building, used for storage of explosive materials.</P>
+            <P>
+            <E T="03">Manufacturer.</E> Any person engaged in the business of manufacturing explosive materials for purposes of sale or distribution or for his own use.</P>
+            <P>
+            <E T="03">Mass detonation (mass explosion).</E> Explosive materials mass detonate (mass explode) when a unit or any part of a larger quantity of explosive material explodes and causes all or a substantial part of the remaining material to detonate or explode.</P>
+            <P>
+            <E T="03">Mental institution.</E> Includes mental health facilities, mental hospitals, sanitariums, psychiatric facilities, and other facilities that provide diagnoses by licensed professionals of mental retardation or mental illness, including a psychiatric ward in a general hospital.</P>
+            <P>
+            <E T="03">Natural barricade.</E> Natural features of the ground, such as hills, or timber of sufficient density that the surrounding exposures which require protection cannot be seen from the magazine when the trees are bare of leaves.</P>
+            <P>
+            <E T="03">Number 8 test blasting cap.</E> (See definition of “blasting agent.”)</P>
+            <P>
+            <E T="03">Permittee.</E> Any user of explosives for a lawful purpose who has obtained either a user permit or a limited permit under this part.</P>
+            <P>
+            <E T="03">Person.</E> Any individual, corporation, company, association, firm, partnership, society, or joint stock company.</P>
+            <P>
+            <E T="03">Plywood.</E> Exterior, construction grade (laminated wood) plywood.</P>
+            <P>
+            <E T="03">Propellant actuated device.</E> (a) Any tool or special mechanized device or gas generator system that is actuated by a propellant or which releases and directs work through a propellant charge.</P>
+            <P>(b) The term does not include—</P>
+            <P>(1) Hobby rocket motors consisting of ammonium perchlorate composite propellant, black powder, or other similar low explosives, regardless of amount; and</P>
+            <P>(2) Rocket-motor reload kits that can be used to assemble hobby rocket motors containing ammonium perchlorate composite propellant, black powder, or other similar low explosives, regardless of amount.</P>
+            <P>
+            <E T="03">Pyrotechnic compositions.</E> A chemical mixture which, upon burning and without explosion, produces visible, brilliant displays, bright lights, or sounds.</P>
+            <P>
+            <E T="03">Railway.</E> Any steam, electric, or other railroad or railway which carries passengers for hire.</P>
+            <P>
+            <E T="03">Region.</E> A geographical region of the Bureau of Alcohol, Tobacco, Firearms, and Explosives, Department of Justice.</P>
+            <P>
+            <E T="03">Renounced U.S. citizenship.</E> (a) A person has renounced his U.S. citizenship if the person, having been a citizen of the United States, has renounced citizenship either—</P>
+            <P>(1) Before a diplomatic or consular officer of the United States in a foreign state pursuant to 8 U.S.C. 1481(a)(5); or</P>
+            <P>(2) Before an officer designated by the Attorney General when the United States is in a state of war pursuant to 8 U.S.C. 1481(a)(6).</P>
+
+            <P>(b) The term will not include any renunciation of citizenship that has been <PRTPAGE P="120"/>reversed as a result of administrative or judicial appeal.</P>
+            <P>
+            <E T="03">Responsible person.</E> An individual who has the power to direct the management and policies of the applicant pertaining to explosive materials. Generally, the term includes partners, sole proprietors, site managers, corporate officers and directors, and majority shareholders.</P>
+            <P>
+            <E T="03">Salute.</E> An aerial shell, classified as a display firework, that contains a charge of flash powder and is designed to produce a flash of light and a loud report as the pyrotechnic effect.</P>
+            <P>
+            <E T="03">Screen barricade.</E> Any barrier that will contain the embers and debris from a fire or deflagration in a process building, thus preventing propagation of fire to other buildings or areas. Such barriers shall be constructed of metal roofing, <FR>1/4</FR> to <FR>1/2</FR> inch (6 to 13 mm) mesh screen, or equivalent material. The barrier extends from floor level to a height such that a straight line from the top of any side wall of the donor building to the eave line of any exposed building intercepts the screen at a point not less than 5 feet (1.5 m) from the top of the screen. The top 5 feet (1.5 m) of the screen is inclined towards the donor building at an angle of 30 to 45 degrees.</P>
+            <P>
+            <E T="03">Softwood.</E> Fir, pine, or other soft wood, free from loose knots, spaces, or similar defects.</P>
+            <P>
+            <E T="03">State.</E> A State of the United States. The term includes the District of Columbia, the Commonwealth of Puerto Rico, and the possessions of the United States.</P>
+            <P>
+            <E T="03">State of residence.</E> The State in which an individual regularly resides or maintains his home. Temporary stay in a State does not make the State of temporary stay the State of residence.</P>
+            <P>
+            <E T="03">Theatrical flash powder.</E> Flash powder commercially manufactured in premeasured kits not exceeding 1 ounce and mixed immediately prior to use and intended for use in theatrical shows, stage plays, band concerts, magic acts, thrill shows, and clown acts in circuses.</P>
+            <P>
+            <E T="03">Unlawful user of or addicted to any controlled substance.</E> A person who uses a controlled substance and has lost the power of self-control with reference to the use of a controlled substance; and any person who is a current user of a controlled substance in a manner other than as prescribed by a licensed physician. Such use is not limited to the use of drugs on a particular day, or within a matter of days or weeks before possession of the explosive materials, but rather that the unlawful use has occurred recently enough to indicate that the individual is actively engaged in such conduct. A person may be an unlawful current user of a controlled substance even though the substance is not being used at the precise time the person seeks to acquire explosive materials or receives or possesses explosive materials. An inference of current use may be drawn from evidence of a recent use or possession of a controlled substance or a pattern of use or possession that reasonably covers the present time, <E T="03">e.g.,</E> a conviction for use or possession of a controlled substance within the past year; multiple arrests for such offenses within the past 5 years if the most recent arrest occurred within the past year; or persons found through a drug test to use a controlled substance unlawfully, provided that the test was administered within the past year. For a current or former member of the Armed Forces, an inference of current use may be drawn from recent disciplinary or other administrative action based on confirmed drug use, <E T="03">e.g.,</E> court-martial conviction, nonjudicial punishment, or an administrative discharge based on drug use or drug rehabilitation failure.</P>
+            <P>
+            <E T="03">U.S.C.</E> The United States Code.</P>
+            <P>
+            <E T="03">User-limited permit.</E> A user permit valid only for a single purchase transaction, a new permit being required for a subsequent purchase transaction.</P>
+            <P>
+            <E T="03">User permit.</E> A permit issued to a person authorizing him (a) to acquire for his own use explosive materials from a licensee in a State other than the State in which he resides or from a foreign country, and (b) to transport explosive materials in interstate or foreign commerce.</P>
+            <P>
+            <E T="03">Water gels.</E> Explosives or blasting agents that contain a substantial proportion of water.</P>
+            <SECAUTH>(18 U.S.C. 847 (84 Stat. 959); 18 U.S.C. 926 (82 Stat. 1226)</SECAUTH>
+            <CITA>[T.D. ATF-87, 46 FR 40384, Aug. 7, 1981]</CITA>
+            <EDNOTE>
+            <PRTPAGE P="121"/>
+            <HD SOURCE="HED">Editorial Note:</HD>
+            <P>For <E T="04">Federal Register</E> citations affecting § 555.11, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at <E T="03">www.govinfo.gov.</E>
+            </P>
+            </EDNOTE>
+          </SECTION>
         </REGTEXT>
         <SECTION>
           <SECTNO>§ 555.27 </SECTNO>
           <SUBJECT> [Removed and Reserved]</SUBJECT>
         </SECTION>
         <REGTEXT PART="555" TITLE="27">
-          <AMDPAR>3. Remove and reserve § 555.27.</AMDPAR>
+          <AMDPAR>3. Section § 555.27 is revised to read</AMDPAR>
+          <SECTION>
+            <SECTNO>§ 555.27</SECTNO>
+            <SUBJECT>[Reserved]</SUBJECT>
+            <P>[Reserved]</P>
+          </SECTION>
         </REGTEXT>
         <SECTION>
           <SECTNO>§ 555.30 </SECTNO>
@@ -144,79 +310,261 @@
             <P>(2) Quantity (applicable quantity units, such as pounds of explosives, number of detonators, etc.).</P>
             <P>(3) Description (United Nations (UN) identification number, hazard division number, and classification letter, e.g., 1.1D) as classified by the U.S. Department of Transportation at 49 CFR 172.101 and 173.52.</P>
             <CITA>[T.D. ATF-87, 46 FR 40384, Aug. 7, 1981, as amended by T.D. ATF-400, 63 FR 45002, Aug. 24, 1998]</CITA>
-        </SECTION>
+          </SECTION>
         </REGTEXT>
         <SECTION>
           <SECTNO>§ 555.33 </SECTNO>
           <SUBJECT> [Amended]</SUBJECT>
         </SECTION>
         <REGTEXT PART="555" TITLE="27">
-          <AMDPAR>5. In § 555.33, remove “(effective May 24, 2003)” from the section heading.</AMDPAR>
+          <AMDPAR>5. Section 555.33 is revised to read</AMDPAR>
+          <SECTION>
+            <SECTNO>§ 555.33</SECTNO>
+            <SUBJECT>Background checks and clearances.</SUBJECT>
+            <P>(a) <E T="03">Background checks.</E> (1) If the Director receives from a licensee or permittee the names and appropriate identifying information of responsible persons and employees who will be authorized by the employer to possess explosive materials in the course of employment with the employer, the Director will conduct a background check in accordance with this section.</P>
+            <P>(2) The Director will determine whether the responsible person or employee is one of the persons described in any paragraph of section 842(i) of the Act (see § 555.26). In making such determination, the Director may take into account a letter or document issued under paragraph (a)(3) of this section.</P>
+            <P>(3)(i) If the Director determines that the responsible person or the employee is not one of the persons described in any paragraph of section 842(i) of the Act (see § 555.26), the Director will notify the employer in writing or electronically of the determination and issue, to the responsible person or employee, as the case may be, a letter of clearance which confirms the determination.</P>
+
+            <P>(ii) If the Director determines that the responsible person or employee is one of the persons described in any paragraph of section 842(i) of the Act (see § 555.26), ATF will notify the employer in writing or electronically of the determination and issue to the responsible person or the employee, as the case may be, a document that confirms the determination; explains the grounds for the determination; provides information on how the disability may be relieved; and explains how the determination may be appealed. The employer will retain the notification as part of his permanent records in accordance with § 555.121. The employer will take immediate steps to remove the responsible person from his position directing the management or policies of the business or operations as they relate to explosive materials or, as the case may be, to remove the employee from a position requiring the possession of explosive materials. Also, <PRTPAGE P="126"/>if the employer has listed the employee as a person authorized to accept delivery of explosive materials, as specified in § 555.103 or § 555.105, the employer must remove the employee from such list and immediately, and in no event later than the second business day after such change, notify distributors of such change.</P>
+            <P>(b) <E T="03">Appeals and correction of erroneous system information</E>—(1) <E T="03">In general.</E> A responsible person or employee may challenge the adverse determination set out in the letter of denial, in writing and within 45 days of issuance of the determination, by directing his or her challenge to the basis for the adverse determination, or to the accuracy of the record upon which the adverse determination is based, to the Director. The appeal request must include appropriate documentation or record(s) establishing the legal and/or factual basis for the challenge. Any record or document of a court or other government entity or official furnished in support of an appeal must be certified by the court or other government entity or official as a true copy. In the case of an employee, or responsible person who did not submit fingerprints, such appeal must be accompanied by two properly completed FBI Forms FD-258 (fingerprint card). The Director will advise the individual in writing of his decision and the reasons for the decision.</P>
+            <P>(2) <E T="03">Employees.</E> The letter of denial, among other things, will advise an employee who elects to challenge an adverse determination to submit the fingerprint cards as described above. The employee also will be advised of the agency name and address that originated the record containing the information causing the adverse determination (“originating agency”). At that time, and where appropriate, an employee is encouraged to apply to the originating agency to challenge the accuracy of the record(s) upon which the denial is based. The originating agency may respond to the individual's application by addressing the individual's specific reasons for the challenge, and by indicating whether additional information or documents are required. If the record is corrected as a result of the application to the originating agency, the individual may so notify ATF which will, in turn, verify the record correction with the originating agency and take all necessary steps to contact the agency responsible for the record system and correct the record. The employee may provide to ATF additional and appropriate documentation or record(s) establishing the legal and/or factual basis for the challenge to ATF's decision to uphold the initial denial. If ATF does not receive such additional documentation or record(s) within 45 days of the date of the decision upholding the initial denial, ATF will close the appeal.</P>
+            <P>(3) <E T="03">Responsible persons.</E> The letter of denial, among other things, will advise a responsible person of the agency name and address which originated the record containing the information causing the adverse determination (“originating agency”). A responsible person who elects to challenge the adverse determination, where appropriate, is encouraged to apply to the originating agency to challenge the accuracy of the record(s) upon which the denial is based. The originating agency may respond to the individual's application by addressing the individual's specific reasons for the challenge, and by indicating whether additional information or documents are required. If the record is corrected as a result of the application to the originating agency, the individual may so notify ATF which will, in turn, verify the record correction with the originating agency and take all necessary steps to contact the agency responsible for the record system and correct the record. A responsible person may provide additional documentation or records as specified for employees in paragraph (b)(2) of this section.</P>
+            <APPRO>(Approved by the Office of Management and Budget under control number 1140-0081)</APPRO>
+            <CITA>[ATF No. 1, 68 FR 13783, Mar. 20, 2003]</CITA>
+          </SECTION>
         </REGTEXT>
         <SECTION>
           <SECTNO>§ 555.41 </SECTNO>
           <SUBJECT> [Amended]</SUBJECT>
         </SECTION>
         <REGTEXT PART="555" TITLE="">
-          <AMDPAR>6. In § 555.41, remove and reserve paragraph (a).</AMDPAR>
+          <AMDPAR>6. Section 555.41 is revised to read</AMDPAR>
+          <SECTION>
+            <SECTNO>§ 555.41</SECTNO>
+            <SUBJECT>General.</SUBJECT>
+            <P>(a) [Reserved]</p>
+            <P>(b) <E T="03">Licenses and permits issued on and after May 24, 2003</E>—(1) <E T="03">In general.</E> (i) Each person intending to engage in business as an importer or manufacturer of, or a dealer in, explosive materials, including black powder, must, before commencing business, obtain the license required by this subpart for the business to be operated.<PRTPAGE P="128"/>
+            </P>
+            <P>(ii) Each person who intends to acquire for use explosive materials within the State in which he resides on no more than 6 separate occasions during the 12-month period in which the permit is valid must obtain a limited permit under this subpart. (See § 555.105(b) for definition of “6 separate occasions.”)</P>
+            <P>(iii) Each person who intends to acquire for use explosive materials from a licensee or permittee in a State other than the State in which he resides, or from a foreign country, or who intends to transport explosive materials in interstate or foreign commerce, or who intends to acquire for use explosive materials within the State in which he resides on more than 6 separate occasions during a 12-month period, must obtain a user permit under this subpart.</P>
+            <P>(iv) It is not necessary to obtain a permit if the user intends only to lawfully purchase commercially manufactured black powder in quantities not to exceed 50 pounds, intended to be used solely for sporting, recreational, or cultural purposes in antique firearms or in antique devices.</P>
+            <P>(2) <E T="03">Importers, manufacturers, and dealers.</E> Each person intending to engage in business as an explosive materials importer, manufacturer, or dealer must file an application, with the required fee (<E T="03">see</E> § 555.42), with ATF in accordance with the instructions on the form (<E T="03">see</E> § 555.45). A license will, subject to law, entitle the licensee to transport, ship, and receive explosive materials in interstate or foreign commerce, and to engage in the business specified by the license, at the location described on the license. A separate license must be obtained for each business premises at which the applicant is to manufacture, import, or distribute explosive materials except under the following circumstances:</P>
+            <P>(i) A separate license will not be required for storage facilities operated by the licensee as an integral part of one business premises or to cover a location used by the licensee solely for maintaining the records required by this part.</P>
+            <P>(ii) A separate license will not be required of a licensed manufacturer with respect to his on-site manufacturing.</P>
+            <P>(iii) It will not be necessary for a licensed importer or a licensed manufacturer (for purposes of sale or distribution) to also obtain a dealer's license in order to engage in business on his licensed premises as a dealer in explosive materials. No licensee will be required to obtain a user permit to lawfully transport, ship, or receive explosive materials in interstate or foreign commerce.</P>
+            <P>(iv) A separate license will not be required of licensed manufacturers with respect to their on-site manufacture of theatrical flash powder.</P>
+            <P>(3) <E T="03">Users of explosive materials.</E> (i) A limited permit will, subject to law, entitle the holder of such permit to receive for his use explosive materials from a licensee or permittee in his state of residence on no more than 6 separate occasions during the 12-month period in which the permit is valid. A limited permit does not authorize the receipt or transportation of explosive materials in interstate or foreign commerce. Holders of limited permits who need to receive explosive materials on more than 6 separate occasions during a 12-month period must obtain a user permit in accordance with this subpart.</P>
+
+            <P>(ii) Each person intending to acquire explosive materials from a licensee in a State other than a State in which he resides, or from a foreign country, or who intends to transport explosive materials in interstate or foreign commerce, must file an application for a user permit, with the required fee (<E T="03">see</E> § 555.43), with ATF in accordance with the instructions on the form (<E T="03">see</E> § 555.45). A user permit will, subject to law, entitle the permittee to transport, ship, and receive in interstate or foreign commerce explosive materials. Only one user permit per person is required under this part, irrespective of the number of locations relating to explosive materials operated by the holder of the user permit.</P>
+            <APPRO>(Approved by the Office of Management and Budget under control number 1140-0083)</APPRO>
+            <CITA>[ATF No. 1, 68 FR 13783, Mar. 20, 2003, as amended by ATF 5F, 70 FR 30633, May 27, 2005]</CITA>
+          </SECTION>
         </REGTEXT>
         <SECTION>
           <SECTNO>§ 555.45 </SECTNO>
           <SUBJECT> [Amended]</SUBJECT>
         </SECTION>
         <REGTEXT PART="555" TITLE="27">
-          <AMDPAR>7. In § 555.45, remove and reserve paragraphs (a) and (b).</AMDPAR>
+          <AMDPAR>7. Section 555.45 is revised to read</AMDPAR>
+          <SECTION>
+            <SECTNO>§ 555.45</SECTNO>
+            <SUBJECT>Original license or permit.</SUBJECT>
+            <P>(a) [Reserved]</P>
+            <P>(b) [Reserved]</P>
+            <P>(c) <E T="03">Licenses and permits issued on and after May 24, 2003</E>—(1) <E T="03">License.</E> Any person who intends to engage in the business as an importer of, manufacturer of, or dealer in explosive materials, or who has not timely submitted an application for renewal of a previous license issued under this part, must file an application for License, Explosives, ATF <PRTPAGE P="130"/>F 5400.13, with ATF in accordance with the instructions on the form. ATF Form 5400.13 may be obtained by contacting any ATF office. The application must:</P>
+            <P>(i) Be executed under the penalties of perjury and the penalties imposed by 18 U.S.C. 844(a);</P>
+            <P>(ii) Include appropriate identifying information concerning each responsible person;</P>
+            <P>(iii) Include a photograph and fingerprints for each responsible person;</P>
+            <P>(iv) Include the names of and appropriate identifying information regarding all employees who will be authorized by the applicant to possess explosive materials by submitting ATF F 5400.28 for each employee; and</P>
+            <P>(v) Include the appropriate fee in the form of money order or check made payable to the Bureau of Alcohol, Tobacco, Firearms and Explosives.</P>
+            <P>(2) <E T="03">User permit and limited permit.</E> Except as provided in § 555.41(b)(1)(iv), any person who intends to acquire explosive materials in the State in which that person resides or acquire explosive materials from a licensee or holder of a user permit in a State other than the State in which that person resides, or from a foreign country, or who intends to transport explosive materials in interstate or foreign commerce, or who has not timely submitted an application for renewal of a previous permit issued under this part, must file an application for Permit, Explosives, ATF F 5400.16 or Permit, User Limited Display Fireworks, ATF F 5400.21 with ATF in accordance with the instructions on the form. ATF Form 5400.16 and ATF Form 5400.21 may be obtained by contacting any ATF office. The application must:</P>
+            <P>(i) Be executed under the penalties of perjury and the penalties imposed by 18 U.S.C. 844(a);</P>
+            <P>(ii) Include a photograph, fingerprints, and appropriate identifying information for each responsible person;</P>
+            <P>(iii) Include the names of and appropriate identifying information regarding all employees who will be authorized by the applicant to possess explosive materials by submitting ATF F 5400.28 for each employee; and</P>
+            <P>(iv) Include the appropriate fee in the form of money order or check made payable to the Bureau of Alcohol, Tobacco, Firearms and Explosives.</P>
+            <P>(3) The Chief, Federal Explosives Licensing Center, will conduct background checks on responsible persons and employees authorized by the applicant to possess explosive materials in accordance with § 555.33. If it is determined that any responsible person or employee is described in any paragraph of section 842(i) of the Act, the applicant must submit an amended application indicating removal or reassignment of that person before the license or permit will be issued.</P>
+            <APPRO>(Approved by the Office of Management and Budget under control number 1140-0083)</APPRO>
+            <SECAUTH>(18 U.S.C. 847 (84 Stat. 959); 18 U.S.C. 926 (82 Stat. 1226))</SECAUTH>
+            <CITA>[T.D. ATF-200, 50 FR 10497, Mar. 15, 1985, as amended by T.D. ATF-400, 63 FR 45002, Aug. 24, 1998; ATF No. 1, 68 FR 13785, Mar. 20, 2003; ATF 2013R-9F, 79 FR 46693, Aug. 11, 2014]</CITA>
+          </SECTION>
         </REGTEXT>
         <SECTION>
           <SECTNO>§ 555.49 </SECTNO>
           <SUBJECT> [Amended]</SUBJECT>
         </SECTION>
         <REGTEXT PART="555" TITLE="27">
-          <AMDPAR>8. In § 555.49, remove and reserve paragraph (a).</AMDPAR>
+          <AMDPAR>8. Section 555.49 is revised to read</AMDPAR>
+          <SECTION>
+            <SECTNO>§ 555.49</SECTNO>
+            <SUBJECT>Issuance of license or permit.</SUBJECT>
+            <P>(a) [Reserved]</P>
+            <P>(b) <E T="03">Issuance of license or permit on and after May 24, 2003.</E> (1) The Chief, Federal Explosives Licensing Center, will issue a license or permit if:</P>
+            <P>(i) A properly executed application for the license or permit is received; and</P>
+            <P>(ii) Through further inquiry or investigation, or otherwise, it is found that the applicant is entitled to the license or permit.</P>
+            <P>(2) The Chief, Federal Explosives Licensing Center, will approve a properly executed application for a license or permit, if:</P>
+            <P>(i) The applicant (or, if the applicant is a corporation, partnership, or association, each responsible person with respect to the applicant) is not a person described in any paragraph of section 842(i) of the Act;</P>
+            <P>(ii) The applicant has not willfully violated any provisions of the Act or this part;</P>
+            <P>(iii) The applicant has not knowingly withheld information or has not made any false or fictitious statement intended or likely to deceive, in connection with his application;</P>
+            <P>(iv) The applicant has in a State, premises from which he conducts business or operations subject to license or permit under the Act or from which he intends to conduct business or operations;</P>
+            <P>(v) The applicant has storage for the class (as described in § 555.202) of explosive materials described on the application;</P>
+            <P>(vi) The applicant has certified in writing that he is familiar with and understands all published State laws and local ordinances relating to explosive materials for the location in which he intends to do business;</P>
+            <P>(vii) The applicant for a license has submitted the certificate required by section 21 of the Federal Water Pollution Control Act, as amended (33 U.S.C. 1341);</P>
+            <P>(viii) None of the employees of the applicant who will be authorized by the applicant to possess explosive materials is a person described in any paragraph of section 842(i) of the Act; and</P>
+            <P>(ix) In the case of an applicant for a limited permit, the applicant has certified in writing that the applicant will not receive explosive materials on more than 6 separate occasions during the 12-month period for which the limited permit is valid.</P>
+            <P>(3) The Chief, Federal Explosives Licensing Center, will approve or the Director, Industry Operations will deny any application for a license or permit within the 90-day period beginning on the date a properly executed application was received. However, when an applicant for license or permit renewal is a person who is, under the provisions of § 555.83 or § 555.142, conducting business or operations under a previously issued license or permit, action regarding the application will be held in abeyance pending the completion of the proceedings against the applicant's existing license or permit, or renewal application, or final action by the Director on an application for relief submitted under § 555.142, as the case may be.</P>
+            <P>(4) The license or permit and one copy will be forwarded to the applicant, except that in the case of a user-limited permit, the original only will be issued.</P>
+            <P>(5) Each license or permit will bear a serial number and this number may be assigned to the licensee or permittee to whom issued for as long as he maintains continuity of renewal in the same region.</P>
+            <APPRO>(Approved by the Office of Management and Budget under control number 1140-0082)</APPRO>
+            <CITA>[ATF No. 1, 68 FR 13785, Mar. 20, 2003, as amended by ATF 2013R-9F, 79 FR 46693, Aug. 11, 2014]</CITA>
+          </SECTION>
         </REGTEXT>
         <SECTION>
           <SECTNO>§ 555.51 </SECTNO>
           <SUBJECT> [Amended]</SUBJECT>
         </SECTION>
         <REGTEXT PART="555" TITLE="27">
-          <AMDPAR>9. In § 555.51, remove and reserve paragraph (a).</AMDPAR>
+          <AMDPAR>9. Section 555.51 is revised to read</AMDPAR>
+          <SECTION>
+            <SECTNO>§ 555.51</SECTNO>
+            <SUBJECT>Duration of license or permit.</SUBJECT>
+            <P>(a) [Reserved]</P>
+            <P>(b) <E T="03">On and after May 24, 2003.</E> (1) An original license or user permit is issued for a period of three years. A renewal license or user permit is also issued for a period of three years. However, a user-limited permit is valid only for a single purchase transaction.</P>
+            <P>(2) A limited permit is issued for a period of one year. A renewal limited permit is also issued for a period of one year.</P>
+            <CITA>[ATF No. 1, 68 FR 13786, Mar. 20, 2003]</CITA>
+          </SECTION>
         </REGTEXT>
         <SECTION>
           <SECTNO>§ 555.57 </SECTNO>
           <SUBJECT> [Amended]</SUBJECT>
         </SECTION>
         <REGTEXT PART="555" TITLE="27">
-          <AMDPAR>10. In § 555.57, remove “For all licenses or permits issued on and after May 24, 2003, each person” in paragraph (b) and add in its place “Each person”.</AMDPAR>
+          <AMDPAR>10. Section 555.57 is revised to read</AMDPAR>
+          <SECTION>
+            <SECTNO>§ 555.57</SECTNO>
+            <SUBJECT>Change of control, change in responsible persons, and change of employees.</SUBJECT>
+            <P>(a) In the case of a corporation or association holding a license or permit under this part, if actual or legal control of the corporation or association changes, directly or indirectly, whether by reason of change in stock ownership or control (in the corporation holding a license or permit or in any other corporation), by operation of law, or in any other manner, the licensee or permittee shall, within 30 days of the change, give written notification executed under the penalties of perjury, to the Chief, Federal Explosives Licensing Center. Upon expiration of the license or permit, the corporation or association shall file an ATF F 5400.13 or an ATF F 5400.16 as required by § 555.45, and pay the fee prescribed in § 555.42(b) or § 555.43(b).</P>
+            <P>(b) Each person holding the license or permit must report to the Chief, Federal Explosives Licensing Center, any change in responsible persons or employees authorized to possess explosive materials. Such report must be submitted within 30 days of the change and must include appropriate identifying information for each responsible person. Reports relating to newly hired employees authorized to possess explosive materials must be submitted on ATF F 5400.28 for each employee.</P>
+            <P>(c) Upon receipt of a report, the Chief, Federal Explosives Licensing Center, will conduct a background check, if appropriate, in accordance with § 555.33.</P>
+            <P>(d) The reports required by paragraph (b) of this section must be retained as part of a licensee's or permittee's permanent records for the period specified in § 555.121.</P>
+            <APPRO>(Approved by the Office of Management and Budget under control number 1140-0074)</APPRO>
+            <CITA>[T.D. ATF-87, 46 FR 40384, Aug. 7, 1981, as amended by T.D. ATF-290, 54 FR 53054, Dec. 27, 1989; ATF No. 1, 68 FR 13786, Mar. 20, 2003; ATF 2013R-9F, 79 FR 46693, Aug. 11, 2014]</CITA>
+          </SECTION>
         </REGTEXT>
         <SECTION>
           <SECTNO>§ 555.102 </SECTNO>
           <SUBJECT> [Amended]</SUBJECT>
         </SECTION>
         <REGTEXT PART="555" TITLE="27">
-          <AMDPAR>11. Amend § 555.102 as follows:</AMDPAR>
-          <AMDPAR>a. Remove paragraph (b)(1); and</AMDPAR>
-          <AMDPAR>b. Remove the paragraph (b)(2) designation and its heading “Distribution of surplus stocks on and after May 24, 2003.”.</AMDPAR>
+          <AMDPAR>11. Section 555.102 is revised to read</AMDPAR>
+          <SECTION>
+            <SECTNO>§ 555.102</SECTNO>
+            <SUBJECT>Authorized operations by permittees.</SUBJECT>
+            <P>(a) <E T="03">In general.</E> A permit issued under this part does not authorize the permittee to engage in the business of manufacturing, importing, or dealing in explosive materials. Accordingly, if a permittee's operations bring him within the definition of manufacturer, importer, or dealer under this part, he shall qualify for the appropriate license.</P>
+            <P>(b) <E T="03">Distributions of surplus stocks</E>—</P>
+            <P></E> Permittees are not authorized to engage in the business of sale or distribution of explosive materials. However, permittees may dispose of surplus stocks of explosive materials to other licensees or permittees in accordance with § 555.103 and § 555.105.</P>
+            <CITA>[T.D. ATF-400, 63 FR 45002, Aug. 24, 1998, as amended by ATF No. 1, 68 FR 13787, Mar. 20, 2003]</CITA>
+          </SECTION>
         </REGTEXT>
         <SECTION>
           <SECTNO>§ 555.103 </SECTNO>
           <SUBJECT> [Amended]</SUBJECT>
         </SECTION>
         <REGTEXT PART="555" TITLE="27">
-          <AMDPAR>12. Amend § 555.103 by removing and reserving paragraph (a).</AMDPAR>
+          <AMDPAR>12. Section § 555.103 is revised to read</AMDPAR>
+          <SECTION>
+            <SECTNO>§ 555.103</SECTNO>
+            <SUBJECT>Transactions among licensees/permittees and transactions among licensees and holders of user permits.</SUBJECT>
+            <P>(a) [Reserved]</P>
+            <P>(b) <E T="03">Transactions among licensees/permittees on and after May 24, 2003</E>—(1) <E T="03">General.</E> (i) A licensed importer, licensed manufacturer or licensed dealer selling or otherwise distributing explosive materials (or a holder of a user permit disposing of surplus stock to a licensee; a holder of a user permit; or a holder of a limited permit who is within the same State as the distributor) who has the certified information required by this section may sell or distribute explosive materials to a licensee or permittee for not more than 45 days following the expiration date of the distributee's license or permit, unless the distributor knows or has reason to believe that the distributee's authority to continue business or operations under this part has been terminated.</P>
+            <P>(ii) A licensed importer, licensed manufacturer or licensed dealer selling or otherwise distributing explosive materials (or a holder of a user permit disposing of surplus stock to another licensee or permittee) must verify the license or permit status of the distributee prior to the release of explosive materials ordered, as required by this section.</P>
+            <P>(iii) Licensees or permittees desiring to return explosive materials to a licensed manufacturer may do so without obtaining a certified copy of the manufacturer's license.</P>
+            <P>(2) <E T="03">Verification of license/user permit.</E> (i) Prior to or with the first order of explosive materials, the distributee must provide the distributor a certified copy (or, in the case of a user-limited, the original) of the distributee's license or user permit. However, licensees or holders of user permits that are business organizations may (in lieu of a certified copy of a license or user permit) provide the distributor with a certified list that contains the name, address, license or user permit number, and date of the license or user permit expiration of each location.</P>
+            <P>(ii) The distributee must also provide the distributor with a current list of the names of persons authorized to accept delivery of explosive materials on behalf of the distributee. The distributee ordering explosive materials must keep the list current and provide updated lists to licensees and holders of user permits on a timely basis. A distributor may not transfer possession of explosive materials to any person whose name does not appear on the current list of names of persons authorized to accept delivery of explosive materials on behalf of the distributee. Except as provided in paragraph (b)(3) of this section, in all instances the distributor must verify the identity of the distributee, or the employee of the distributee accepting possession of explosive materials on behalf of the distributee, by examining an identification document (as defined in § 555.11) before relinquishing possession.</P>
+
+            <P>(iii) A licensee or holder of a user permit ordering explosive materials from another licensee or permittee must provide to the distributor a current, certified statement of the intended use of the explosive materials, <E T="03">e.g.,</E> resale, mining, quarrying, agriculture, construction, sport rocketry, road building, oil well drilling, seismographic research, etc.</P>
+            <P>(A) For individuals, the certified statement of intended use must specify the name, address, date and place of birth, and social security number of the distributee.</P>
+            <P>(B) For business organizations, the certified statement of intended use must specify the taxpayer identification number, the identity and the principal and local places of business.</P>
+
+            <P>(C) The licensee or holder of a user permit purchasing explosive materials <PRTPAGE P="143"/>must revise the furnished copy of the certified statement only when the information is no longer current.</P>
+            <P>(3) <E T="03">Delivery of explosive materials by common or contract carrier.</E> When a common or contract carrier will transport explosive materials from a distributor to a distributee who is a licensee or holder of a user permit, the distributor must take the following actions before relinquishing possession of the explosive materials:</P>
+            <P>(i) Verify the identity of the person accepting possession for the common or contract carrier by examining such person's valid, unexpired driver's license issued by any State, Canada, or Mexico; and</P>
+            <P>(ii) Record the name of the common or contract carrier (<E T="03">i.e.,</E> the name of the driver's employer) and the full name of the driver. This information must be maintained in the distributor's permanent records in accordance with § 555.121.</P>
+            <P>(4) <E T="03">User-limited permit transactions.</E> A user-limited permit issued under the provisions of this part is valid for only a single purchase transaction and is not renewable (see § 555.51). Accordingly, at the time a user-limited permittee orders explosive materials, the licensed distributor must write on the front of the user-limited permit the transaction date, his signature, and the distributor's license number prior to returning the permit to the user-limited permittee.</P>
+            <APPRO>(Approved by the Office of Management and Budget under control number 1140-0079)</APPRO>
+            <CITA>[ATF No. 1, 68 FR 13787, Mar. 20, 2003, as amended by ATF No. 2, 68 FR 53512, Sept. 11, 2003]</CITA>
+          </SECTION>
         </REGTEXT>
         <SECTION>
           <SECTNO>§ 555.105 </SECTNO>
           <SUBJECT> [Amended]</SUBJECT>
         </SECTION>
         <REGTEXT PART="555" TITLE="27">
-          <AMDPAR>13. Amend § 555.105 by removing “nonlicensees, nonpermittees, and” from the section heading and removing and reserving paragraph (a).</AMDPAR>
+          <AMDPAR>13. Section § 555.105 is revised to read</AMDPAR>
+          <SECTION>
+            <SECTNO>§ 555.105</SECTNO>
+            <SUBJECT>Distributions to limited permittees.</SUBJECT>
+            <P>(a) [Reserved]</P>
+            <P>(b) <E T="03">Distributions to holders of limited permits on and after May 24, 2003.</E> (1) This section will apply in any case where distribution of explosive materials to the distributee is not otherwise prohibited by the Act or this part.</P>
+            <P>(2) A licensed importer, licensed manufacturer or a licensed dealer may distribute explosive materials to a holder of a limited permit if such permittee is a resident of the same State in which the licensee's business premises are located, the holder of the limited permit presents in person or by mail ATF Form 5400.4, Limited Permittee Transaction Report (LPTR), and the licensee completes Form 5400.4 in accordance with § 555.126(b). In no event will a licensee distribute explosive materials to a holder of a limited permit unless the holder presents a Form 5400.4 with an original unaltered and unexpired Intrastate Purchase of Explosives Coupon (IPEC), ATF Form 5400.30, affixed. The coupon must bear the name, address, permit number, and the coupon number of the limited permittee seeking distribution of the explosives.</P>
+            <P>(3) A holder of a limited permit is authorized to receive explosive materials from a licensee or permittee whose premises are located in the same State of residence in which the premises of the holder of the limited permit are located on no more than 6 separate occasions during the one-year period of the permit. For purposes of this section, the term “6 separate occasions” means six deliveries of explosive materials. Each delivery must—</P>
+
+            <P>(i) Relate to a single purchase transaction made on one ATF F 5400.4;<PRTPAGE P="145"/>
+            </P>
+            <P>(ii) Be referenced on one commercial invoice or purchase order; and</P>
+            <P>(iii) Be delivered to the holder of the limited permit in one shipment delivered at the same time.</P>
+
+            <P>(4) A holder of a user permit may dispose of surplus stocks of explosive materials to a licensee or holder of a user permit, or a holder of a limited permit who is a resident of the same State in which the premises of the holder of the user permit are located. A holder of a limited permit may dispose of surplus stocks of explosive materials to another holder of a limited permit who is a resident of the same State in which the premises of the distributor are located, if the transaction complies with the requirements of paragraph (b)(2) of this section and § 555.126(b). A holder of a limited permit may also dispose of surplus stocks of explosive materials to a licensee or holder of a user permit if the disposition occurs in the State of residence of the holder of the limited permit. (<E T="03">See</E> § 555.103.)</P>
+            <P>(5) Each holder of a limited permit ordering explosive materials must furnish the distributing licensee prior to or with the first order of the explosive materials a current list of the names of employees authorized to accept delivery of explosive materials on behalf of the limited permittee. The distributee ordering explosive materials must keep the list current and provide updated lists to licensees and holders of user permits on a timely basis. A licensed importer, licensed manufacturer, licensed dealer, or permittee, selling or otherwise distributing explosive materials to a holder of a limited permit must, prior to delivering the explosive materials, obtain from the limited permittee a current list of persons who are authorized to accept deliveries of explosive materials on behalf of the limited permittee. A licensee or permittee may not deliver explosive materials to a person whose name does not appear on the list.</P>
+            <P>(6)(i) <E T="03">Delivery at the distributor's premises.</E> Where possession of explosive materials is transferred directly to the distributee at the distributor's premises, the distributor must obtain an executed Form 5400.4 in accordance with § 555.126(b) and must in all instances verify the identity of the person accepting possession on behalf of the distributee by examining an identification document (as defined in § 555.11) before relinquishing possession.</P>
+            <P>(ii) <E T="03">Delivery by distributor.</E> Where possession of explosive materials is transferred by the distributor to the distributee away from the distributor's premises, the distributor must obtain an executed Form 5400.4 in accordance with § 555.126(b) and must in all instances verify the identity of the person accepting possession on behalf of the distributee by examining an identification document (as defined in § 555.11) before relinquishing possession.</P>
+            <P>(iii) <E T="03">Delivery by common or contract carrier hired by the distributor.</E> Where a common or contract carrier hired by the distributor will transport explosive materials from the distributor to a holder of a limited permit:</P>
+            <P>(A) The limited permittee must, prior to delivery of the explosive materials, complete the appropriate section on Form 5400.4, affix to the Form 5400.4 one of the six IPECs he has been issued, and provide the form to the distributor in person or by mail.</P>
+            <P>(B) The distributor must, before relinquishing possession of the explosive materials to the common or contract carrier:</P>
+            <P>(<E T="03">1</E>) Verify the identity of the person accepting possession for the common or contract carrier by examining such person's valid, unexpired driver's license issued by any State, Canada, or Mexico; and</P>
+            <P>(<E T="03">2</E>) Record the name of the common or contract carrier (<E T="03">i.e.,</E> the name of the driver's employer) and the full name of the driver. This information must be maintained in the distributor's permanent records in accordance with § 555.121.</P>
+            <P>(C) At the time of delivery of the explosive materials, the common or contract carrier, as agent for the distributor, must verify the identity of the person accepting delivery on behalf of the distributee, note the type and number of the identification document (as defined in § 555.11) and provide this information to the distributor. The distributor must enter this information in the appropriate section on Form 5400.4.</P>
+            <P>(iv) <E T="03">Delivery by common or contract carrier hired by the distributee.</E> Where a <PRTPAGE P="146"/>common or contract carrier hired by the distributee will transport explosive materials from the distributor to a holder of a limited permit:</P>
+            <P>(A) The limited permittee must, prior to delivery of the explosive materials, complete the appropriate section on Form 5400.4, affix to the Form 5400.4 one of the six IPECs he has been issued, and provide the form to the distributor in person or by mail.</P>
+            <P>(B) Before the delivery at the distributor's premises to the common or contract carrier who will transport explosive materials to the holder of a limited permit, the distributor must:</P>
+            <P>(<E T="03">1</E>) Verify the identity of the person accepting possession for the common or contract carrier by examining such person's valid, unexpired driver's license issued by any State, Canada, or Mexico; and</P>
+            <P>(<E T="03">2</E>) Record the name of the common or contract carrier (<E T="03">i.e.,</E> the name of the driver's employer) and the full name of the driver. This information must be maintained in the distributor's permanent records in accordance with § 555.121.</P>
+            <P>(7) A licensee or permittee disposing of surplus stock may sell or distribute commercially manufactured black powder in quantities of 50 pounds or less to a holder of a limited permit, nonlicensee, or nonpermittee if the black powder is intended to be used solely for sporting, recreational, or cultural purposes in antique firearms as defined in 18 U.S.C. 921(a)(16), or in antique devices as exempted from the term “destructive device” in 18 U.S.C. 921(a)(4).</P>
+            <APPRO>(Approved by the Office of Management and Budget under control number 1140-0075)</APPRO>
+            <CITA>[ATF No. 1, 68 FR 13788, Mar. 20, 2003, as amended by ATF No. 2, 68 FR 53513, Sept. 11, 2003]</CITA>
+          </SECTION>
         </REGTEXT>
         <SECTION>
           <SECTNO>§ 555.125 </SECTNO>
           <SUBJECT> [Amended]</SUBJECT>
         </SECTION>
         <REGTEXT PART="555" TITLE="27">
-          <AMDPAR>14. Amend § 555.125 by removing and reserving paragraph (a).</AMDPAR>
+          <AMDPAR>14. Section § 555.125 is revised to read</AMDPAR>
+          <SECTION>
+            <SECTNO>§ 555.125</SECTNO>
+            <SUBJECT>Records maintained by permittees.</SUBJECT>
+            <P>(a) [Reserved]</P>
+            <P>(b) <E T="03">Records maintained by permittees on and after May 24, 2003.</E> (1) Each holder of a user permit must take true and accurate physical inventories that will include all explosive materials on hand required to be accounted for in the records kept under this part. The permittee must take a special inventory—</P>
+            <P>(i) At the time of commencing business, which is the effective date of the permit issued upon original qualification under this part;</P>
+            <P>(ii) At the time of changing the location of his premises;</P>
+            <P>(iii) At the time of discontinuing business; and</P>
+
+            <P>(iv) At any other time the Director, Industry Operations may in writing require. Each special inventory is to be prepared in duplicate, the original of which is submitted to the Director, Industry Operations and the duplicate retained by the permittee. If a special inventory required by paragraphs (b)(1)(i) through (iv) of this section has not been taken during the calendar year, a permittee is required to take at least one physical inventory. The record of the yearly inventory, other than a special inventory required by paragraphs (b)(1)(i) through (iv) of this section, will remain on file for inspection instead of being sent to the Director, Industry Operations. (<E T="03">See</E> also § 555.127.)</P>
+            <P>(2) Each holder of a limited permit must take true and accurate physical inventories, at least annually, that will include all explosive materials on hand required to be accounted for in the records kept under this part.</P>
+            <P>(3) Each holder of a user permit or a limited permit must, not later than the close of the next business day following the date of acquisition of explosive materials, enter the following information in a separate record:</P>
+            <P>(i) Date of acquisition;</P>
+            <P>(ii) Name or brand name of manufacturer;</P>
+            <P>(iii) Manufacturer's marks of identification;<PRTPAGE P="154"/>
+            </P>
+            <P>(iv) Quantity (applicable quantity units, such as pounds of explosives, number of detonators, number of display fireworks, etc.);</P>
+            <P>(v) Description (dynamite (dyn), blasting agents (ba), detonators (det), display fireworks (df), etc., and size (length and diameter or diameter only of display fireworks)); and</P>
+            <P>(vi) Name, address, and license number of the persons from whom the explosive materials are received.</P>
+            <P>(4) Each holder of a user permit or a limited permit must, not later than the close of the next business day following the date of disposition of surplus explosive materials to another permittee or a licensee, enter in a separate record the information prescribed in § 555.124(c).</P>
+            <P>(5) When a record book is used as a permittee's permanent record the permittee may delay entry of the required information for a period not to exceed seven days if the commercial record contains all of the required information prescribed by paragraphs (b)(3) and (b)(4) of this section. However, the commercial record may be used instead of a record book as a permanent record provided that the record contains all of the required information prescribed by paragraphs (b)(3) and (b)(4) of this section.</P>
+            <P>(6) Each holder of a user permit or a limited permit must maintain separate records of disposition of surplus stocks of explosive materials to holders of a limited permit as prescribed in § 555.126.</P>
+            <P>(7) The Chief, Explosives Industry Programs Branch may authorize alternate records to be maintained by a holder of a user permit or a limited permit to record his acquisition of explosive materials, when it is shown by the permittee that alternate records will accurately and readily disclose the required information. A permittee who proposes to use alternate records must submit a letter application to the Chief, Explosives Industry Programs Branch and must describe the proposed alternate records and the need for them. Alternate records are not to be employed by the permittee until approval is received from the Chief, Explosives Industry Programs Branch.</P>
+            <APPRO>(Approved by the Office of Management and Budget under control number 1140-0030)</APPRO>
+            <CITA>[ATF No. 1, 68 FR 13790, Mar. 20, 2003, as amended by ATF 2013R-9F, 79 FR 46694, Aug. 11, 2014]</CITA>
+          </SECTION>
         </REGTEXT>
         <SECTION>
           <PRTPAGE P="13800"/>
@@ -224,68 +572,1464 @@
           <SUBJECT> [Amended]</SUBJECT>
         </SECTION>
         <REGTEXT PART="555" TITLE="27">
-          <AMDPAR>15. Amend § 555.126 by removing “Explosives transaction record for distribution of explosive materials prior to May 24, 2003 and” and “on and after May 24, 2003” from the section heading and removing and reserving paragraph (a).</AMDPAR>
+          <AMDPAR>15. Section § 555.126 is revised to read</AMDPAR>
+          <SECTION>
+            <SECTNO>§ 555.126</SECTNO>
+            <SUBJECT>Limited Permittee Transaction Report for distribution of explosive materials.</SUBJECT>
+            <P>(a) [Reserved]</P>
+            <P>(b) <E T="03">Limited Permittee Transaction Report for distribution of explosive materials on and after May 24, 2003.</E> (1) A licensee or permittee may not distribute explosive materials to any person who is not a licensee or permittee. A licensee or permittee may not distribute explosive materials to a limited permittee unless the distributor records the transaction on ATF Form 5400.4, Limited Permittee Transaction Report.</P>
+            <P>(2) Before distributing explosive materials to a limited permittee, the licensee or permittee must obtain an executed Form 5400.4 from the limited permittee with an original unaltered and unexpired Intrastate Purchase of Explosives Coupon (IPEC) affixed. Except when delivery of explosive materials is made by a common or contract carrier who is an agent of the limited permittee, the licensee, permittee, or an agent of the licensee or permittee, must verify the identity of the holder of the limited permit by examining an identification document (as defined in § 555.11) and noting on the Form 5400.4 the type of document presented. The licensee or permittee must complete the appropriate section on Form 5400.4 to indicate the type and quantity of explosive materials distributed, the license or permit number of the seller, and the date of the transaction. The licensee or permittee must sign and date the form and include any other information required by the instructions on the form and the regulations in this part.</P>
+            <P>(3) One copy of Form 5400.4 must be retained by the distributor as part of his permanent records in accordance with paragraph (b)(4) of this section and for the period specified in § 555.121. The distributor must mail the other copy of Form 5400.4 to the Bureau of Alcohol, Tobacco, Firearms and Explosives in accordance with the instructions on the form.</P>
+            <P>(4) Each Form 5400.4 must be retained in chronological order by date of disposition, or in alphabetical order by name of limited permittee. A licensee may not, however, use both methods in a single recordkeeping system. Where there is a change in proprietorship by a limited permittee, the forms may continue to be filed together after such change.</P>
+            <P>(5) The requirements of this section are in addition to any other recordkeeping requirement contained in this part.</P>
+            <APPRO>(Approved by the Office of Management and Budget under control number 1140-0078)</APPRO>
+            <CITA>[T.D. ATF-87, 46 FR 40384, Aug. 7, 1981, as amended by T.D. ATF-93, 46 FR 50787, Oct. 15, 1981; T.D. ATF-172, 49 FR 14941, Apr. 16, 1984; T.D. ATF-446, 66 FR 16602, Mar. 27, 2001; ATF No. 1, 68 FR 13791, Mar. 20, 2003; ATF 2013R-9F, 79 FR 46694, Aug. 11, 2014]</CITA>
+          </SECTION>
         </REGTEXT>
         <SECTION>
           <SECTNO>§ 555.142 </SECTNO>
           <SUBJECT> [Amended]</SUBJECT>
         </SECTION>
         <REGTEXT PART="555" TITLE="27">
-          <AMDPAR>16. In § 555.142, remove “(effective January 24, 2003)” from the section heading.</AMDPAR>
+          <AMDPAR>16. Section § 555.142 is revised to read</AMDPAR>
+          <SECTION>
+            <SECTNO>§ 555.142</SECTNO>
+            <SUBJECT>Relief from disabilities.</SUBJECT>
+            <P>(a) Any person prohibited from shipping or transporting any explosive in or affecting interstate or foreign commerce or from receiving or possessing any explosive which has been shipped or transported in or affecting interstate or foreign commerce may make application for relief from disabilities under section 845(b) of the Act .</P>
+            <P>(b) An application for relief from disabilities must be filed with the Director by submitting ATF Form 5400.29, Application for Restoration of Explosives Privileges, in accordance with the instructions on the form. The application must be supported by appropriate data, including the information specified in paragraph (f) of this section. Upon receipt of an incomplete or improperly executed application for relief, the applicant will be notified of the deficiency in the application. If the application is not corrected and returned within 30 days following the date of notification, the application will be considered abandoned.</P>
+            <P>(c)(1) The Director may grant relief to an applicant if it is established to the satisfaction of the Director that the circumstances regarding the disability and the applicant's record and reputation are such that the applicant will not be likely to act in a manner dangerous to public safety and that the granting of such relief is not contrary to the public interest.</P>
+            <P>(2) Except as provided in paragraph (c)(3) of this section, the Director will not grant relief if the applicant—</P>
+            <P>(i) Has not been discharged from parole or probation for a period of at least 2 years;</P>
+            <P>(ii) Is a fugitive from justice;</P>
+            <P>(iii) Is a prohibited alien;</P>
+            <P>(iv) Is an unlawful user of or addicted to any controlled substance;</P>
+            <P>(v) Has been adjudicated a mental defective or committed to a mental institution, unless the applicant was subsequently determined by a court, board, commission, or other lawful authority to have been restored to mental competency, to be no longer suffering from a mental disorder, and to have had all rights restored; or</P>
+
+            <P>(vi) Is prohibited by the law of the State where the applicant resides from receiving or possessing explosive materials.<PRTPAGE P="158"/>
+            </P>
+            <P>(3)(i) The Director may grant relief to aliens who have been lawfully admitted to the United States or to persons who have not been discharged from parole or probation for a period of at least 2 years if he determines that the applicant has a compelling need to possess explosives, such as for purposes of employment.</P>
+            <P>(ii) The Director may grant relief to the persons identified in paragraph (c)(2) of this section in extraordinary circumstances where the granting of such relief is consistent with the public interest.</P>
+            <P>(d) A person who has been granted relief under this section is relieved of all disabilities imposed by the Act for the disabilities disclosed in the application. The granting of relief will not affect any disabilities incurred subsequent to the date the application was filed. Relief from disabilities granted to aliens will be effective only so long as the alien retains his or her lawful immigration status.</P>
+            <P>(e)(1) A licensee or permittee who is under indictment or information for, or convicted of, a crime punishable by imprisonment for a term exceeding one year during the term of a current license or permit, or while he has pending a license or permit renewal application, shall not be barred from licensed or permit operations for 30 days after the date of indictment or information or 30 days after the date upon which his conviction becomes final. Also, if he files his application for relief under this section within such 30 day period, he may further continue licensed or permit operations while his application is pending. A licensee or permittee who does not file an application within 30 days from the date of his indictment or information, or within 30 days from the date his conviction becomes final, shall not continue licensed or permit operations beyond 30 days from the date of his indictment or information or beyond 30 days from the date his conviction becomes final.</P>
+            <P>(2) In the event the term of a license or permit of a person expires during the 30 day period following the date of indictment of information of during the 30 day period after the date upon which his conviction becomes final or while his application for relief is pending, he shall file a timely application for renewal of his license or permit in order to continue licensed or permit operations. The license or permit application is to show that the applicant has been indicted or under information for, or convicted of, a crime punishable by imprisonment for a term exceeding one year.</P>
+            <P>(3) A licensee or permittee shall not continue licensed or permit operations beyond 30 days following the date the Director issues notification that the licensee's or permittee's application for removal of the disabilities resulting from an indictment, information or conviction has been denied.</P>
+            <P>(4) When a licensee or permittee may no longer continue licensed or permit operations under this section, any application for renewal of license of permit filed by the licensee or permittee while his application for removal of disabilities resulting from an indictment, information or conviction is pending, will be denied by the Director, Industry Operations.</P>
+            <P>(f)(1) Applications for relief from disabilities must include the following information:</P>
+            <P>(i) In the case of a corporation, or of any person having the power to direct or control the management of the corporation, information as to the absence of culpability in the offense for which the corporation, or any such person, was indicted, formally accused or convicted;</P>
+            <P>(ii) In the case of an applicant who is an individual, two properly completed FBI Forms FD-258 (fingerprint card), and a written statement from each of three references who are not related to the applicant by blood or marriage and have known the applicant for at least 3 years, recommending the granting of relief;</P>
+
+            <P>(iii) Written consent to examine and obtain copies of records and to receive statements and information regarding the applicant's background, including records, statements and other information concerning employment, medical history, military service, immigration status, and criminal record;<PRTPAGE P="159"/>
+            </P>
+
+            <P>(iv) In the case of an applicant having been convicted of a crime punishable by imprisonment for a term exceeding one year, a copy of the indictment or information on which the applicant was convicted, the judgment of conviction or record of any plea of <E T="03">nolo contendere</E> or plea of guilty or finding of guilt by the court;</P>
+            <P>(v) In the case of an applicant under indictment, a copy of the indictment or information;</P>
+            <P>(vi) In the case of an applicant who has been adjudicated a mental defective or committed to a mental institution, a copy of the order of a court, board, commission, or other lawful authority that made the adjudication or ordered the commitment, any petition that sought to have the applicant so adjudicated or committed, any medical records reflecting the reasons for commitment and diagnoses of the applicant, and any court order or finding of a court, board, commission, or other lawful authority showing the applicant's discharge from commitment, restoration of mental competency and the restoration of rights;</P>
+            <P>(vii) In the case of an applicant who has been discharged from the Armed Forces under dishonorable conditions, a copy of the applicant's Certificate of Release or Discharge from Active Duty (Department of Defense Form 214), Charge Sheet (Department of Defense Form 458), and final court martial order;</P>
+
+            <P>(viii) In the case of an applicant who, having been a citizen of the United States, has renounced his or her citizenship, a copy of the formal renunciation of nationality before a diplomatic or consular officer of the United States in a foreign state or before an officer designated by the Attorney General when the United States was in a state of war (<E T="03">see</E> 8 U.S.C. 1481(a)(5) and (6)); and</P>
+            <P>(ix) In the case of an applicant who is an alien, documentation that the applicant is an alien who has been lawfully admitted to the United States; certification from the applicant including the applicant's INS-issued alien number or admission number, country/countries of citizenship, and immigration status, and certifying that the applicant is legally authorized to work in the United States, or other purposes for which possession of explosives is required; certification from an appropriate law enforcement agency of the applicant's country of citizenship stating that the applicant does not have a criminal record; and, if applicable, certification from a Federal explosives licensee or permittee or other employer stating that the applicant is employed by the employer and must possess explosive materials for purposes of employment. These certifications must be submitted in English.</P>
+            <P>(2) Any record or document of a court or other government entity or official required by paragraph (f)(1) of this section must be certified by the court or other government entity or official as a true copy.</P>
+            <APPRO>(Approved by the Office of Management and Budget under control number 1140-0076)</APPRO>
+            <CITA>[T.D. ATF-87, 46 FR 40384, Aug. 7, 1981. Redesignated by T.D. ATF-487, 68 FR 3748, Jan. 24, 2003, as amended by ATF No. 1, 68 FR 13792, Mar. 20, 2003; ATF 2013R-9F, 79 FR 46694, Aug. 11, 2014]</CITA>
+          </SECTION>
         </REGTEXT>
         <SECTION>
           <SECTNO>§ 555.165 </SECTNO>
           <SUBJECT> [Amended]</SUBJECT>
         </SECTION>
         <REGTEXT PART="555" TITLE="27">
-          <AMDPAR>17. In § 555.165, remove “On and after January 24, 2003, any licensee or permittee” in paragraph (b) and add in its place “Any licensee or permittee”.</AMDPAR>
+          <AMDPAR>17. Section § 555.165 is revised to read</AMDPAR>
+          <SECTION>
+            <SECTNO>§ 555.165</SECTNO>
+            <SUBJECT>Failure to report theft or loss.</SUBJECT>
+            <P>(a) Any person who has knowledge of the theft or loss of any explosive materials from his stock and fails to report the theft or loss within 24 hours of discovery in accordance with § 555.30, shall be fined not more than $1,000 or imprisoned not more than one year, or both.</P>
+            <P>(b) Any licensee or permittee who fails to report a theft of explosive materials in accordance with § 555.30 will be fined under title 18 U.S.C., imprisoned not more than 5 years, or both.</P>
+            <CITA>[T.D. ATF-87, 46 FR 40384, Aug. 7, 1981, as amended by ATF No. 1, 68 FR 13793, Mar. 20, 2003]</CITA>
+          </SECTION>
         </REGTEXT>
         <SECTION>
           <SECTNO>§ 555.201 </SECTNO>
           <SUBJECT> [Amended]</SUBJECT>
         </SECTION>
         <REGTEXT PART="555" TITLE="27">
-          <AMDPAR>18. In § 555.201, remove and reserve paragraph (e).</AMDPAR>
+          <AMDPAR>18. Section § 555.201 is revised to read</AMDPAR>
+          <SECTION>
+            <SECTNO>§ 555.201</SECTNO>
+            <SUBJECT>General.</SUBJECT>
+            <P>(a) Section 842(j) of the Act and § 555.29 of this part require that the storage of explosive materials by any person must be in accordance with the regulations in this part. Further, section 846 of this Act authorizes regulations to prevent the recurrence of accidental explosions in which explosive materials were involved. The storage standards prescribed by this subpart confer no right or privileges to store explosive materials in a manner contrary to State or local law.</P>
+
+            <P>(b) The Director may authorize alternate construction for explosives storage magazines when it is shown that the alternate magazine construction is substantially equivalent to the standards of safety and security contained in this subpart. Any alternate explosive magazine construction approved by the Director prior to August 9, 1982, will continue as approved unless notified in writing by the Director. Any person intending to use alternate magazine construction shall submit a letter application to the Director, Industry Operations for transmittal to the Director, specifically describing the proposed magazine. Explosive materials may not be stored in alternate magazines before <PRTPAGE P="163"/>the applicant has been notified that the application has been approved.</P>
+            <P>(c) A licensee or permittee who intends to make changes in his magazines, or who intends to construct or acquire additional magazines, shall comply with § 555.63.</P>
+            <P>(d) The regulations set forth in §§ 555.221 through 555.224 pertain to the storage of display fireworks, pyrotechnic compositions, and explosive materials used in assembling fireworks and articles pyrotechnic.</P>
+
+            <P>(e) [Reserved]</P>
+            <P>(f) Any person who stores explosive materials shall notify the authority having jurisdiction for fire safety in the locality in which the explosive materials are being stored of the type, magazine capacity, and location of each site where such explosive materials are stored. Such notification shall be made orally before the end of the day on which storage of the explosive materials commenced and in writing within 48 hours from the time such storage commenced.</P>
+            <APPRO>(Paragraph (f) approved by the Office of Management and Budget under control number 1140-0071)</APPRO>
+            <CITA>[T.D. ATF-87, 46 FR 40384, Aug. 7, 1981, as amended by T.D. ATF-293, 55 FR 3722, Feb. 5, 1990; T.D. ATF-400, 63 FR 45003, Aug. 24, 1998; ATF-11F, 73 FR 57242, Oct. 2, 2008; ATF 2013R-9F, 79 FR 46694, Aug. 11, 2014]</CITA>
+          </SECTION>
         </REGTEXT>
         <SECTION>
           <SECTNO>§ 555.202 </SECTNO>
           <SUBJECT> [Amended]</SUBJECT>
         </SECTION>
         <REGTEXT PART="555" TITLE="27">
-          <AMDPAR>19. In § 555.202, remove “See also § 555.201(e).” in paragraph (a).</AMDPAR>
+          <AMDPAR>19. Section § 555.202 is revised to read</AMDPAR>
+          <SECTION>
+            <SECTNO>§ 555.202</SECTNO>
+            <SUBJECT>Classes of explosive materials.</SUBJECT>
+            <P>For purposes of this part, there are three classes of explosive materials. These classes, together with the description of explosive materials comprising each class, are as follows:</P>
+            <P>(a) <E T="03">High explosives.</E> Explosive materials which can be caused to detonate by means of a blasting cap when unconfined, (for example, dynamite, flash powders, and bulk salutes).</P>
+            <P>(b) <E T="03">Low explosives.</E> Explosive materials which can be caused to deflagrate when confined (for example, black powder, safety fuses, igniters, igniter cords, fuse lighters, and “display fireworks” classified as UN0333, UN0334, or UN0335 by the U.S. Department of Transportation regulations at 49 CFR 172.101, except for bulk salutes).</P>
+            <P>(c) <E T="03">Blasting agents.</E> (For example, ammonium nitrate-fuel oil and certain water-gels (see also § 555.11).</P>
+            <CITA>[T.D. ATF-87, 46 FR 40384, Aug. 7, 1981, as amended by T.D. ATF-293, 55 FR 3722, Feb. 5, 1990; T.D. ATF-400, 63 FR 45003, Aug. 24, 1998]</CITA>
+          </SECTION>
         </REGTEXT>
         <SECTION>
           <SECTNO>§ 555.218 </SECTNO>
           <SUBJECT> [Amended]</SUBJECT>
         </SECTION>
         <REGTEXT PART="555" TITLE="27">
-          <AMDPAR>20. In § 555.218, remove “July, 1991” in the table heading and add in its place “June 1991”.</AMDPAR>
+          <AMDPAR>20. Section § 555.218 is revised to read</AMDPAR>
+          <SECTION>
+            <SECTNO>§ 555.218</SECTNO>
+            <SUBJECT>Table of distances for storage of explosive materials.</SUBJECT>
+            <GPOTABLE CDEF="7,7,5,5,5,5,6,6,5,5" COLS="10" OPTS="L2">
+            <BOXHD>
+                <CHED H="1">Quantity of explosives</CHED>
+                <CHED H="2">Pounds over</CHED>
+                <CHED H="2">Pounds not over</CHED>
+                <CHED H="1">Distances in feet</CHED>
+                <CHED H="2">Inhabited buildings</CHED>
+                <CHED H="3">Barricaded</CHED>
+                <CHED H="3">Unbarricaded</CHED>
+                <CHED H="2">Public highways with traffic volume of 3000 or fewer vehicles/day</CHED>
+                <CHED H="3">Barricaded</CHED>
+                <CHED H="3">Unbarricaded</CHED>
+                <CHED H="2">Passenger railways—public highways with traffic volume of more than 3,000 vehicles/day</CHED>
+                <CHED H="3">Barricaded</CHED>
+                <CHED H="3">Unbarricaded</CHED>
+                <CHED H="2">Separation of magazines</CHED>
+                <CHED H="3">Barricaded</CHED>
+                <CHED H="3">Unbarricaded</CHED>
+            </BOXHD>
+            <ROW>
+                <ENT I="01">0</ENT>
+                <ENT>5</ENT>
+                <ENT>70</ENT>
+                <ENT>140</ENT>
+                <ENT>30</ENT>
+                <ENT>60</ENT>
+                <ENT>51</ENT>
+                <ENT>102</ENT>
+                <ENT>6</ENT>
+                <ENT>12</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">5</ENT>
+                <ENT>10</ENT>
+                <ENT>90</ENT>
+                <ENT>180</ENT>
+                <ENT>35</ENT>
+                <ENT>70</ENT>
+                <ENT>64</ENT>
+                <ENT>128</ENT>
+                <ENT>8</ENT>
+                <ENT>16</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">10</ENT>
+                <ENT>20</ENT>
+                <ENT>110</ENT>
+                <ENT>220</ENT>
+                <ENT>45</ENT>
+                <ENT>90</ENT>
+                <ENT>81</ENT>
+                <ENT>162</ENT>
+                <ENT>10</ENT>
+                <ENT>20</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">20</ENT>
+                <ENT>30</ENT>
+                <ENT>125</ENT>
+                <ENT>250</ENT>
+                <ENT>50</ENT>
+                <ENT>100</ENT>
+                <ENT>93</ENT>
+                <ENT>186</ENT>
+                <ENT>11</ENT>
+                <ENT>22</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">30</ENT>
+                <ENT>40</ENT>
+                <ENT>140</ENT>
+                <ENT>280</ENT>
+                <ENT>55</ENT>
+                <ENT>110</ENT>
+                <ENT>103</ENT>
+                <ENT>206</ENT>
+                <ENT>12</ENT>
+                <ENT>24</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">40</ENT>
+                <ENT>50</ENT>
+                <ENT>150</ENT>
+                <ENT>300</ENT>
+                <ENT>60</ENT>
+                <ENT>120</ENT>
+                <ENT>110</ENT>
+                <ENT>220</ENT>
+                <ENT>14</ENT>
+                <ENT>28</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">50</ENT>
+                <ENT>75</ENT>
+                <ENT>170</ENT>
+                <ENT>340</ENT>
+                <ENT>70</ENT>
+                <ENT>140</ENT>
+                <ENT>127</ENT>
+                <ENT>254</ENT>
+                <ENT>15</ENT>
+                <ENT>30</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">75</ENT>
+                <ENT>100</ENT>
+                <ENT>190</ENT>
+                <ENT>380</ENT>
+                <ENT>75</ENT>
+                <ENT>150</ENT>
+                <ENT>139</ENT>
+                <ENT>278</ENT>
+                <ENT>16</ENT>
+                <ENT>32</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">100</ENT>
+                <ENT>125</ENT>
+                <ENT>200</ENT>
+                <ENT>400</ENT>
+                <ENT>80</ENT>
+                <ENT>160</ENT>
+                <ENT>150</ENT>
+                <ENT>300</ENT>
+                <ENT>18</ENT>
+                <ENT>36</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">125</ENT>
+                <ENT>150</ENT>
+                <ENT>215</ENT>
+                <ENT>430</ENT>
+                <ENT>85</ENT>
+                <ENT>170</ENT>
+                <ENT>159</ENT>
+                <ENT>318</ENT>
+                <ENT>19</ENT>
+                <ENT>38</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">150</ENT>
+                <ENT>200</ENT>
+                <ENT>235</ENT>
+                <ENT>470</ENT>
+                <ENT>95</ENT>
+                <ENT>190</ENT>
+                <ENT>175</ENT>
+                <ENT>350</ENT>
+                <ENT>21</ENT>
+                <ENT>42</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">200</ENT>
+                <ENT>250</ENT>
+                <ENT>255</ENT>
+                <ENT>510</ENT>
+                <ENT>105</ENT>
+                <ENT>210</ENT>
+                <ENT>189</ENT>
+                <ENT>378</ENT>
+                <ENT>23</ENT>
+                <ENT>46</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">250</ENT>
+                <ENT>300</ENT>
+                <ENT>270</ENT>
+                <ENT>540</ENT>
+                <ENT>110</ENT>
+                <ENT>220</ENT>
+                <ENT>201</ENT>
+                <ENT>402</ENT>
+                <ENT>24</ENT>
+                <ENT>48</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">300</ENT>
+                <ENT>400</ENT>
+                <ENT>295</ENT>
+                <ENT>590</ENT>
+                <ENT>120</ENT>
+                <ENT>240</ENT>
+                <ENT>221</ENT>
+                <ENT>442</ENT>
+                <ENT>27</ENT>
+                <ENT>54</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">400</ENT>
+                <ENT>500</ENT>
+                <ENT>320</ENT>
+                <ENT>640</ENT>
+                <ENT>130</ENT>
+                <ENT>260</ENT>
+                <ENT>238</ENT>
+                <ENT>476</ENT>
+                <ENT>29</ENT>
+                <ENT>58</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">500</ENT>
+                <ENT>600</ENT>
+                <ENT>340</ENT>
+                <ENT>680</ENT>
+                <ENT>135</ENT>
+                <ENT>270</ENT>
+                <ENT>253</ENT>
+                <ENT>506</ENT>
+                <ENT>31</ENT>
+                <ENT>62</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">600</ENT>
+                <ENT>700</ENT>
+                <ENT>355</ENT>
+                <ENT>710</ENT>
+                <ENT>145</ENT>
+                <ENT>290</ENT>
+                <ENT>266</ENT>
+                <ENT>532</ENT>
+                <ENT>32</ENT>
+                <ENT>64</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">700</ENT>
+                <ENT>800</ENT>
+                <ENT>375</ENT>
+                <ENT>750</ENT>
+                <ENT>150</ENT>
+                <ENT>300</ENT>
+                <ENT>278</ENT>
+                <ENT>556</ENT>
+                <ENT>33</ENT>
+                <ENT>66</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">800</ENT>
+                <ENT>900</ENT>
+                <ENT>390</ENT>
+                <ENT>780</ENT>
+                <ENT>155</ENT>
+                <ENT>310</ENT>
+                <ENT>289</ENT>
+                <ENT>578</ENT>
+                <ENT>35</ENT>
+                <ENT>70</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">900</ENT>
+                <ENT>1,000</ENT>
+                <ENT>400</ENT>
+                <ENT>800</ENT>
+                <ENT>160</ENT>
+                <ENT>320</ENT>
+                <ENT>300</ENT>
+                <ENT>600</ENT>
+                <ENT>36</ENT>
+                <ENT>72</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">1,000</ENT>
+                <ENT>1,200</ENT>
+                <ENT>425</ENT>
+                <ENT>850</ENT>
+                <ENT>165</ENT>
+                <ENT>330</ENT>
+                <ENT>318</ENT>
+                <ENT>636</ENT>
+                <ENT>39</ENT>
+                <ENT>78</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">1,200</ENT>
+                <ENT>1,400</ENT>
+                <ENT>450</ENT>
+                <ENT>900</ENT>
+                <ENT>170</ENT>
+                <ENT>340</ENT>
+                <ENT>336</ENT>
+                <ENT>672</ENT>
+                <ENT>41</ENT>
+                <ENT>82</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">1,400</ENT>
+                <ENT>1,600</ENT>
+                <ENT>470</ENT>
+                <ENT>940</ENT>
+                <ENT>175</ENT>
+                <ENT>350</ENT>
+                <ENT>351</ENT>
+                <ENT>702</ENT>
+                <ENT>43</ENT>
+                <ENT>86</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">1,600</ENT>
+                <ENT>1,800</ENT>
+                <ENT>490</ENT>
+                <ENT>980</ENT>
+                <ENT>180</ENT>
+                <ENT>360</ENT>
+                <ENT>366</ENT>
+                <ENT>732</ENT>
+                <ENT>44</ENT>
+                <ENT>88</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">1,800</ENT>
+                <ENT>2,000</ENT>
+                <ENT>505</ENT>
+                <ENT>1,010</ENT>
+                <ENT>185</ENT>
+                <ENT>370</ENT>
+                <ENT>378</ENT>
+                <ENT>756</ENT>
+                <ENT>45</ENT>
+                <ENT>90</ENT>
+            </ROW>
+            <ROW>
+                <PRTPAGE P="171"/>
+                <ENT I="01">2,000</ENT>
+                <ENT>2,500</ENT>
+                <ENT>545</ENT>
+                <ENT>1,090</ENT>
+                <ENT>190</ENT>
+                <ENT>380</ENT>
+                <ENT>408</ENT>
+                <ENT>816</ENT>
+                <ENT>49</ENT>
+                <ENT>98</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">2,500</ENT>
+                <ENT>3,000</ENT>
+                <ENT>580</ENT>
+                <ENT>1,160</ENT>
+                <ENT>195</ENT>
+                <ENT>390</ENT>
+                <ENT>432</ENT>
+                <ENT>864</ENT>
+                <ENT>52</ENT>
+                <ENT>104</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">3,000</ENT>
+                <ENT>4,000</ENT>
+                <ENT>635</ENT>
+                <ENT>1,270</ENT>
+                <ENT>210</ENT>
+                <ENT>420</ENT>
+                <ENT>474</ENT>
+                <ENT>948</ENT>
+                <ENT>58</ENT>
+                <ENT>116</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">4,000</ENT>
+                <ENT>5,000</ENT>
+                <ENT>685</ENT>
+                <ENT>1,370</ENT>
+                <ENT>225</ENT>
+                <ENT>450</ENT>
+                <ENT>513</ENT>
+                <ENT>1,026</ENT>
+                <ENT>61</ENT>
+                <ENT>122</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">5,000</ENT>
+                <ENT>6,000</ENT>
+                <ENT>730</ENT>
+                <ENT>1,460</ENT>
+                <ENT>235</ENT>
+                <ENT>470</ENT>
+                <ENT>546</ENT>
+                <ENT>1,092</ENT>
+                <ENT>65</ENT>
+                <ENT>130</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">6,000</ENT>
+                <ENT>7,000</ENT>
+                <ENT>770</ENT>
+                <ENT>1,540</ENT>
+                <ENT>245</ENT>
+                <ENT>490</ENT>
+                <ENT>573</ENT>
+                <ENT>1,146</ENT>
+                <ENT>68</ENT>
+                <ENT>136</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">7,000</ENT>
+                <ENT>8,000</ENT>
+                <ENT>800</ENT>
+                <ENT>1,600</ENT>
+                <ENT>250</ENT>
+                <ENT>500</ENT>
+                <ENT>600</ENT>
+                <ENT>1,200</ENT>
+                <ENT>72</ENT>
+                <ENT>144</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">8,000</ENT>
+                <ENT>9,000</ENT>
+                <ENT>835</ENT>
+                <ENT>1,670</ENT>
+                <ENT>255</ENT>
+                <ENT>510</ENT>
+                <ENT>624</ENT>
+                <ENT>1,248</ENT>
+                <ENT>75</ENT>
+                <ENT>150</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">9,000</ENT>
+                <ENT>10,000</ENT>
+                <ENT>865</ENT>
+                <ENT>1,730</ENT>
+                <ENT>260</ENT>
+                <ENT>520</ENT>
+                <ENT>645</ENT>
+                <ENT>1,290</ENT>
+                <ENT>78</ENT>
+                <ENT>156</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">10,000</ENT>
+                <ENT>12,000</ENT>
+                <ENT>875</ENT>
+                <ENT>1,750</ENT>
+                <ENT>270</ENT>
+                <ENT>540</ENT>
+                <ENT>687</ENT>
+                <ENT>1,374</ENT>
+                <ENT>82</ENT>
+                <ENT>164</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">12,000</ENT>
+                <ENT>14,000</ENT>
+                <ENT>885</ENT>
+                <ENT>1,770</ENT>
+                <ENT>275</ENT>
+                <ENT>550</ENT>
+                <ENT>723</ENT>
+                <ENT>1,446</ENT>
+                <ENT>87</ENT>
+                <ENT>174</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">14,000</ENT>
+                <ENT>16,000</ENT>
+                <ENT>900</ENT>
+                <ENT>1,800</ENT>
+                <ENT>280</ENT>
+                <ENT>560</ENT>
+                <ENT>756</ENT>
+                <ENT>1,512</ENT>
+                <ENT>90</ENT>
+                <ENT>180</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">16,000</ENT>
+                <ENT>18,000</ENT>
+                <ENT>940</ENT>
+                <ENT>1,880</ENT>
+                <ENT>285</ENT>
+                <ENT>570</ENT>
+                <ENT>786</ENT>
+                <ENT>1,572</ENT>
+                <ENT>94</ENT>
+                <ENT>188</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">18,000</ENT>
+                <ENT>20,000</ENT>
+                <ENT>975</ENT>
+                <ENT>1,950</ENT>
+                <ENT>290</ENT>
+                <ENT>580</ENT>
+                <ENT>813</ENT>
+                <ENT>1,626</ENT>
+                <ENT>98</ENT>
+                <ENT>196</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">20,000</ENT>
+                <ENT>25,000</ENT>
+                <ENT>1,055</ENT>
+                <ENT>2,000</ENT>
+                <ENT>315</ENT>
+                <ENT>630</ENT>
+                <ENT>876</ENT>
+                <ENT>1,752</ENT>
+                <ENT>105</ENT>
+                <ENT>210</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">25,000</ENT>
+                <ENT>30,000</ENT>
+                <ENT>1,130</ENT>
+                <ENT>2,000</ENT>
+                <ENT>340</ENT>
+                <ENT>680</ENT>
+                <ENT>933</ENT>
+                <ENT>1,866</ENT>
+                <ENT>112</ENT>
+                <ENT>224</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">30,000</ENT>
+                <ENT>35,000</ENT>
+                <ENT>1,205</ENT>
+                <ENT>2,000</ENT>
+                <ENT>360</ENT>
+                <ENT>720</ENT>
+                <ENT>981</ENT>
+                <ENT>1,962</ENT>
+                <ENT>119</ENT>
+                <ENT>238</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">35,000</ENT>
+                <ENT>40,000</ENT>
+                <ENT>1,275</ENT>
+                <ENT>2,000</ENT>
+                <ENT>380</ENT>
+                <ENT>760</ENT>
+                <ENT>1,026</ENT>
+                <ENT>2,000</ENT>
+                <ENT>124</ENT>
+                <ENT>248</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">40,000</ENT>
+                <ENT>45,000</ENT>
+                <ENT>1,340</ENT>
+                <ENT>2,000</ENT>
+                <ENT>400</ENT>
+                <ENT>800</ENT>
+                <ENT>1,068</ENT>
+                <ENT>2,000</ENT>
+                <ENT>129</ENT>
+                <ENT>258</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">45,000</ENT>
+                <ENT>50,000</ENT>
+                <ENT>1,400</ENT>
+                <ENT>2,000</ENT>
+                <ENT>420</ENT>
+                <ENT>840</ENT>
+                <ENT>1,104</ENT>
+                <ENT>2,000</ENT>
+                <ENT>135</ENT>
+                <ENT>270</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">50,000</ENT>
+                <ENT>55,000</ENT>
+                <ENT>1,460</ENT>
+                <ENT>2,000</ENT>
+                <ENT>440</ENT>
+                <ENT>880</ENT>
+                <ENT>1,140</ENT>
+                <ENT>2,000</ENT>
+                <ENT>140</ENT>
+                <ENT>280</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">55,000</ENT>
+                <ENT>60,000</ENT>
+                <ENT>1,515</ENT>
+                <ENT>2,000</ENT>
+                <ENT>455</ENT>
+                <ENT>910</ENT>
+                <ENT>1,173</ENT>
+                <ENT>2,000</ENT>
+                <ENT>145</ENT>
+                <ENT>290</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">60,000</ENT>
+                <ENT>65,000</ENT>
+                <ENT>1,565</ENT>
+                <ENT>2,000</ENT>
+                <ENT>470</ENT>
+                <ENT>940</ENT>
+                <ENT>1,206</ENT>
+                <ENT>2,000</ENT>
+                <ENT>150</ENT>
+                <ENT>300</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">65,000</ENT>
+                <ENT>70,000</ENT>
+                <ENT>1,610</ENT>
+                <ENT>2,000</ENT>
+                <ENT>485</ENT>
+                <ENT>970</ENT>
+                <ENT>1,236</ENT>
+                <ENT>2,000</ENT>
+                <ENT>155</ENT>
+                <ENT>310</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">70,000</ENT>
+                <ENT>75,000</ENT>
+                <ENT>1,655</ENT>
+                <ENT>2,000</ENT>
+                <ENT>500</ENT>
+                <ENT>1,000</ENT>
+                <ENT>1,263</ENT>
+                <ENT>2,000</ENT>
+                <ENT>160</ENT>
+                <ENT>320</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">75,000</ENT>
+                <ENT>80,000</ENT>
+                <ENT>1,695</ENT>
+                <ENT>2,000</ENT>
+                <ENT>510</ENT>
+                <ENT>1,020</ENT>
+                <ENT>1,293</ENT>
+                <ENT>2,000</ENT>
+                <ENT>165</ENT>
+                <ENT>330</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">80,000</ENT>
+                <ENT>85,000</ENT>
+                <ENT>1,730</ENT>
+                <ENT>2,000</ENT>
+                <ENT>520</ENT>
+                <ENT>1,040</ENT>
+                <ENT>1,317</ENT>
+                <ENT>2,000</ENT>
+                <ENT>170</ENT>
+                <ENT>340</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">85,000</ENT>
+                <ENT>90,000</ENT>
+                <ENT>1,760</ENT>
+                <ENT>2,000</ENT>
+                <ENT>530</ENT>
+                <ENT>1,060</ENT>
+                <ENT>1,344</ENT>
+                <ENT>2,000</ENT>
+                <ENT>175</ENT>
+                <ENT>350</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">90,000</ENT>
+                <ENT>95,000</ENT>
+                <ENT>1,790</ENT>
+                <ENT>2,000</ENT>
+                <ENT>540</ENT>
+                <ENT>1,080</ENT>
+                <ENT>1,368</ENT>
+                <ENT>2,000</ENT>
+                <ENT>180</ENT>
+                <ENT>360</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">95,000</ENT>
+                <ENT>100,000</ENT>
+                <ENT>1,815</ENT>
+                <ENT>2,000</ENT>
+                <ENT>545</ENT>
+                <ENT>1,090</ENT>
+                <ENT>1,392</ENT>
+                <ENT>2,000</ENT>
+                <ENT>185</ENT>
+                <ENT>370</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">100,000</ENT>
+                <ENT>110,000</ENT>
+                <ENT>1,835</ENT>
+                <ENT>2,000</ENT>
+                <ENT>550</ENT>
+                <ENT>1,100</ENT>
+                <ENT>1,437</ENT>
+                <ENT>2,000</ENT>
+                <ENT>195</ENT>
+                <ENT>390</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">110,000</ENT>
+                <ENT>120,000</ENT>
+                <ENT>1,855</ENT>
+                <ENT>2,000</ENT>
+                <ENT>555</ENT>
+                <ENT>1,110</ENT>
+                <ENT>1,479</ENT>
+                <ENT>2,000</ENT>
+                <ENT>205</ENT>
+                <ENT>410</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">120,000</ENT>
+                <ENT>130,000</ENT>
+                <ENT>1,875</ENT>
+                <ENT>2,000</ENT>
+                <ENT>560</ENT>
+                <ENT>1,120</ENT>
+                <ENT>1,521</ENT>
+                <ENT>2,000</ENT>
+                <ENT>215</ENT>
+                <ENT>430</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">130,000</ENT>
+                <ENT>140,000</ENT>
+                <ENT>1,890</ENT>
+                <ENT>2,000</ENT>
+                <ENT>565</ENT>
+                <ENT>1,130</ENT>
+                <ENT>1,557</ENT>
+                <ENT>2,000</ENT>
+                <ENT>225</ENT>
+                <ENT>450</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">140,000</ENT>
+                <ENT>150,000</ENT>
+                <ENT>1,900</ENT>
+                <ENT>2,000</ENT>
+                <ENT>570</ENT>
+                <ENT>1,140</ENT>
+                <ENT>1,593</ENT>
+                <ENT>2,000</ENT>
+                <ENT>235</ENT>
+                <ENT>470</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">150,000</ENT>
+                <ENT>160,000</ENT>
+                <ENT>1,935</ENT>
+                <ENT>2,000</ENT>
+                <ENT>580</ENT>
+                <ENT>1,160</ENT>
+                <ENT>1,629</ENT>
+                <ENT>2,000</ENT>
+                <ENT>245</ENT>
+                <ENT>490</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">160,000</ENT>
+                <ENT>170,000</ENT>
+                <ENT>1,965</ENT>
+                <ENT>2,000</ENT>
+                <ENT>590</ENT>
+                <ENT>1,180</ENT>
+                <ENT>1,662</ENT>
+                <ENT>2,000</ENT>
+                <ENT>255</ENT>
+                <ENT>510</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">170,000</ENT>
+                <ENT>180,000</ENT>
+                <ENT>1,990</ENT>
+                <ENT>2,000</ENT>
+                <ENT>600</ENT>
+                <ENT>1,200</ENT>
+                <ENT>1,695</ENT>
+                <ENT>2,000</ENT>
+                <ENT>265</ENT>
+                <ENT>530</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">180,000</ENT>
+                <ENT>190,000</ENT>
+                <ENT>2,010</ENT>
+                <ENT>2,010</ENT>
+                <ENT>605</ENT>
+                <ENT>1,210</ENT>
+                <ENT>1,725</ENT>
+                <ENT>2,000</ENT>
+                <ENT>275</ENT>
+                <ENT>550</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">190,000</ENT>
+                <ENT>200,000</ENT>
+                <ENT>2,030</ENT>
+                <ENT>2,030</ENT>
+                <ENT>610</ENT>
+                <ENT>1,220</ENT>
+                <ENT>1,755</ENT>
+                <ENT>2,000</ENT>
+                <ENT>285</ENT>
+                <ENT>570</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">200,000</ENT>
+                <ENT>210,000</ENT>
+                <ENT>2,055</ENT>
+                <ENT>2,055</ENT>
+                <ENT>620</ENT>
+                <ENT>1,240</ENT>
+                <ENT>1,782</ENT>
+                <ENT>2,000</ENT>
+                <ENT>295</ENT>
+                <ENT>590</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">210,000</ENT>
+                <ENT>230,000</ENT>
+                <ENT>2,100</ENT>
+                <ENT>2,100</ENT>
+                <ENT>635</ENT>
+                <ENT>1,270</ENT>
+                <ENT>1,836</ENT>
+                <ENT>2,000</ENT>
+                <ENT>315</ENT>
+                <ENT>630</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">230,000</ENT>
+                <ENT>250,000</ENT>
+                <ENT>2,155</ENT>
+                <ENT>2,155</ENT>
+                <ENT>650</ENT>
+                <ENT>1,300</ENT>
+                <ENT>1,890</ENT>
+                <ENT>2,000</ENT>
+                <ENT>335</ENT>
+                <ENT>670</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">250,000</ENT>
+                <ENT>275,000</ENT>
+                <ENT>2,215</ENT>
+                <ENT>2,215</ENT>
+                <ENT>670</ENT>
+                <ENT>1,340</ENT>
+                <ENT>1,950</ENT>
+                <ENT>2,000</ENT>
+                <ENT>360</ENT>
+                <ENT>720</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">275,000</ENT>
+                <ENT>300,000</ENT>
+                <ENT>2,275</ENT>
+                <ENT>2,275</ENT>
+                <ENT>690</ENT>
+                <ENT>1,380</ENT>
+                <ENT>2,000</ENT>
+                <ENT>2,000</ENT>
+                <ENT>385</ENT>
+                <ENT>770</ENT>
+            </ROW>
+            </GPOTABLE>
+            <EXTRACT>
+            <HD SOURCE="HD1">Table: American Table of Distances for Storage of Explosives (December 1910), as Revised and Approved by the Institute of Makers of Explosives—June 1991.</HD>
+            <HD SOURCE="HD2">Notes to the Table of Distances for Storage of Explosives</HD>
+            <P>(1) Terms found in the table of distances for storage of explosive materials are defined in § 555.11.</P>
+
+            <P>(2) When two or more storage magazines are located on the same property, each magazine must comply with the minimum distances specified from inhabited buildings, railways, and highways, and, in addition, they should be separated from each other by not less than the distances shown for “Separation of Magazines,” except that the quantity of explosives contained in cap magazines shall govern in regard to the spacing of said cap magazines from magazines containing other explosives. If any two or more magazines are separated from each other by less than the specified “Separation of Magazines” distances, then such two or more magazines, as a group, must be considered as one magazine, and the total quantity of explosives stored in such group must be treated as if stored in a single magazine located on the site of any magazine of the group, and must comply with the minimum of distances <PRTPAGE P="172"/>specified from other magazines, inhabited buildings, railways, and highways.</P>
+            <P>(3) All types of blasting caps in strengths through No. 8 cap should be rated at 1<FR>1/2</FR> lbs. (1.5 lbs.) of explosives per 1,000 caps. For strengths higher than No. 8 cap, consult the manufacturer.</P>
+            <P>(4) For quantity and distance purposes, detonating cord of 50 or 60 grains per foot should be calculated as equivalent to 9 lbs. of high explosives per 1,000 feet. Heavier or lighter core loads should be rated proportionately.</P>
+            </EXTRACT>
+            <CITA>[T.D. ATF-87, 46 FR 40384, Aug. 7, 1981, as amended by T.D. ATF-400, 63 FR 45003, Aug. 24, 1998; T.D. ATF-446, 66 FR 16602, Mar. 27, 2001; T.D. ATF-446a, 66 FR 19089, Apr. 13, 2001]</CITA>
+          </SECTION>
         </REGTEXT>
         <SECTION>
           <SECTNO>§ 555.219 </SECTNO>
           <SUBJECT> [Amended]</SUBJECT>
         </SECTION>
         <REGTEXT PART="555" TITLE="27">
-          <AMDPAR>21. In § 555.219, add the table heading “TABLE: DEPARTMENT OF DEFENSE AMMUNITION AND EXPLOSIVES STANDARDS, TABLE 5-4.1 EXTRACT; 4145.27 M, MARCH 1969” below the table.</AMDPAR>
+          <AMDPAR>21. Section § 555.219 is revised to read</AMDPAR>
+          <SECTION>
+            <SECTNO>§ 555.219</SECTNO>
+            <SUBJECT>Table of distances for storage of low explosives.</SUBJECT>
+            <GPOTABLE CDEF="6.1,6.1,5.2,5.2,5.2" COLS="5" OPTS="L2">
+            <BOXHD>
+                <CHED H="1">Pounds</CHED>
+                <CHED H="2">Over</CHED>
+                <CHED H="2">Not over</CHED>
+                <CHED H="1">From inhabited building distance (feet)</CHED>
+                <CHED H="1">From public railroad and highway distance (feet)</CHED>
+                <CHED H="1">From above ground magazine (feet)</CHED>
+            </BOXHD>
+            <ROW>
+                <ENT I="01">0</ENT>
+                <ENT>1,000</ENT>
+                <ENT>75</ENT>
+                <ENT>75</ENT>
+                <ENT>50</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">1,000</ENT>
+                <ENT>5,000</ENT>
+                <ENT>115</ENT>
+                <ENT>115</ENT>
+                <ENT>75</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">5,000</ENT>
+                <ENT>10,000</ENT>
+                <ENT>150</ENT>
+                <ENT>150</ENT>
+                <ENT>100</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">10,000</ENT>
+                <ENT>20,000</ENT>
+                <ENT>190</ENT>
+                <ENT>190</ENT>
+                <ENT>125</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">20,000</ENT>
+                <ENT>30,000</ENT>
+                <ENT>215</ENT>
+                <ENT>215</ENT>
+                <ENT>145</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">30,000</ENT>
+                <ENT>40,000</ENT>
+                <ENT>235</ENT>
+                <ENT>235</ENT>
+                <ENT>155</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">40,000</ENT>
+                <ENT>50,000</ENT>
+                <ENT>250</ENT>
+                <ENT>250</ENT>
+                <ENT>165</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">50,000</ENT>
+                <ENT>60,000</ENT>
+                <ENT>260</ENT>
+                <ENT>260</ENT>
+                <ENT>175</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">60,000</ENT>
+                <ENT>70,000</ENT>
+                <ENT>270</ENT>
+                <ENT>270</ENT>
+                <ENT>185</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">70,000</ENT>
+                <ENT>80,000</ENT>
+                <ENT>280</ENT>
+                <ENT>280</ENT>
+                <ENT>190</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">80,000</ENT>
+                <ENT>90,000</ENT>
+                <ENT>295</ENT>
+                <ENT>295</ENT>
+                <ENT>195</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">90,000</ENT>
+                <ENT>100,000</ENT>
+                <ENT>300</ENT>
+                <ENT>300</ENT>
+                <ENT>200</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">100,000</ENT>
+                <ENT>200,000</ENT>
+                <ENT>375</ENT>
+                <ENT>375</ENT>
+                <ENT>250</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">200,000</ENT>
+                <ENT>300,000</ENT>
+                <ENT>450</ENT>
+                <ENT>450</ENT>
+                <ENT>300</ENT>
+            </ROW>
+            </GPOTABLE>
+            <HD SOURCE="HD1">TABLE: DEPARTMENT OF DEFENSE AMMUNITION AND EXPLOSIVES STANDARDS, TABLE 5-4.1 EXTRACT; 4145.27 M, MARCH 1969</HD>
+          </SECTION>
         </REGTEXT>
         <SECTION>
           <SECTNO>§ 555.220 </SECTNO>
           <SUBJECT> [Amended]</SUBJECT>
         </SECTION>
         <REGTEXT PART="555" TITLE="27">
-          <AMDPAR>22. Amend § 555.220 as follows:</AMDPAR>
-          <AMDPAR>a. Remove “TABLE: DEPARTMENT OF DEFENSE AMMUNITION AND EXPLOSIVES STANDARDS, TABLE 5-4.1 EXTRACT; 4145.27 M, MARCH 1969” from above the table; and</AMDPAR>
-          <AMDPAR>b. Remove “1015 18th St. N.W., Washington, DC 20036” in the footnote to paragraph (3).</AMDPAR>
+          <AMDPAR>22. Section § 555.220 is revised to read</AMDPAR>
+          <SECTION>
+            <SECTNO>§ 555.220</SECTNO>
+            <SUBJECT>Table of separation distances of ammonium nitrate and blasting agents from explosives or blasting agents.</SUBJECT>
+            <EXT-XREF HREF="20190401" REFID="22">Link to an amendment published at 84 FR 12097, Apr. 1, 2019.</EXT-XREF>
+            <GPOTABLE CDEF="6.1,6.1,5.2,5.2,5.2" COLS="5" OPTS="L2">
+            <BOXHD>
+                <CHED H="1">Donor weight (pounds)</CHED>
+                <CHED H="2">Over</CHED>
+                <CHED H="2">Not over</CHED>
+                <CHED H="1">Minimum separation distance of acceptor from donor when barricaded (ft.)</CHED>
+                <CHED H="2">Ammonium nitrate</CHED>
+                <CHED H="2">Blasting agent</CHED>
+                <CHED H="1">Minimum thickness of artificial barricades (in.)</CHED>
+            </BOXHD>
+            <ROW>
+                <ENT I="01"/>
+                <ENT>100</ENT>
+                <ENT>3</ENT>
+                <ENT>11</ENT>
+                <ENT>12</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">100</ENT>
+                <ENT>300</ENT>
+                <ENT>4</ENT>
+                <ENT>14</ENT>
+                <ENT>12</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">300</ENT>
+                <ENT>600</ENT>
+                <ENT>5</ENT>
+                <ENT>18</ENT>
+                <ENT>12</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">600</ENT>
+                <ENT>1,000</ENT>
+                <ENT>6</ENT>
+                <ENT>22</ENT>
+                <ENT>12</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">1,000</ENT>
+                <ENT>1,600</ENT>
+                <ENT>7</ENT>
+                <ENT>25</ENT>
+                <ENT>12</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">1,600</ENT>
+                <ENT>2,000</ENT>
+                <ENT>8</ENT>
+                <ENT>29</ENT>
+                <ENT>12</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">2,000</ENT>
+                <ENT>3,000</ENT>
+                <ENT>9</ENT>
+                <ENT>32</ENT>
+                <ENT>15</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">3,000</ENT>
+                <ENT>4,000</ENT>
+                <ENT>10</ENT>
+                <ENT>36</ENT>
+                <ENT>15</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">4,000</ENT>
+                <ENT>6,000</ENT>
+                <ENT>11</ENT>
+                <ENT>40</ENT>
+                <ENT>15</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">6,000</ENT>
+                <ENT>8,000</ENT>
+                <ENT>12</ENT>
+                <ENT>43</ENT>
+                <ENT>20</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">8,000</ENT>
+                <ENT>10,000</ENT>
+                <ENT>13</ENT>
+                <ENT>47</ENT>
+                <ENT>20</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">10,000</ENT>
+                <ENT>12,000</ENT>
+                <ENT>14</ENT>
+                <ENT>50</ENT>
+                <ENT>20</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">12,000</ENT>
+                <ENT>16,000</ENT>
+                <ENT>15</ENT>
+                <ENT>54</ENT>
+                <ENT>25</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">16,000</ENT>
+                <ENT>20,000</ENT>
+                <ENT>16</ENT>
+                <ENT>58</ENT>
+                <ENT>25</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">20,000</ENT>
+                <ENT>25,000</ENT>
+                <ENT>18</ENT>
+                <ENT>65</ENT>
+                <ENT>25</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">25,000</ENT>
+                <ENT>30,000</ENT>
+                <ENT>19</ENT>
+                <ENT>68</ENT>
+                <ENT>30</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">30,000</ENT>
+                <ENT>35,000</ENT>
+                <ENT>20</ENT>
+                <ENT>72</ENT>
+                <ENT>30</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">35,000</ENT>
+                <ENT>40,000</ENT>
+                <ENT>21</ENT>
+                <ENT>76</ENT>
+                <ENT>30</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">40,000</ENT>
+                <ENT>45,000</ENT>
+                <ENT>22</ENT>
+                <ENT>79</ENT>
+                <ENT>35</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">45,000</ENT>
+                <ENT>50,000</ENT>
+                <ENT>23</ENT>
+                <ENT>83</ENT>
+                <ENT>35</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">50,000</ENT>
+                <ENT>55,000</ENT>
+                <ENT>24</ENT>
+                <ENT>86</ENT>
+                <ENT>35</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">55,000</ENT>
+                <ENT>60,000</ENT>
+                <ENT>25</ENT>
+                <ENT>90</ENT>
+                <ENT>35</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">60,000</ENT>
+                <ENT>70,000</ENT>
+                <ENT>26</ENT>
+                <ENT>94</ENT>
+                <ENT>40</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">70,000</ENT>
+                <ENT>80,000</ENT>
+                <ENT>28</ENT>
+                <ENT>101</ENT>
+                <ENT>40</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">80,000</ENT>
+                <ENT>90,000</ENT>
+                <ENT>30</ENT>
+                <ENT>108</ENT>
+                <ENT>40</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">90,000</ENT>
+                <ENT>100,000</ENT>
+                <ENT>32</ENT>
+                <ENT>115</ENT>
+                <ENT>40</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">100,000</ENT>
+                <ENT>120,000</ENT>
+                <ENT>34</ENT>
+                <ENT>122</ENT>
+                <ENT>50</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">120,000</ENT>
+                <ENT>140,000</ENT>
+                <ENT>37</ENT>
+                <ENT>133</ENT>
+                <ENT>50</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">140,000</ENT>
+                <ENT>160,000</ENT>
+                <ENT>40</ENT>
+                <ENT>144</ENT>
+                <ENT>50</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">160,000</ENT>
+                <ENT>180,000</ENT>
+                <ENT>44</ENT>
+                <ENT>158</ENT>
+                <ENT>50</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">180,000</ENT>
+                <ENT>200,000</ENT>
+                <ENT>48</ENT>
+                <ENT>173</ENT>
+                <ENT>50</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">200,000</ENT>
+                <ENT>220,000</ENT>
+                <ENT>52</ENT>
+                <ENT>187</ENT>
+                <ENT>60</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">220,000</ENT>
+                <ENT>250,000</ENT>
+                <ENT>56</ENT>
+                <ENT>202</ENT>
+                <ENT>60</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">250,000</ENT>
+                <ENT>275,000</ENT>
+                <ENT>60</ENT>
+                <ENT>216</ENT>
+                <ENT>60</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">275,000</ENT>
+                <ENT>300,000</ENT>
+                <ENT>64</ENT>
+                <ENT>230</ENT>
+                <ENT>60</ENT>
+            </ROW>
+            </GPOTABLE>
+            <EXTRACT>
+            <HD SOURCE="HD1">Table: National Fire Protection Association (NFPA) Official Standard No. 492, 1968</HD>
+            <HD SOURCE="HD2">Notes of Table of Separation Distances of Ammonium Nitrate and Blasting Agents From Explosives or Blasting Agents</HD>
+            <P>(1) This table specifies separation distances to prevent explosion of ammonium nitrate and ammonium nitrate-based blasting agents by propagation from nearby stores of high explosives or blasting agents referred to in the table as the “donor.” Ammonium nitrate, by itself, is not considered to be a donor when applying this table. Ammonium nitrate, ammonium nitrate-fuel oil or combinations thereof are acceptors. If stores of ammonium nitrate are located within the sympathetic detonation distance of explosives or blasting agents, one-half the mass of the ammonium nitrate is to be included in the mass of the donor.</P>
+
+            <P>(2) When the ammonium nitrate and/or blasting agent is not barricaded, the distances shown in the table must be multiplied by six. These distances allow for the possibility of high velocity metal fragments from mixers, hoppers, truck bodies, sheet metal structures, metal containers, and the like <PRTPAGE P="173"/>which may enclose the “donor.” Where explosives storage is in bullet-resistant magazines or where the storage is protected by a bullet-resistant wall, distances and barricade thicknesses in excess of those prescribed in the table in § 555.218 are not required.</P>
+            <P>(3) These distances apply to ammonium nitrate that passes the insensitivity test prescribed in the definition of ammonium nitrate fertilizer issued by the Fertilizer Institute. <SU>1</SU>
+                <FTREF/> Ammonium nitrate failing to pass the test must be stored at separation distances in accordance with the table in § 555.218.</P>
+            <FTNT>
+                <P>
+                <SU>1</SU> Definition and Test Procedures for Ammonium Nitrate Fertilizer, Fertilizer Institute.</P>
+            </FTNT>
+            <P>(4) These distances apply to blasting agents which pass the insensitivity test prescribed in regulations of the U.S. Department of Transportation (49 CFR part 173).</P>
+            <P>(5) Earth or sand dikes, or enclosures filled with the prescribed minimum thickness of earth or sand are acceptable artificial barricades. Natural barricades, such as hills or timber of sufficient density that the surrounding exposures which require protection cannot be seen from the “donor” when the trees are bare of leaves, are also acceptable.</P>
+            <P>(6) For determining the distances to be maintained from inhabited buildings, passenger railways, and public highways, use the table in § 555.218.</P>
+            </EXTRACT>
+            <EFFDNOTP>
+            <HD SOURCE="HED">Effective Date Note:</HD>
+            <P>At 84 FR 12097, Apr. 1, 2019, § 555.220 was amended by revising note (3) to the table, effective May 31, 2019. For the convenience of the user, the added and revised text is set forth as follows:</P>
+            <REVTXT>
+                <SECTION>
+                <SECTNO>§ 555.220</SECTNO>
+                <SUBJECT>Table of separation distances of ammonium nitrate and blasting agents from explosives or blasting agents.</SUBJECT>
+                <STARS/>
+                <P>(3) These distances apply to all ammonium nitrate with respect to its separation from stores of high explosives and blasting agents. Ammonium nitrate explosive mixtures that are high explosives pursuant to § 555.202(a) or are defined as a blasting agent pursuant to § 555.11 are subject to the table of distances for storage of explosive materials in § 555.218 and to the table of separation distances of ammonium nitrate and blasting agents from explosives or blasting agents in this section.<STARS/>
+                </P>
+                </SECTION>
+            </REVTXT>
+            </EFFDNOTP>
+          </SECTION>
         </REGTEXT>
         <SECTION>
           <SECTNO>§ 555.224 </SECTNO>
           <SUBJECT> [Amended]</SUBJECT>
         </SECTION>
         <REGTEXT PART="555" TITLE="27">
-          <AMDPAR>23. Amend § 555.224 as follows:</AMDPAR>
+          <AMDPAR>23. Section § 555.224 is revised to read</AMDPAR>
+          <SECTION>
+            <SECTNO>§ 555.224</SECTNO>
+            <SUBJECT>Table of distances for the storage of display fireworks (except bulk salutes).</SUBJECT>
+            <GPOTABLE CDEF="s10,r10,10" COLS="3" OPTS="L2">
+            <BOXHD>
+                <CHED H="1">Net weight of firework <SU>1</SU> (pounds)</CHED>
+                <CHED H="1">Distance between magazine and inhabited building, passenger railway, or public highway <SU>3 4</SU> (feet)</CHED>
+                <CHED H="1">Distance between magazines <SU>2 3</SU> (feet)</CHED>
+            </BOXHD>
+            <ROW>
+                <ENT I="01">0-1000</ENT>
+                <ENT>150</ENT>
+                <ENT>100</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">1001-5000</ENT>
+                <ENT>230</ENT>
+                <ENT>150</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">5001-10000</ENT>
+                <ENT>300</ENT>
+                <ENT>200</ENT>
+            </ROW>
+            <ROW>
+                <ENT I="01">Above 10000</ENT>
+                <ENT O="xl">Use table § 555.218</ENT>
+                <ENT/>
+            </ROW>
+            <TNOTE>
+                <SU>1</SU> Net weight is the weight of all pyrotechnic compositions, and explosive materials and fuse only.</TNOTE>
+            <TNOTE>
+                <SU>2</SU> For the purposes of applying this table, the term “magazine” also includes fireworks shipping buildings for display fireworks.</TNOTE>
+            <TNOTE>
 
-          <AMDPAR>a. Remove “(30 days from the date of publication of the final rule in the <E T="04">Federal Register</E>)” in footnote 3 and add in its place “March 7, 1990”; and</AMDPAR>
-          <AMDPAR>b. Add “(55 FR 3717)”at the end of footnote 3.</AMDPAR>
+                <SU>3</SU> For fireworks storage magazines in use prior to March 7. 1990; and the distances in this table may be halved if properly barricaded between the magazine and potential receptor sites. (55 FR 3717)</TNOTE>
+            <TNOTE>
+                <SU>4</SU> This table does not apply to the storage of bulk salutes. Use table at § 555.218.</TNOTE>
+            </GPOTABLE>
+            <CITA>[T.D. ATF-293, 55 FR 3723, Feb. 5, 1990, as amended by T.D. ATF-400, 63 FR 45004, Aug. 24, 1998]</CITA>
+          </SECTION>
         </REGTEXT>
         <SIG>
           <DATED>Dated: April 2, 2019.</DATED>
