@@ -168,7 +168,7 @@ Administrative practice and procedure, Customs duties and inspection, Explosives
 Accordingly, for reasons discussed in the preamble, 27 CFR chapter II is amended as follows:
 </P>
 <PART>
-<HD SOURCE="HED">PART 478—COMMERCE IN FIREARMS AND AMMUNITION</HD>
+    <HD SOURCE="HED">PART 478—COMMERCE IN FIREARMS AND AMMUNITION</HD>
 </PART>
 <REGTEXT PART="478" TITLE="27">
 <AMDPAR>
@@ -186,7 +186,7 @@ Accordingly, for reasons discussed in the preamble, 27 CFR chapter II is amended
     <SUBJECT> [Amended]</SUBJECT>
 </SECTION>
 <REGTEXT PART="478" TITLE="27">
-    <AMDPAR>3. Section 478.76 is revised to read</AMDPAR>
+    <AMDPAR>1. Section 478.76 is revised to read</AMDPAR>
     <SECTION>
         <SECTNO>§ 478.76</SECTNO>
         <SUBJECT>Representation at a hearing.</SUBJECT>
@@ -194,12 +194,11 @@ Accordingly, for reasons discussed in the preamble, 27 CFR chapter II is amended
     </SECTION>
 </REGTEXT>
 <PART>
-<PRTPAGE P="64744"/>
-<HD SOURCE="HED">PART 555—COMMERCE IN EXPLOSIVES</HD>
+    <HD SOURCE="HED">PART 555—COMMERCE IN EXPLOSIVES</HD>
 </PART>
 <REGTEXT PART="555" TITLE="27">
 <AMDPAR>
-3. The authority citation for 27 CFR part 555 continues to read as follows:
+2. The authority citation for 27 CFR part 555 continues to read as follows:
 </AMDPAR>
 <AUTH>
 <HD SOURCE="HED">Authority:</HD>
@@ -211,7 +210,7 @@ Accordingly, for reasons discussed in the preamble, 27 CFR chapter II is amended
     <SUBJECT>[Amended]</SUBJECT>
 </SECTION>
 <REGTEXT PART="555" TITLE="27">
-    <AMDPAR>3. Section 555.73 is revised to read</AMDPAR>
+    <AMDPAR>2. Section 555.73 is revised to read</AMDPAR>
     <SECTION>
         <SECTNO>§ 555.73</SECTNO>
         <SUBJECT>Representation at a hearing.</SUBJECT>
@@ -235,7 +234,7 @@ Accordingly, for reasons discussed in the preamble, 27 CFR chapter II is amended
     <SUBJECT>[Amended]</SUBJECT>
 </SECTION>
 <REGTEXT PART="555" TITLE="27">
-    <AMDPAR>3. Section 555.78 is revised to read</AMDPAR>
+    <AMDPAR>4. Section 555.78 is revised to read</AMDPAR>
     <SECTION>
         <SECTNO>§ 555.78</SECTNO>
         <SUBJECT>Representation at a hearing.</SUBJECT>
@@ -247,7 +246,7 @@ Accordingly, for reasons discussed in the preamble, 27 CFR chapter II is amended
     <SUBJECT>[Amended]</SUBJECT>
 </SECTION>
 <REGTEXT PART="555" TITLE="27">
-    <AMDPAR>3. Section 555.79 is revised to read</AMDPAR>
+    <AMDPAR>5. Section 555.79 is revised to read</AMDPAR>
     <SECTION>
         <SECTNO>§ 555.79</SECTNO>
         <SUBJECT>Appeal on petition to the Director.</SUBJECT>
@@ -259,7 +258,7 @@ Accordingly, for reasons discussed in the preamble, 27 CFR chapter II is amended
     <SUBJECT>[Amended]</SUBJECT>
 </SECTION>
 <REGTEXT PART="555" TITLE="27">
-    <AMDPAR>3. Section 555.82 is revised to read</AMDPAR>
+    <AMDPAR>6. Section 555.82 is revised to read</AMDPAR>
     <SECTION>
         <SECTNO>§ 555.82</SECTNO>
         <SUBJECT>Regulations governing the procedure and practice for disapproval of applications for explosives licenses and permits and for the denial of renewal or revocation of such licenses and permits under the Act are contained in part 771 of this chapter.</P>
