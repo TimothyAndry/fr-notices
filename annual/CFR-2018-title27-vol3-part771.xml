@@ -47,18 +47,20 @@ PART 771—RULES OF PRACTICE IN EXPLOSIVE LICENSE AND PERMIT PROCEEDINGS
 <SUBJECT>
 Service on the Director of Industry Operations or Director.
 </SUBJECT>
-<SUBJGRP>
-  <HD SOURCE="HED">Time</HD>
+<<SUBJGRP>
+    <HD SOURCE="HED">Time</HD>
     <SECTNO>771.28 </SECTNO>
     <SUBJECT>Computation.</SUBJECT>
     <SECTNO>771.29 </SECTNO>
-  <SUBJECT>Continuances and extensions.</SUBJECT>
+    <SUBJECT>Continuances and extensions.</SUBJECT>
 </SUBJGRP> 
-<HD SOURCE="HD1">Representation at Hearings</HD>
-<SECTNO>771.30 </SECTNO>
-<SUBJECT>Personal representation.</SUBJECT>
-<SECTNO>771.31 </SECTNO>
-<SUBJECT>Attorneys and other representatives.</SUBJECT>
+<SUBJGRP>
+    <HD SOURCE="HED">Representation at Hearings</HD>
+    <SECTNO>771.30 </SECTNO>
+    <SUBJECT>Personal representation.</SUBJECT>
+    <SECTNO>771.31 </SECTNO>
+    <SUBJECT>Attorneys and other representatives.</SUBJECT>
+</SUBJGRP>
 </SUBPART>
 <SUBPART>
 <HD SOURCE="HED">Subpart D—Compliance and Settlement</HD>
@@ -424,35 +426,37 @@ Pleadings, motions, notices, and other formal documents may be served by certifi
 <SUBJGRP>
     <HD SOURCE="HED">Time</HD>
     <SECTION>
-        <SECTNO>§ 771.28 </SECTNO>
-        <SUBJECT>Computation.</SUBJECT>
-        <P>
-        In computing any period of time prescribed or allowed by this part, the day of the act, event, or default after which the designated period of time is to run is not to be included. The last day of the period to be computed is to be included, unless it is a Saturday, Sunday, or Federal holiday, in which event the period runs until the next day that is not a Saturday, Sunday, or Federal holiday. Pleadings, requests, or other papers or documents required or permitted to be filed under this part must be received for filing at the appropriate office within the time limits, if any, for such filing.
-        </P>
-        </SECTION>
-        <SECTION>
-        <SECTNO>§ 771.29 </SECTNO>
-        <SUBJECT>Continuances and extensions.</SUBJECT>
-        <P>
-        For good cause shown, the administrative law judge, Director, or Director of Industry Operations, as the case may be, may grant continuances and, as to all matters pending before him, extend any time limit prescribed by the regulations in this part (except where the time limit is statutory).
-        </P>
-    <HD SOURCE="HD1">Representation at Hearings</HD>
+      <SECTNO>§ 771.28 </SECTNO>
+      <SUBJECT>Computation.</SUBJECT>
+      <P>
+      In computing any period of time prescribed or allowed by this part, the day of the act, event, or default after which the designated period of time is to run is not to be included. The last day of the period to be computed is to be included, unless it is a Saturday, Sunday, or Federal holiday, in which event the period runs until the next day that is not a Saturday, Sunday, or Federal holiday. Pleadings, requests, or other papers or documents required or permitted to be filed under this part must be received for filing at the appropriate office within the time limits, if any, for such filing.
+      </P>
+      </SECTION>
+      <SECTION>
+      <SECTNO>§ 771.29 </SECTNO>
+      <SUBJECT>Continuances and extensions.</SUBJECT>
+      <P>
+      For good cause shown, the administrative law judge, Director, or Director of Industry Operations, as the case may be, may grant continuances and, as to all matters pending before him, extend any time limit prescribed by the regulations in this part (except where the time limit is statutory).
+      </P>
     </SECTION>
+</SUBJGRP>
+<SUBJGRP>
+  <HD SOURCE="HED">Representation at Hearings</HD>
+  <SECTION>
+    <SECTNO>§ 771.30 </SECTNO>
+    <SUBJECT>Personal representation.</SUBJECT>
+    <P>
+    Any individual or member of a partnership may appear for himself, or for such partnership, and a corporation or association may be represented by a bona fide officer of such corporation or association, upon showing of adequate authorization.
+    </P>
+    </SECTION>
+    <SECTION>
+    <SECTNO>§ 771.31 </SECTNO>
+    <SUBJECT>Attorneys and other representatives.</SUBJECT>
+    <P>
+    An applicant, licensee, or permittee may represent himself, or be represented by an attorney, a certified public accountant, or any other person, specifically designated in a duly executed power of attorney that shall be filed in the proceeding by the applicant, licensee, or permittee. The applicant, licensee, or permittee shall file waivers, if applicable, under the Privacy Act of 1974 and 26 U.S.C. 6103(c) (confidentiality and disclosure of returns and return information). The Director of Industry Operations may be represented in proceedings by an attorney in the Office of Chief Counsel who is authorized to execute and file motions, briefs, and other papers in the proceeding on behalf of the Director of Industry Operations, in the attorney's own name as “Attorney for the Government.”
+    </P>
+  </SECTION>
 </SUBJGRP>  
-<SECTION>
-<SECTNO>§ 771.30 </SECTNO>
-<SUBJECT>Personal representation.</SUBJECT>
-<P>
-Any individual or member of a partnership may appear for himself, or for such partnership, and a corporation or association may be represented by a bona fide officer of such corporation or association, upon showing of adequate authorization.
-</P>
-</SECTION>
-<SECTION>
-<SECTNO>§ 771.31 </SECTNO>
-<SUBJECT>Attorneys and other representatives.</SUBJECT>
-<P>
-An applicant, licensee, or permittee may represent himself, or be represented by an attorney, a certified public accountant, or any other person, specifically designated in a duly executed power of attorney that shall be filed in the proceeding by the applicant, licensee, or permittee. The applicant, licensee, or permittee shall file waivers, if applicable, under the Privacy Act of 1974 and 26 U.S.C. 6103(c) (confidentiality and disclosure of returns and return information). The Director of Industry Operations may be represented in proceedings by an attorney in the Office of Chief Counsel who is authorized to execute and file motions, briefs, and other papers in the proceeding on behalf of the Director of Industry Operations, in the attorney's own name as “Attorney for the Government.”
-</P>
-</SECTION>
 </SUBPART>
 <SUBPART>
 <HD SOURCE="HED">Subpart D—Compliance and Settlement</HD>
