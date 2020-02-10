@@ -291,11 +291,13 @@ PART 771—RULES OF PRACTICE IN EXPLOSIVE LICENSE AND PERMIT PROCEEDINGS
 <SUBJECT>
 Service on the Director of Industry Operations or Director.
 </SUBJECT>
-<HD SOURCE="HD1">Time</HD>
-<SECTNO>771.28 </SECTNO>
-<SUBJECT>Computation.</SUBJECT>
-<SECTNO>771.29 </SECTNO>
-<SUBJECT>Continuances and extensions.</SUBJECT>
+<SUBJGRP>
+  <HD SOURCE="HED">Time</HD>
+    <SECTNO>771.28 </SECTNO>
+    <SUBJECT>Computation.</SUBJECT>
+    <SECTNO>771.29 </SECTNO>
+  <SUBJECT>Continuances and extensions.</SUBJECT>
+</SUBJGRP> 
 <HD SOURCE="HD1">Representation at Hearings</HD>
 <SECTNO>771.30 </SECTNO>
 <SUBJECT>Personal representation.</SUBJECT>
