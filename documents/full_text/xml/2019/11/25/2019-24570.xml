@@ -340,86 +340,110 @@ Grounds for denial of applications for licenses or permits.
 </SUBPART>
 <SUBPART>
 <HD SOURCE="HED">Subpart F—Hearing Procedure</HD>
-<HD SOURCE="HD1">Notices</HD>
-<SECTNO>771.55 </SECTNO>
-<SUBJECT>Content.</SUBJECT>
-<SECTNO>771.56 </SECTNO>
-<SUBJECT>Forms.</SUBJECT>
-<SECTNO>771.57 </SECTNO>
-<SUBJECT>Execution and disposition.</SUBJECT>
-<SECTNO>771.58 </SECTNO>
-<SUBJECT>Designated place of hearing.</SUBJECT>
-<HD SOURCE="HD1">Request for Hearing</HD>
-<SECTNO>771.59 </SECTNO>
-<SUBJECT>Initial application proceedings.</SUBJECT>
-<SECTNO>771.60 </SECTNO>
-<SUBJECT>Revocation or denial of renewal proceedings.</SUBJECT>
-<SECTNO>771.61 </SECTNO>
-<SUBJECT>Notice of hearing.</SUBJECT>
-<HD SOURCE="HD1">Non-Request for Hearing</HD>
-<SECTNO>771.62 </SECTNO>
-<SUBJECT>Initial application.</SUBJECT>
-<SECTNO>771.63 </SECTNO>
-<SUBJECT>Revocation or denial of renewal.</SUBJECT>
-<HD SOURCE="HD1">Responses to Notices</HD>
-<SECTNO>771.64 </SECTNO>
-<SUBJECT>Answers.</SUBJECT>
-<SECTNO>771.65 </SECTNO>
-<SUBJECT>Responses admitting facts.</SUBJECT>
-<SECTNO>771.66 </SECTNO>
-<SUBJECT>Initial conferences.</SUBJECT>
-<HD SOURCE="HD1">Failure to Appear</HD>
-<SECTNO>771.67 </SECTNO>
-<SUBJECT>Initial applications.</SUBJECT>
-<SECTNO>771.68 </SECTNO>
-<SUBJECT>Revocation or denial of renewal.</SUBJECT>
-<HD SOURCE="HD1">Waiver of Hearing</HD>
-<SECTNO>771.69 </SECTNO>
-<SUBJECT>Withdrawal of request for hearing.</SUBJECT>
-<SECTNO>771.70 </SECTNO>
-<SUBJECT>Adjudication based upon written submissions.</SUBJECT>
-<HD SOURCE="HD1">Surrender of License or Permit</HD>
-<SECTNO>771.71 </SECTNO>
-<SUBJECT>Before citation.</SUBJECT>
-<SECTNO>771.72 </SECTNO>
-<SUBJECT>After citation.</SUBJECT>
-<HD SOURCE="HD1">Motions</HD>
-<SECTNO>771.73 </SECTNO>
-<SUBJECT>General.</SUBJECT>
-<SECTNO>771.74 </SECTNO>
-<SUBJECT>Prior to hearing.</SUBJECT>
-<SECTNO>771.75 </SECTNO>
-<SUBJECT>At hearing.</SUBJECT>
-<HD SOURCE="HD1">Hearing</HD>
-<SECTNO>771.76 </SECTNO>
-<SUBJECT>General.</SUBJECT>
-<SECTNO>771.77 </SECTNO>
-<SUBJECT>Initial applications.</SUBJECT>
-<SECTNO>771.78 </SECTNO>
-<SUBJECT>Revocation or denial of renewal.</SUBJECT>
-<HD SOURCE="HD1">Burden of Proof</HD>
-<SECTNO>771.79 </SECTNO>
-<SUBJECT>Initial applications.</SUBJECT>
-<SECTNO>771.80 </SECTNO>
-<SUBJECT>Revocation or denial of renewal.</SUBJECT>
-<HD SOURCE="HD1">General</HD>
-<SECTNO>771.81 </SECTNO>
-<SUBJECT>Stipulations at hearing.</SUBJECT>
-<SECTNO>771.82 </SECTNO>
-<SUBJECT>Evidence.</SUBJECT>
-<SECTNO>771.83 </SECTNO>
-<SUBJECT>
-Closing of hearings; arguments, briefs, and proposed findings.
-</SUBJECT>
-<SECTNO>771.84 </SECTNO>
-<SUBJECT>Reopening of the hearing.</SUBJECT>
-<HD SOURCE="HD1">Record of Testimony</HD>
-<SECTNO>771.85 </SECTNO>
-<SUBJECT>Stenographic record.</SUBJECT>
-<SECTNO>771.86 </SECTNO>
-<SUBJECT>Oath of reporter.</SUBJECT>
-</SUBPART>
-<SUBPART>
+<SUBJGRP>
+    <HD SOURCE="HED">Notices</HD>
+    <SECTNO>771.55 </SECTNO>
+    <SUBJECT>Content.</SUBJECT>
+    <SECTNO>771.56 </SECTNO>
+    <SUBJECT>Forms.</SUBJECT>
+    <SECTNO>771.57 </SECTNO>
+    <SUBJECT>Execution and disposition.</SUBJECT>
+    <SECTNO>771.58 </SECTNO>
+    <SUBJECT>Designated place of hearing.</SUBJECT>
+<SUBJGRP>
+<SUBJGRP>
+    <HD SOURCE="HED">Request for Hearing</HD>
+    <SECTNO>771.59 </SECTNO>
+    <SUBJECT>Initial application proceedings.</SUBJECT>
+    <SECTNO>771.60 </SECTNO>
+    <SUBJECT>Revocation or denial of renewal proceedings.</SUBJECT>
+    <SECTNO>771.61 </SECTNO>
+    <SUBJECT>Notice of hearing.</SUBJECT>
+<SUBJGRP>
+<SUBJGRP>
+    <HD SOURCE="HED">Non-Request for Hearing</HD>
+    <SECTNO>771.62 </SECTNO>
+    <SUBJECT>Initial application.</SUBJECT>
+    <SECTNO>771.63 </SECTNO>
+    <SUBJECT>Revocation or denial of renewal.</SUBJECT>
+<SUBJGRP>
+<SUBJGRP>
+    <HD SOURCE="HED">Responses to Notices</HD>
+    <SECTNO>771.64 </SECTNO>
+    <SUBJECT>Answers.</SUBJECT>
+    <SECTNO>771.65 </SECTNO>
+    <SUBJECT>Responses admitting facts.</SUBJECT>
+    <SECTNO>771.66 </SECTNO>
+    <SUBJECT>Initial conferences.</SUBJECT>
+<SUBJGRP>
+<SUBJGRP>
+    <HD SOURCE="HED">Failure to Appear</HD>
+    <SECTNO>771.67 </SECTNO>
+    <SUBJECT>Initial applications.</SUBJECT>
+    <SECTNO>771.68 </SECTNO>
+    <SUBJECT>Revocation or denial of renewal.</SUBJECT>
+<SUBJGRP>
+<SUBJGRP>
+    <HD SOURCE="HED">Waiver of Hearing</HD>
+    <SECTNO>771.69 </SECTNO>
+    <SUBJECT>Withdrawal of request for hearing.</SUBJECT>
+    <SECTNO>771.70 </SECTNO>
+    <SUBJECT>Adjudication based upon written submissions.</SUBJECT>
+<SUBJGRP>
+<SUBJGRP>
+    <HD SOURCE="HED">Surrender of License or Permit</HD>
+    <SECTNO>771.71 </SECTNO>
+    <SUBJECT>Before citation.</SUBJECT>
+    <SECTNO>771.72 </SECTNO>
+    <SUBJECT>After citation.</SUBJECT>
+<SUBJGRP>
+<SUBJGRP>
+    <HD SOURCE="HED">Motions</HD>
+    <SECTNO>771.73 </SECTNO>
+    <SUBJECT>General.</SUBJECT>
+    <SECTNO>771.74 </SECTNO>
+    <SUBJECT>Prior to hearing.</SUBJECT>
+    <SECTNO>771.75 </SECTNO>
+    <SUBJECT>At hearing.</SUBJECT>
+<SUBJGRP>
+<SUBJGRP>
+    <HD SOURCE="HED">Hearing</HD>
+    <SECTNO>771.76 </SECTNO>
+    <SUBJECT>General.</SUBJECT>
+    <SECTNO>771.77 </SECTNO>
+    <SUBJECT>Initial applications.</SUBJECT>
+    <SECTNO>771.78 </SECTNO>
+    <SUBJECT>Revocation or denial of renewal.</SUBJECT>
+<SUBJGRP>
+<SUBJGRP>
+    <HD SOURCE="HED">Burden of Proof</HD>
+    <SECTNO>771.79 </SECTNO>
+    <SUBJECT>Initial applications.</SUBJECT>
+    <SECTNO>771.80 </SECTNO>
+    <SUBJECT>Revocation or denial of renewal.</SUBJECT>
+<SUBJGRP>
+<SUBJGRP>
+    <HD SOURCE="HED">General</HD>
+    <SECTNO>771.81 </SECTNO>
+    <SUBJECT>Stipulations at hearing.</SUBJECT>
+    <SECTNO>771.82 </SECTNO>
+    <SUBJECT>Evidence.</SUBJECT>
+    <SECTNO>771.83 </SECTNO>
+    <SUBJECT>
+    Closing of hearings; arguments, briefs, and proposed findings.
+    </SUBJECT>
+    <SECTNO>771.84 </SECTNO>
+    <SUBJECT>Reopening of the hearing.</SUBJECT>
+<SUBJGRP>
+<SUBJGRP>
+    <HD SOURCE="HED">Record of Testimony</HD>
+    <SECTNO>771.85 </SECTNO>
+    <SUBJECT>Stenographic record.</SUBJECT>
+    <SECTNO>771.86 </SECTNO>
+    <SUBJECT>Oath of reporter.</SUBJECT>
+    </SUBPART>
+    <SUBPART>
+<SUBJGRP>
 <HD SOURCE="HED">Subpart G—Administrative Law Judges</HD>
 <SECTNO>771.95 </SECTNO>
 <SUBJECT>Responsibilities of administrative law judges.</SUBJECT>
@@ -444,19 +468,21 @@ Administrative law judge's findings and recommended decision.
 <SUBJECT>
 Certification and transmittal of record and decision.
 </SUBJECT>
-<HD SOURCE="HD1">Action by Director of Industry Operations</HD>
-<SECTNO>771.107 </SECTNO>
-<SUBJECT>Initial application proceedings.</SUBJECT>
-<SECTNO>771.108 </SECTNO>
-<SUBJECT>Director of Industry Operations' decision.</SUBJECT>
-<SECTNO>771.109 </SECTNO>
-<SUBJECT>Revocation or denial of renewal proceedings.</SUBJECT>
-<SECTNO>771.110 </SECTNO>
-<SUBJECT>Revocation or denial of renewal.</SUBJECT>
-<SECTNO>771.111 </SECTNO>
-<SUBJECT>
-Proceedings involving violations not within the division of issuance of license or permit.
-</SUBJECT>
+<SUBJGRP>
+    <HD SOURCE="HED">Action by Director of Industry Operations</HD>
+    <SECTNO>771.107 </SECTNO>
+    <SUBJECT>Initial application proceedings.</SUBJECT>
+    <SECTNO>771.108 </SECTNO>
+    <SUBJECT>Director of Industry Operations' decision.</SUBJECT>
+    <SECTNO>771.109 </SECTNO>
+    <SUBJECT>Revocation or denial of renewal proceedings.</SUBJECT>
+    <SECTNO>771.110 </SECTNO>
+    <SUBJECT>Revocation or denial of renewal.</SUBJECT>
+    <SECTNO>771.111 </SECTNO>
+    <SUBJECT>
+    Proceedings involving violations not within the division of issuance of license or permit.
+    </SUBJECT>
+<SUBJGRP>
 </SUBPART>
 <SUBPART>
 <HD SOURCE="HED">Subpart I—Review</HD>
@@ -479,11 +505,13 @@ Proceedings involving violations not within the division of issuance of license 
 <SUBJECT>Discovery.</SUBJECT>
 <SECTNO>771.127 </SECTNO>
 <SUBJECT>Privileges.</SUBJECT>
-<HD SOURCE="HD1">Record</HD>
-<SECTNO>771.135 </SECTNO>
-<SUBJECT>What constitutes record.</SUBJECT>
-<SECTNO>771.136 </SECTNO>
-<SUBJECT>Availability.</SUBJECT>
+<SUBJGRP>
+    <HD SOURCE="HED">Record</HD>
+    <SECTNO>771.135 </SECTNO>
+    <SUBJECT>What constitutes record.</SUBJECT>
+    <SECTNO>771.136 </SECTNO>
+    <SUBJECT>Availability.</SUBJECT>
+</SUBJGRP>
 </SUBPART>
 </CONTENTS>
 <AUTH>
@@ -786,375 +814,399 @@ If, upon examination of any application (including a renewal application) for a 
 </SUBPART>
 <SUBPART>
 <HD SOURCE="HED">Subpart F—Hearing Procedure</HD>
-<HD SOURCE="HD1">Notices</HD>
-<SECTION>
-<SECTNO>§ 771.55 </SECTNO>
-<SUBJECT>Content.</SUBJECT>
-<P>
-(a) Notices for the revocation or denial of renewal of a license or permit shall be promptly issued by the Director of Industry Operations and shall set forth:
-</P>
-<P>
-(1) The sections of law and regulations relied upon for authority and jurisdiction;
-</P>
-<P>
-(2) The specific grounds upon which the revocation or denial is based,
-<E T="03">i.e.,</E>
-the matters of fact constituting the violations specified, dates, places, and sections of law and regulations violated;
-</P>
-<P>
-(3) In the case of a revocation, the date on which the action is effective; and
-</P>
-<P>
-(4) That the licensee or permittee has 15 days from receipt of the notice within which to request a hearing before an administrative law judge.
-</P>
-<P>
-(b) Notices for the denial of an initial application for a license or permit shall set forth:
-</P>
-<P>
-(1) The sections of law and regulations relied upon for authority and jurisdiction;
-</P>
-<P>
-(2) The specific grounds upon which the denial is based,
-<E T="03">i.e.,</E>
-the matters of fact and law relied upon for the disapproval of the application; and
-</P>
-<P>
-(3) That the application will be disapproved unless a hearing is requested within 15 days from receipt of the notice.
-</P>
-</SECTION>
-<SECTION>
-<SECTNO>§ 771.56 </SECTNO>
-<SUBJECT>Forms.</SUBJECT>
-<P>Notices shall be issued on the following forms:</P>
-<P>
-(a) ATF Form 5400.9, “Order After Denial or Revocation Hearing,” for all revocations or denials of renewal of licenses or permits pursuant to 18 U.S.C. chapter 40 after a hearing has been held and a Recommended Decision has been issued by the administrative law judge;
-</P>
-<P>
-(b) Form 5400.10, “Notice of Revocation for License or Permit,” for all revocations of licenses or permits pursuant to 18 U.S.C. chapter 40, except as provided for in paragraph (a) of this section;
-</P>
-<P>
-(c) Form 5400.11, “Notice of Denial of Application for License or Permit,” for the denial of renewal or original applications for licenses or permits pursuant to 18 U.S.C. chapter 40, except as provided for in paragraph (a) of this section;
-</P>
-<P>
-(d) Form 5400.12, “Notice of Contemplated Denial or Revocation of License or Permit,” for the contemplated revocation or denial of renewal application of licenses or permits pursuant to 18 U.S.C. chapter 40; or
-</P>
-<P>
-(e) Such other forms as the Director may prescribe.
-</P>
-</SECTION>
-<SECTION>
-<SECTNO>§ 771.57 </SECTNO>
-<SUBJECT>Execution and disposition.</SUBJECT>
-<P>
-A signed original of the applicable form shall be served on the licensee or permittee. If a hearing is requested, a copy shall be sent to the administrative law judge designated to conduct the hearing. Any remaining copies shall be retained for the office of the Director of Industry Operations.
-</P>
-</SECTION>
-<SECTION>
-<SECTNO>§ 771.58 </SECTNO>
-<SUBJECT> Designated place of hearing.</SUBJECT>
-<P>
-The designated place of hearing shall be determined by the administrative law judge, taking into consideration the convenience and necessity of the parties and their representatives.
-</P>
-<HD SOURCE="HD1">Request for Hearing</HD>
-</SECTION>
-<SECTION>
-<SECTNO>§ 771.59 </SECTNO>
-<SUBJECT>Initial application proceedings.</SUBJECT>
-<P>
-(a) If the applicant for an initial license or permit desires a hearing, he shall file a request in writing with the Director of Industry Operations within 15 days after receipt of notice of the disapproval, in whole or in part, of the application.
-</P>
-<P>
-(b) On receipt of the request, the Director of Industry Operations shall forward a copy of the request, together with a copy of the notice, to the Office of Chief Counsel for the assignment of an administrative law judge.
-<PRTPAGE P="64748"/>
-</P>
-<P>
-(c) After the Office of Chief Counsel notifies the Director of Industry Operations or the Attorney for the Government of the assignment of an administrative law judge, the Director of Industry Operations shall notify the licensee or permittee of the assignment, if the administrative law judge has not already done so.
-</P>
-</SECTION>
-<SECTION>
-<SECTNO>§ 771.60 </SECTNO>
-<SUBJECT>Revocation or denial of renewal proceedings.</SUBJECT>
-<P>
-(a) If the licensee or permittee desires a hearing, he shall file a request, in writing, with the Director of Industry Operations within 15 days after receipt of the notice or within such time as the Director of Industry Operations may allow.
-</P>
-<P>
-(b) Where a licensee or permittee requests a hearing, the Director of Industry Operations shall forward a copy of the request, together with a copy of the notice, to the Office of Chief Counsel for the assignment of an administrative law judge.
-</P>
-<P>
-(c) After the Office of Chief Counsel notifies the Director of Industry Operations or the Attorney for the Government of the assignment of an administrative law judge, the Director of Industry Operations shall notify the licensee or permittee of the assignment, if the administrative law judge has not already done so.
-</P>
-<P>
-(d) In the case of a revocation, a licensee or permittee may include a request for a stay of the effective date of revocation with the request for a hearing.
-</P>
-<P>
-(e) On receipt of a request for a stay of the effective date of a revocation, the Director of Industry Operations shall timely advise the licensee or permittee whether the stay is granted.
-</P>
-<P>
-(1) If the stay is granted, the matter shall be referred to an administrative law judge pursuant to paragraph (b) of this section.
-</P>
-<P>
-(2) If the stay is denied, the licensee or permittee may request an immediate hearing. In this event, the Director of Industry Operations shall immediately refer the matter to the Office of Chief Counsel for the assignment of an administrative law judge, who shall set a date and place for hearing, which date shall be no later than 10 days from the date the licensee or permittee requested the immediate hearing.
-</P>
-</SECTION>
-<SECTION>
-<SECTNO>§ 771.61 </SECTNO>
-<SUBJECT>Notice of hearing.</SUBJECT>
-<P>
-Once a request for a hearing has been referred to the administrative law judge, the administrative law judge shall set a time and place for a hearing and shall serve notice thereof upon the parties at least 10 days in advance of the hearing date.
-</P>
-<HD SOURCE="HD1">Non-Request for Hearing</HD>
-</SECTION>
-<SECTION>
-<SECTNO>§ 771.62 </SECTNO>
-<SUBJECT>Initial application.</SUBJECT>
-<P>
-In the case of an initial application, if the applicant does not request a hearing within 15 days, or within such additional time as the Director of Industry Operations may in his discretion allow, the Director of Industry Operations will return a copy of the application, marked “Disapproved,” to the applicant, accompanied by a brief statement including the findings upon which the denial is based.
-</P>
-</SECTION>
-<SECTION>
-<SECTNO>§ 771.63 </SECTNO>
-<SUBJECT>Revocation or denial of renewal.</SUBJECT>
-<P>
-In the case of a revocation or denial of renewal of an application, if the licensee or permittee does not request a hearing within 15 days, or within such additional time as the Director of Industry Operations may in his discretion allow, the Director of Industry Operations shall make the initial decision in the case pursuant to § 771.78(b).
-</P>
-<HD SOURCE="HD1">Responses to Notices</HD>
-</SECTION>
-<SECTION>
-<SECTNO>§ 771.64 </SECTNO>
-<SUBJECT>Answers.</SUBJECT>
-<P>
-(a) Where the licensee or permittee requests a hearing in accordance with §§ 771.59 and 771.60, a written response to the relevant notice may be filed with the administrative law judge and served on the Director of Industry Operations within 15 days after the licensee or permittee receives service of the designation of the administrative law judge.
-</P>
-<P>
-(b) Where no hearing is requested, the licensee or permittee may file a written answer to the relevant notice with the Director of Industry Operations within 15 days after service of the notice.
-</P>
-<P>
-(c) An answer shall contain a concise statement of the facts that constitute the grounds for defense. A hearing, if requested, may be limited to the issues contained in the notice and the answer. The administrative law judge or Director of Industry Operations, as the case may be, may, as a matter of discretion, waive any requirement of this section.
-</P>
-<P>
-(d) Answers need not be filed in initial application proceedings.
-</P>
-</SECTION>
-<SECTION>
-<SECTNO>§ 771.65 </SECTNO>
-<SUBJECT>Responses admitting facts.</SUBJECT>
-<P>
-If the licensee or permittee desires to waive the hearing on the allegations of fact set forth in the notice and does not contest the facts, the answer may consist of a statement that the licensee or permittee admits all material allegations of fact charged in the notice to be true. The Director of Industry Operations shall base the decision on the notice and such answer, although such an answer shall not affect the licensee's or permittee's right to submit proposed findings of fact and conclusions of law or right to appeal.
-</P>
-</SECTION>
-<SECTION>
-<SECTNO>§ 771.66 </SECTNO>
-<SUBJECT>Initial conferences.</SUBJECT>
-<P>
-(a) In any proceeding, the administrative law judge, upon his own motion or upon the motion of one of the parties or their qualified representatives, may in the administrative law judge's discretion direct the parties or their qualified representatives to appear at a specified time and place for a conference to consider:
-</P>
-<P>(1) Simplification of the issues;</P>
-<P>(2) The necessity of amendments to the pleadings;</P>
-<P>
-(3) The possibility of obtaining stipulations, admissions of facts, and documents;
-</P>
-<P>
-(4) The possibility of both parties exchanging information or scheduling discovery;
-</P>
-<P>
-(5) A date on which both parties will simultaneously submit lists of proposed hearing exhibits;
-</P>
-<P>(6) Limiting the number of expert witnesses;</P>
-<P>
-(7) Identifying and, if practicable, scheduling all witnesses to be called; however, there is no requirement in these proceedings for the parties to submit pre-hearing statements or statements of proposed testimony by witnesses; and
-</P>
-<P>
-(8) Such other matters as may aid in the disposition of the proceeding.
-</P>
-<P>
-(b) As soon as practicable after such conference, the administrative law judge shall issue an order that recites the action taken, the amendments allowed to the pleadings, and the agreements made by the parties or their qualified representatives as to any of the matters considered. The order shall also limit the issues for hearing to those not disposed of by admission or agreement. Such order shall control the subsequent course of the proceedings, unless modified for good cause by a subsequent order. After discovery is complete, the order may be amended or supplemented if necessary.
-</P>
-<HD SOURCE="HD1">Failure To Appear</HD>
-</SECTION>
-<SECTION>
-<SECTNO>§ 771.67 </SECTNO>
-<SUBJECT>Initial applications.</SUBJECT>
-<P>
-Where the applicant on an initial application for a license or permit has requested a hearing and does not appear at the appointed time and place, evidence has not been offered to refute or explain the grounds upon which disapproval of the application is contemplated, and no good cause has been shown for the failure to appear, the applicant shall be considered to have waived the hearing. When such waiver occurs, a default judgment against the applicant will be entered and the
-<PRTPAGE P="64749"/>
-administrative law judge shall recommend disapproval of said application.
-</P>
-</SECTION>
-<SECTION>
-<SECTNO>§ 771.68 </SECTNO>
-<SUBJECT>Revocation or denial of renewal.</SUBJECT>
-<P>
-If, on the date set for a hearing concerning the revocation or denial of renewal of a license or permit, the licensee or permittee does not appear, no evidence has been offered, and no good cause has been shown for the failure to appear, the Attorney for the Government will proceed ex parte and offer for the record sufficient evidence to make a
-<E T="03">prima facie</E>
-case. At such hearing, documents, statements, and affidavits may be submitted in lieu of testimony of witnesses.
-</P>
-<HD SOURCE="HD1">Waiver of Hearing</HD>
-</SECTION>
-<SECTION>
-<SECTNO>§ 771.69 </SECTNO>
-<SUBJECT>Withdrawal of request for hearing.</SUBJECT>
-<P>
-At any time prior to the assignment of an administrative law judge, the licensee or permittee may, by filing written notice with the Director of Industry Operations, withdraw his request for a hearing. If such a notice is filed after assignment to the administrative law judge and prior to issuance of his recommended decision the Director of Industry Operations shall move the administrative law judge to dismiss the proceedings as moot. If such a notice is filed either after issuance of a notice of denial or notice of revocation and before assignment of the administrative law judge, or after issuance by the administrative law judge of his recommended decision and prior to the Director of Industry Operations' order disapproving the application or denying the renewal of or revoking the license or permit, the Director of Industry Operations shall, by order, dismiss the proceeding.
-</P>
-</SECTION>
-<SECTION>
-<SECTNO>§ 771.70 </SECTNO>
-<SUBJECT>Adjudication based upon written submissions.</SUBJECT>
-<P>
-The licensee or permittee may waive the hearing before the administrative law judge and stipulate that the matter will be adjudicated by the Director of Industry Operations based upon written submissions. Written submissions may include stipulations of law or facts, proposed findings of fact and conclusions of law, briefs, or any other documentary material. The pleadings, together with the written submissions of both the licensee or permittee and the attorney for the Government, shall constitute the record on which the initial decision shall be based. The election to contest the denial or revocation without a hearing under this section does not affect the licensee's or permittee's right to appeal to the Director pursuant to § 555.79 of this chapter or to the United States Court of Appeals for the circuit in which the licensee or permittee resides or has his principle place of business pursuant to § 555.80 of this chapter.
-</P>
-<HD SOURCE="HD1">Surrender of License or Permit</HD>
-</SECTION>
-<SECTION>
-<SECTNO>§ 771.71 </SECTNO>
-<SUBJECT> Before citation.</SUBJECT>
-<P>
-If a licensee or permittee surrenders the license or permit before the notice of revocation or denial of renewal, the Director of Industry Operations may accept the surrender. But if the evidence, in the opinion of the Director of Industry Operations, warrants issuance of a notice for revocation or denial of renewal, the surrender shall be refused and the Director of Industry Operations shall issue the notice.
-</P>
-</SECTION>
-<SECTION>
-<SECTNO>§ 771.72 </SECTNO>
-<SUBJECT>After citation.</SUBJECT>
-<P>
-If a licensee or permittee surrenders the license or permit after notice, but prior to the referral to an administrative law judge and prior to an initial decision, the Director of Industry Operations may accept the surrender of the license or permit and dismiss the proceeding as moot. If a licensee or permittee surrenders the license or permit after notice and after the referral to the administrative law judge, but prior to the issuance of a recommended decision, the Director of Industry Operations may accept the surrender of the license or permit and shall move the administrative law judge to dismiss the proceedings as moot. In either case, if, in the opinion of the Director of Industry Operations, the evidence is such as to warrant revocation or denial of renewal, as the case may be, the surrender of the license or permit shall be refused, and the proceeding shall continue.
-</P>
-<HD SOURCE="HD1">Motions</HD>
-</SECTION>
-<SECTION>
-<SECTNO>§ 771.73 </SECTNO>
-<SUBJECT> General.</SUBJECT>
-<P>
-All motions shall be made and addressed to the administrative law judge before whom the proceeding is pending, and copies of all motion papers shall be served upon the other party or parties. The administrative law judge may dispose of any motion without oral argument, but he may, if he so desires, set it down for hearing and request argument. The administrative law judge may dispose of such motion prior to the hearing on the merits or he may postpone the disposition until the hearing on the merits. No appeal may be taken from any ruling on a motion until the whole record is certified for review. Examples of typical motions may be found in the Rules of Civil Procedure referred to in § 771.2.
-</P>
-</SECTION>
-<SECTION>
-<SECTNO>§ 771.74 </SECTNO>
-<SUBJECT>Prior to hearing.</SUBJECT>
-<P>
-All motions that should be made prior to the hearing, such as a motion directed to the sufficiency of the pleadings or of preliminary orders, shall be filed in writing with the Director of Industry Operations or the administrative law judge if the matter has been referred to him, and shall briefly state the order or relief applied for and the grounds for such motion.
-</P>
-</SECTION>
-<SECTION>
-<SECTNO>§ 771.75 </SECTNO>
-<SUBJECT>At hearing.</SUBJECT>
-<P>
-Motions at the hearing may be made in writing to the administrative law judge or stated orally on the record.
-</P>
-<HD SOURCE="HD1">Hearing</HD>
-</SECTION>
-<SECTION>
-<SECTNO>§ 771.76 </SECTNO>
-<SUBJECT> General.</SUBJECT>
-<P>
-If a hearing is requested, it shall be held at the time and place stated in the notice of hearing unless otherwise ordered by the administrative law judge.
-</P>
-</SECTION>
-<SECTION>
-<SECTNO>§ 771.77 </SECTNO>
-<SUBJECT> Initial applications.</SUBJECT>
-<P>
-(a) The administrative law judge who presides at the hearing on initial applications shall recommend a decision to the Director of Industry Operations. The administrative law judge shall certify the complete record of the proceedings before him and shall immediately forward the complete certified record to the Director of Industry Operations. The administrative law judge shall also send one copy of his recommended decision to the applicant or the applicant's representative, one copy to the Attorney for the Government, and one copy to the Director of Industry Operations, who shall make the initial decision as provided in § 771.107. The applicant may be directed by the Director of Industry Operations to produce such records as may be deemed necessary for examination. All hearings on applications shall be open to the public subject to such restrictions and limitations as may be consistent with orderly procedure.
-</P>
-<P>
-(b) If no hearing is requested, the return of the application marked “Disapproved” is the Director of Industry Operations' initial decision.
-</P>
-</SECTION>
-<SECTION>
-<SECTNO>§ 771.78 </SECTNO>
-<SUBJECT>Revocation or denial of renewal.</SUBJECT>
-<P>
-(a) The administrative law judge who presides at the hearing in proceedings for the revocation or denial of renewal of licenses or permits shall make a recommended decision to the Director of Industry Operations. The administrative law judge shall certify the complete record of the proceedings before him and shall immediately forward the complete certified record to the Director of Industry Operations. The administrative law judge shall also send
-<PRTPAGE P="64750"/>
-one copy of his recommended decision to the licensee or permittee or the licensee's or permittee's representative, one copy to the Attorney for the Government, and one copy to the Director of Industry Operations, who shall make the initial decision as provided in § 771.109.
-</P>
-<P>
-(b) If no hearing is requested, the Director of Industry Operations shall make the initial decision.
-</P>
-<HD SOURCE="HD1">Burden of Proof</HD>
-</SECTION>
-<SECTION>
-<SECTNO>§ 771.79 </SECTNO>
-<SUBJECT> Initial applications.</SUBJECT>
-<P>
-In hearings on the initial denial of applications, the burden of proof is on the Government to show by a preponderance of the evidence that the Director of Industry Operations had reason to believe that the applicant is not entitled to a permit or license.
-</P>
-</SECTION>
-<SECTION>
-<SECTNO>§ 771.80 </SECTNO>
-<SUBJECT>Revocation or denial of renewal.</SUBJECT>
-<P>
-In hearings on the revocation or denial of renewal of a license or permit, the burden of proof is on the Government to show that the Director of Industry Operations had reason to believe that the licensee or permittee is not entitled to a permit or license, as may be the case. The Government must meet this proof by a preponderance of the evidence.
-</P>
-<HD SOURCE="HD1">General</HD>
-</SECTION>
-<SECTION>
-<SECTNO>§ 771.81 </SECTNO>
-<SUBJECT> Stipulations at hearing.</SUBJECT>
-<P>
-If there has been no initial conference under § 771.66, the administrative law judge may at the beginning of the hearing require that the parties attempt to arrive at such stipulations as will eliminate the necessity of taking evidence with respect to allegations of fact about which there is no substantial dispute. The administrative law judge should take similar action, where appropriate, throughout the hearing and should call and conduct any conferences that he deems advisable with a view to the simplification, clarification, and disposition of any of the issues involved in the hearing.
-</P>
-</SECTION>
-<SECTION>
-<SECTNO>§ 771.82 </SECTNO>
-<SUBJECT>Evidence.</SUBJECT>
-<P>
-The Federal Rules of Evidence are not binding on these proceedings. However, any relevant evidence that would be admissible under the rules of evidence governing civil proceedings in matters not involving trial by jury in the Courts of the United States shall be admissible. The administrative law judge may relax such rules in any hearing when in his judgment such relaxation would not impair the rights of either party and would more speedily conclude the hearing or would better serve the ends of justice. However, the administrative law judge shall provide for the exclusion of irrelevant, immaterial, or unduly repetitious evidence. Every party shall have the right to present his case or defense by oral or documentary evidence, depositions, or duly authenticated copies of records and documents; to submit rebuttal evidence; and to conduct such reasonable cross-examination as may be required for a full and true disclosure of the facts.
-</P>
-<P>
-(a)
-<E T="03">Witnesses.</E>
-The administrative law judge shall have the right in his discretion to limit the number of witnesses whose testimony may be merely cumulative and shall, as a matter of policy, not only exclude irrelevant, immaterial, or unduly repetitious evidence but shall also limit the cross-examination of witnesses to that required for a full and true disclosure of the facts so as not to unnecessarily prolong the hearing and unduly burden the record. Opinion or expert testimony shall be admitted when the administrative law judge is satisfied that the witness is properly qualified as defined by Federal Rules of Evidence 701 or 702.
-</P>
-<P>
-(b)
-<E T="03">Documentary evidence.</E>
-Material and relevant evidence shall not be excluded because it is not the best evidence unless its authenticity is challenged, in which case reasonable time shall be given to establish its authenticity. When only portions of a document are to be relied upon, the offering party shall prepare the pertinent excerpts, adequately identified, and shall supply copies of such excerpts, together with a statement indicating the purpose for which such materials will be offered, to the administrative law judge and to the other parties. Only the excerpts, so prepared and submitted, shall be received in the record. However, the whole of the original document should be made available for examination and for use by opposing counsel for purposes of cross-examination. Compilations, charts, summaries of data, and photocopies of documents may be admitted in evidence if the proceedings will thereby be expedited, and if the material upon which they are based is available for examination by the parties. Objections to the evidence shall be in short form, stating the grounds relied upon. The transcript shall not include argument or debate on objections, except as ordered by the administrative law judge, but shall include the rulings thereon. Where official notice is taken of a material fact not appearing in the evidence in the record, any party shall, on timely request, be afforded an opportunity to controvert such fact.
-</P>
-<P>
-(c)
-<E T="03">Hearsay.</E>
-Probative, material, and reliable hearsay evidence is admissible in proceedings under this subpart.
-</P>
-</SECTION>
-<SECTION>
-<SECTNO>§ 771.83 </SECTNO>
-<SUBJECT>
-Closing of hearings; arguments, briefs, and proposed findings.
-</SUBJECT>
-<P>
-Before closing a hearing, the administrative law judge shall inquire of each party whether the party has any further evidence to offer, which inquiry and the response thereto shall be shown in the record. The administrative law judge may hear arguments of counsel and the administrative law judge may limit the time of such arguments at his discretion. The administrative law judge may, in his discretion, allow briefs to be filed on behalf of either party but shall closely limit the time within which the briefs for both parties shall be filed, so as to avoid unreasonable delay. The administrative law judge shall also ascertain whether the parties desire to submit proposed findings and conclusions, together with supporting reasons, and, if so, a period of not more than 15 days (unless extended by the administrative law judge)—after the close of the hearing or receipt of a copy of the record, if one is requested—will be allowed for such purpose.
-</P>
-</SECTION>
-<SECTION>
-<SECTNO>§ 771.84 </SECTNO>
-<SUBJECT>Reopening of the hearing.</SUBJECT>
-<P>
-The Director, the Director of Industry Operations, or the administrative law judge, as the case may be, may, as to all matters pending before him, in his discretion reopen a hearing—
-</P>
-<P>
-(a) In case of default under § 771.67 or § 771.68 where the applicant, licensee, or permittee failed to request a hearing or to appear after one was set, upon petition setting forth reasonable grounds for such failure; and
-</P>
-<P>
-(b) Where any party desires leave to adduce additional evidence upon petition summarizing such evidence, establishing its materiality, and stating reasonable grounds why such party with due diligence was unable to produce such evidence at the hearing.
-</P>
-<HD SOURCE="HD1">Record of Testimony</HD>
-</SECTION>
-<SECTION>
-<SECTNO>§ 771.85 </SECTNO>
-<SUBJECT>Stenographic record.</SUBJECT>
-<P>
-A stenographic record shall be made of the testimony and proceedings, including stipulations, admissions of fact, and arguments of counsel in all proceedings. A transcript of the evidence and proceedings at the hearing shall be made in all cases.
-</P>
-</SECTION>
-<SECTION>
-<SECTNO>§ 771.86 </SECTNO>
-<SUBJECT>Oath of reporter.</SUBJECT>
-<P>
-The reporter making the stenographic record shall subscribe an oath before the administrative law judge, to be filed in the record of the case, that he will truly and correctly report the oral testimony and proceedings at such hearing and
-<PRTPAGE P="64751"/>
-accurately transcribe the same to the best of his ability.
-</P>
-</SECTION>
+<SUBJGRP>
+    <HD SOURCE="HED">Notices</HD>
+    <SECTION>
+    <SECTNO>§ 771.55 </SECTNO>
+    <SUBJECT>Content.</SUBJECT>
+    <P>
+    (a) Notices for the revocation or denial of renewal of a license or permit shall be promptly issued by the Director of Industry Operations and shall set forth:
+    </P>
+    <P>
+    (1) The sections of law and regulations relied upon for authority and jurisdiction;
+    </P>
+    <P>
+    (2) The specific grounds upon which the revocation or denial is based,
+    <E T="03">i.e.,</E>
+    the matters of fact constituting the violations specified, dates, places, and sections of law and regulations violated;
+    </P>
+    <P>
+    (3) In the case of a revocation, the date on which the action is effective; and
+    </P>
+    <P>
+    (4) That the licensee or permittee has 15 days from receipt of the notice within which to request a hearing before an administrative law judge.
+    </P>
+    <P>
+    (b) Notices for the denial of an initial application for a license or permit shall set forth:
+    </P>
+    <P>
+    (1) The sections of law and regulations relied upon for authority and jurisdiction;
+    </P>
+    <P>
+    (2) The specific grounds upon which the denial is based,
+    <E T="03">i.e.,</E>
+    the matters of fact and law relied upon for the disapproval of the application; and
+    </P>
+    <P>
+    (3) That the application will be disapproved unless a hearing is requested within 15 days from receipt of the notice.
+    </P>
+    </SECTION>
+    <SECTION>
+    <SECTNO>§ 771.56 </SECTNO>
+    <SUBJECT>Forms.</SUBJECT>
+    <P>Notices shall be issued on the following forms:</P>
+    <P>
+    (a) ATF Form 5400.9, “Order After Denial or Revocation Hearing,” for all revocations or denials of renewal of licenses or permits pursuant to 18 U.S.C. chapter 40 after a hearing has been held and a Recommended Decision has been issued by the administrative law judge;
+    </P>
+    <P>
+    (b) Form 5400.10, “Notice of Revocation for License or Permit,” for all revocations of licenses or permits pursuant to 18 U.S.C. chapter 40, except as provided for in paragraph (a) of this section;
+    </P>
+    <P>
+    (c) Form 5400.11, “Notice of Denial of Application for License or Permit,” for the denial of renewal or original applications for licenses or permits pursuant to 18 U.S.C. chapter 40, except as provided for in paragraph (a) of this section;
+    </P>
+    <P>
+    (d) Form 5400.12, “Notice of Contemplated Denial or Revocation of License or Permit,” for the contemplated revocation or denial of renewal application of licenses or permits pursuant to 18 U.S.C. chapter 40; or
+    </P>
+    <P>
+    (e) Such other forms as the Director may prescribe.
+    </P>
+    </SECTION>
+    <SECTION>
+    <SECTNO>§ 771.57 </SECTNO>
+    <SUBJECT>Execution and disposition.</SUBJECT>
+    <P>
+    A signed original of the applicable form shall be served on the licensee or permittee. If a hearing is requested, a copy shall be sent to the administrative law judge designated to conduct the hearing. Any remaining copies shall be retained for the office of the Director of Industry Operations.
+    </P>
+    </SECTION>
+    <SECTION>
+    <SECTNO>§ 771.58 </SECTNO>
+    <SUBJECT> Designated place of hearing.</SUBJECT>
+    <P>
+    The designated place of hearing shall be determined by the administrative law judge, taking into consideration the convenience and necessity of the parties and their representatives.
+    </P>
+    </SECTION>
+</SUBJGRP>
+<SUBJGRP>
+    <HD SOURCE="HED">Request for Hearing</HD>
+    <SECTION>
+        <SECTNO>§ 771.59 </SECTNO>
+        <SUBJECT>Initial application proceedings.</SUBJECT>
+        <P>
+        (a) If the applicant for an initial license or permit desires a hearing, he shall file a request in writing with the Director of Industry Operations within 15 days after receipt of notice of the disapproval, in whole or in part, of the application.
+        </P>
+        <P>
+        (b) On receipt of the request, the Director of Industry Operations shall forward a copy of the request, together with a copy of the notice, to the Office of Chief Counsel for the assignment of an administrative law judge.
+        <PRTPAGE P="64748"/>
+        </P>
+        <P>
+        (c) After the Office of Chief Counsel notifies the Director of Industry Operations or the Attorney for the Government of the assignment of an administrative law judge, the Director of Industry Operations shall notify the licensee or permittee of the assignment, if the administrative law judge has not already done so.
+        </P>
+    </SECTION>
+    <SECTION>
+        <SECTNO>§ 771.60 </SECTNO>
+        <SUBJECT>Revocation or denial of renewal proceedings.</SUBJECT>
+        <P>
+        (a) If the licensee or permittee desires a hearing, he shall file a request, in writing, with the Director of Industry Operations within 15 days after receipt of the notice or within such time as the Director of Industry Operations may allow.
+        </P>
+        <P>
+        (b) Where a licensee or permittee requests a hearing, the Director of Industry Operations shall forward a copy of the request, together with a copy of the notice, to the Office of Chief Counsel for the assignment of an administrative law judge.
+        </P>
+        <P>
+        (c) After the Office of Chief Counsel notifies the Director of Industry Operations or the Attorney for the Government of the assignment of an administrative law judge, the Director of Industry Operations shall notify the licensee or permittee of the assignment, if the administrative law judge has not already done so.
+        </P>
+        <P>
+        (d) In the case of a revocation, a licensee or permittee may include a request for a stay of the effective date of revocation with the request for a hearing.
+        </P>
+        <P>
+        (e) On receipt of a request for a stay of the effective date of a revocation, the Director of Industry Operations shall timely advise the licensee or permittee whether the stay is granted.
+        </P>
+        <P>
+        (1) If the stay is granted, the matter shall be referred to an administrative law judge pursuant to paragraph (b) of this section.
+        </P>
+        <P>
+        (2) If the stay is denied, the licensee or permittee may request an immediate hearing. In this event, the Director of Industry Operations shall immediately refer the matter to the Office of Chief Counsel for the assignment of an administrative law judge, who shall set a date and place for hearing, which date shall be no later than 10 days from the date the licensee or permittee requested the immediate hearing.
+        </P>
+    </SECTION>
+    <SECTION>
+        <SECTNO>§ 771.61 </SECTNO>
+        <SUBJECT>Notice of hearing.</SUBJECT>
+        <P>
+        Once a request for a hearing has been referred to the administrative law judge, the administrative law judge shall set a time and place for a hearing and shall serve notice thereof upon the parties at least 10 days in advance of the hearing date.
+        </P>
+    </SECTION>
+</SUBJGRP>
+<SUBJGRP>
+    <HD SOURCE="HED">Non-Request for Hearing</HD>
+    <SECTION>
+        <SECTNO>§ 771.62 </SECTNO>
+        <SUBJECT>Initial application.</SUBJECT>
+        <P>
+        In the case of an initial application, if the applicant does not request a hearing within 15 days, or within such additional time as the Director of Industry Operations may in his discretion allow, the Director of Industry Operations will return a copy of the application, marked “Disapproved,” to the applicant, accompanied by a brief statement including the findings upon which the denial is based.
+        </P>
+        </SECTION>
+        <SECTION>
+        <SECTNO>§ 771.63 </SECTNO>
+        <SUBJECT>Revocation or denial of renewal.</SUBJECT>
+        <P>
+        In the case of a revocation or denial of renewal of an application, if the licensee or permittee does not request a hearing within 15 days, or within such additional time as the Director of Industry Operations may in his discretion allow, the Director of Industry Operations shall make the initial decision in the case pursuant to § 771.78(b).
+        </P>      
+    </SECTION>
+</SUBJGRP>
+<SUBJGRP>
+    <HD SOURCE="HED">Responses to Notices</HD>
+    <SECTION>
+        <SECTNO>§ 771.64 </SECTNO>
+        <SUBJECT>Answers.</SUBJECT>
+        <P>
+        (a) Where the licensee or permittee requests a hearing in accordance with §§ 771.59 and 771.60, a written response to the relevant notice may be filed with the administrative law judge and served on the Director of Industry Operations within 15 days after the licensee or permittee receives service of the designation of the administrative law judge.
+        </P>
+        <P>
+        (b) Where no hearing is requested, the licensee or permittee may file a written answer to the relevant notice with the Director of Industry Operations within 15 days after service of the notice.
+        </P>
+        <P>
+        (c) An answer shall contain a concise statement of the facts that constitute the grounds for defense. A hearing, if requested, may be limited to the issues contained in the notice and the answer. The administrative law judge or Director of Industry Operations, as the case may be, may, as a matter of discretion, waive any requirement of this section.
+        </P>
+        <P>
+        (d) Answers need not be filed in initial application proceedings.
+        </P>
+        </SECTION>
+        <SECTION>
+        <SECTNO>§ 771.65 </SECTNO>
+        <SUBJECT>Responses admitting facts.</SUBJECT>
+        <P>
+        If the licensee or permittee desires to waive the hearing on the allegations of fact set forth in the notice and does not contest the facts, the answer may consist of a statement that the licensee or permittee admits all material allegations of fact charged in the notice to be true. The Director of Industry Operations shall base the decision on the notice and such answer, although such an answer shall not affect the licensee's or permittee's right to submit proposed findings of fact and conclusions of law or right to appeal.
+        </P>
+        </SECTION>
+        <SECTION>
+        <SECTNO>§ 771.66 </SECTNO>
+        <SUBJECT>Initial conferences.</SUBJECT>
+        <P>
+        (a) In any proceeding, the administrative law judge, upon his own motion or upon the motion of one of the parties or their qualified representatives, may in the administrative law judge's discretion direct the parties or their qualified representatives to appear at a specified time and place for a conference to consider:
+        </P>
+        <P>(1) Simplification of the issues;</P>
+        <P>(2) The necessity of amendments to the pleadings;</P>
+        <P>
+        (3) The possibility of obtaining stipulations, admissions of facts, and documents;
+        </P>
+        <P>
+        (4) The possibility of both parties exchanging information or scheduling discovery;
+        </P>
+        <P>
+        (5) A date on which both parties will simultaneously submit lists of proposed hearing exhibits;
+        </P>
+        <P>(6) Limiting the number of expert witnesses;</P>
+        <P>
+        (7) Identifying and, if practicable, scheduling all witnesses to be called; however, there is no requirement in these proceedings for the parties to submit pre-hearing statements or statements of proposed testimony by witnesses; and
+        </P>
+        <P>
+        (8) Such other matters as may aid in the disposition of the proceeding.
+        </P>
+        <P>
+        (b) As soon as practicable after such conference, the administrative law judge shall issue an order that recites the action taken, the amendments allowed to the pleadings, and the agreements made by the parties or their qualified representatives as to any of the matters considered. The order shall also limit the issues for hearing to those not disposed of by admission or agreement. Such order shall control the subsequent course of the proceedings, unless modified for good cause by a subsequent order. After discovery is complete, the order may be amended or supplemented if necessary.
+        </P>     
+    </SECTION>
+</SUBJGRP>
+<SUBJGRP>
+    <HD SOURCE="HED">Failure To Appear</HD>
+    <SECTION>
+        <SECTNO>§ 771.67 </SECTNO>
+        <SUBJECT>Initial applications.</SUBJECT>
+        <P>
+        Where the applicant on an initial application for a license or permit has requested a hearing and does not appear at the appointed time and place, evidence has not been offered to refute or explain the grounds upon which disapproval of the application is contemplated, and no good cause has been shown for the failure to appear, the applicant shall be considered to have waived the hearing. When such waiver occurs, a default judgment against the applicant will be entered and the
+        <PRTPAGE P="64749"/>
+        administrative law judge shall recommend disapproval of said application.
+        </P>
+        </SECTION>
+        <SECTION>
+        <SECTNO>§ 771.68 </SECTNO>
+        <SUBJECT>Revocation or denial of renewal.</SUBJECT>
+        <P>
+        If, on the date set for a hearing concerning the revocation or denial of renewal of a license or permit, the licensee or permittee does not appear, no evidence has been offered, and no good cause has been shown for the failure to appear, the Attorney for the Government will proceed ex parte and offer for the record sufficient evidence to make a
+        <E T="03">prima facie</E>
+        case. At such hearing, documents, statements, and affidavits may be submitted in lieu of testimony of witnesses.
+        </P>
+    </SECTION>
+</SUBJGRP>
+<SUBJGRP>
+    <HD SOURCE="HED">Waiver of Hearing</HD>
+    <SECTION>
+        <SECTNO>§ 771.69 </SECTNO>
+        <SUBJECT>Withdrawal of request for hearing.</SUBJECT>
+        <P>
+        At any time prior to the assignment of an administrative law judge, the licensee or permittee may, by filing written notice with the Director of Industry Operations, withdraw his request for a hearing. If such a notice is filed after assignment to the administrative law judge and prior to issuance of his recommended decision the Director of Industry Operations shall move the administrative law judge to dismiss the proceedings as moot. If such a notice is filed either after issuance of a notice of denial or notice of revocation and before assignment of the administrative law judge, or after issuance by the administrative law judge of his recommended decision and prior to the Director of Industry Operations' order disapproving the application or denying the renewal of or revoking the license or permit, the Director of Industry Operations shall, by order, dismiss the proceeding.
+        </P>
+        </SECTION>
+        <SECTION>
+        <SECTNO>§ 771.70 </SECTNO>
+        <SUBJECT>Adjudication based upon written submissions.</SUBJECT>
+        <P>
+        The licensee or permittee may waive the hearing before the administrative law judge and stipulate that the matter will be adjudicated by the Director of Industry Operations based upon written submissions. Written submissions may include stipulations of law or facts, proposed findings of fact and conclusions of law, briefs, or any other documentary material. The pleadings, together with the written submissions of both the licensee or permittee and the attorney for the Government, shall constitute the record on which the initial decision shall be based. The election to contest the denial or revocation without a hearing under this section does not affect the licensee's or permittee's right to appeal to the Director pursuant to § 555.79 of this chapter or to the United States Court of Appeals for the circuit in which the licensee or permittee resides or has his principle place of business pursuant to § 555.80 of this chapter.
+        </P>
+    </SECTION>
+</SUBJGRP>
+<SUBJGRP>
+    <HD SOURCE="HED">Surrender of License or Permit</HD>
+    <SECTION>
+        <SECTNO>§ 771.71 </SECTNO>
+        <SUBJECT> Before citation.</SUBJECT>
+        <P>
+        If a licensee or permittee surrenders the license or permit before the notice of revocation or denial of renewal, the Director of Industry Operations may accept the surrender. But if the evidence, in the opinion of the Director of Industry Operations, warrants issuance of a notice for revocation or denial of renewal, the surrender shall be refused and the Director of Industry Operations shall issue the notice.
+        </P>
+        </SECTION>
+        <SECTION>
+        <SECTNO>§ 771.72 </SECTNO>
+        <SUBJECT>After citation.</SUBJECT>
+        <P>
+        If a licensee or permittee surrenders the license or permit after notice, but prior to the referral to an administrative law judge and prior to an initial decision, the Director of Industry Operations may accept the surrender of the license or permit and dismiss the proceeding as moot. If a licensee or permittee surrenders the license or permit after notice and after the referral to the administrative law judge, but prior to the issuance of a recommended decision, the Director of Industry Operations may accept the surrender of the license or permit and shall move the administrative law judge to dismiss the proceedings as moot. In either case, if, in the opinion of the Director of Industry Operations, the evidence is such as to warrant revocation or denial of renewal, as the case may be, the surrender of the license or permit shall be refused, and the proceeding shall continue.
+        </P>
+    </SECTION>
+</SUBJGRP>
+<SUBJGRP>
+    <HD SOURCE="HED">Motions</HD>
+    <SECTION>
+        <SECTNO>§ 771.73 </SECTNO>
+        <SUBJECT> General.</SUBJECT>
+        <P>
+        All motions shall be made and addressed to the administrative law judge before whom the proceeding is pending, and copies of all motion papers shall be served upon the other party or parties. The administrative law judge may dispose of any motion without oral argument, but he may, if he so desires, set it down for hearing and request argument. The administrative law judge may dispose of such motion prior to the hearing on the merits or he may postpone the disposition until the hearing on the merits. No appeal may be taken from any ruling on a motion until the whole record is certified for review. Examples of typical motions may be found in the Rules of Civil Procedure referred to in § 771.2.
+        </P>
+        </SECTION>
+        <SECTION>
+        <SECTNO>§ 771.74 </SECTNO>
+        <SUBJECT>Prior to hearing.</SUBJECT>
+        <P>
+        All motions that should be made prior to the hearing, such as a motion directed to the sufficiency of the pleadings or of preliminary orders, shall be filed in writing with the Director of Industry Operations or the administrative law judge if the matter has been referred to him, and shall briefly state the order or relief applied for and the grounds for such motion.
+        </P>
+        </SECTION>
+        <SECTION>
+        <SECTNO>§ 771.75 </SECTNO>
+        <SUBJECT>At hearing.</SUBJECT>
+        <P>
+        Motions at the hearing may be made in writing to the administrative law judge or stated orally on the record.
+        </P>
+    </SECTION>
+</SUBJGRP>
+<SUBJGRP>
+    <HD SOURCE="HED">Hearing</HD>
+    <SECTION>
+        <SECTNO>§ 771.76 </SECTNO>
+        <SUBJECT> General.</SUBJECT>
+        <P>
+        If a hearing is requested, it shall be held at the time and place stated in the notice of hearing unless otherwise ordered by the administrative law judge.
+        </P>
+        </SECTION>
+        <SECTION>
+        <SECTNO>§ 771.77 </SECTNO>
+        <SUBJECT> Initial applications.</SUBJECT>
+        <P>
+        (a) The administrative law judge who presides at the hearing on initial applications shall recommend a decision to the Director of Industry Operations. The administrative law judge shall certify the complete record of the proceedings before him and shall immediately forward the complete certified record to the Director of Industry Operations. The administrative law judge shall also send one copy of his recommended decision to the applicant or the applicant's representative, one copy to the Attorney for the Government, and one copy to the Director of Industry Operations, who shall make the initial decision as provided in § 771.107. The applicant may be directed by the Director of Industry Operations to produce such records as may be deemed necessary for examination. All hearings on applications shall be open to the public subject to such restrictions and limitations as may be consistent with orderly procedure.
+        </P>
+        <P>
+        (b) If no hearing is requested, the return of the application marked “Disapproved” is the Director of Industry Operations' initial decision.
+        </P>
+        </SECTION>
+        <SECTION>
+        <SECTNO>§ 771.78 </SECTNO>
+        <SUBJECT>Revocation or denial of renewal.</SUBJECT>
+        <P>
+        (a) The administrative law judge who presides at the hearing in proceedings for the revocation or denial of renewal of licenses or permits shall make a recommended decision to the Director of Industry Operations. The administrative law judge shall certify the complete record of the proceedings before him and shall immediately forward the complete certified record to the Director of Industry Operations. The administrative law judge shall also send
+        <PRTPAGE P="64750"/>
+        one copy of his recommended decision to the licensee or permittee or the licensee's or permittee's representative, one copy to the Attorney for the Government, and one copy to the Director of Industry Operations, who shall make the initial decision as provided in § 771.109.
+        </P>
+        <P>
+        (b) If no hearing is requested, the Director of Industry Operations shall make the initial decision.
+        </P>       
+    </SECTION>
+</SUBJGRP>
+<SUBJGRP>
+    <HD SOURCE="HED">Burden of Proof</HD>
+    <SECTION>
+        <SECTNO>§ 771.79 </SECTNO>
+        <SUBJECT> Initial applications.</SUBJECT>
+        <P>
+        In hearings on the initial denial of applications, the burden of proof is on the Government to show by a preponderance of the evidence that the Director of Industry Operations had reason to believe that the applicant is not entitled to a permit or license.
+        </P>
+        </SECTION>
+        <SECTION>
+        <SECTNO>§ 771.80 </SECTNO>
+        <SUBJECT>Revocation or denial of renewal.</SUBJECT>
+        <P>
+        In hearings on the revocation or denial of renewal of a license or permit, the burden of proof is on the Government to show that the Director of Industry Operations had reason to believe that the licensee or permittee is not entitled to a permit or license, as may be the case. The Government must meet this proof by a preponderance of the evidence.
+        </P>
+    </SECTION>
+</SUBJGRP>
+<SUBJGRP>
+    <HD SOURCE="HED">General</HD>
+    <SECTION>
+        <SECTNO>§ 771.81 </SECTNO>
+        <SUBJECT> Stipulations at hearing.</SUBJECT>
+        <P>
+        If there has been no initial conference under § 771.66, the administrative law judge may at the beginning of the hearing require that the parties attempt to arrive at such stipulations as will eliminate the necessity of taking evidence with respect to allegations of fact about which there is no substantial dispute. The administrative law judge should take similar action, where appropriate, throughout the hearing and should call and conduct any conferences that he deems advisable with a view to the simplification, clarification, and disposition of any of the issues involved in the hearing.
+        </P>
+        </SECTION>
+        <SECTION>
+        <SECTNO>§ 771.82 </SECTNO>
+        <SUBJECT>Evidence.</SUBJECT>
+        <P>
+        The Federal Rules of Evidence are not binding on these proceedings. However, any relevant evidence that would be admissible under the rules of evidence governing civil proceedings in matters not involving trial by jury in the Courts of the United States shall be admissible. The administrative law judge may relax such rules in any hearing when in his judgment such relaxation would not impair the rights of either party and would more speedily conclude the hearing or would better serve the ends of justice. However, the administrative law judge shall provide for the exclusion of irrelevant, immaterial, or unduly repetitious evidence. Every party shall have the right to present his case or defense by oral or documentary evidence, depositions, or duly authenticated copies of records and documents; to submit rebuttal evidence; and to conduct such reasonable cross-examination as may be required for a full and true disclosure of the facts.
+        </P>
+        <P>
+        (a)
+        <E T="03">Witnesses.</E>
+        The administrative law judge shall have the right in his discretion to limit the number of witnesses whose testimony may be merely cumulative and shall, as a matter of policy, not only exclude irrelevant, immaterial, or unduly repetitious evidence but shall also limit the cross-examination of witnesses to that required for a full and true disclosure of the facts so as not to unnecessarily prolong the hearing and unduly burden the record. Opinion or expert testimony shall be admitted when the administrative law judge is satisfied that the witness is properly qualified as defined by Federal Rules of Evidence 701 or 702.
+        </P>
+        <P>
+        (b)
+        <E T="03">Documentary evidence.</E>
+        Material and relevant evidence shall not be excluded because it is not the best evidence unless its authenticity is challenged, in which case reasonable time shall be given to establish its authenticity. When only portions of a document are to be relied upon, the offering party shall prepare the pertinent excerpts, adequately identified, and shall supply copies of such excerpts, together with a statement indicating the purpose for which such materials will be offered, to the administrative law judge and to the other parties. Only the excerpts, so prepared and submitted, shall be received in the record. However, the whole of the original document should be made available for examination and for use by opposing counsel for purposes of cross-examination. Compilations, charts, summaries of data, and photocopies of documents may be admitted in evidence if the proceedings will thereby be expedited, and if the material upon which they are based is available for examination by the parties. Objections to the evidence shall be in short form, stating the grounds relied upon. The transcript shall not include argument or debate on objections, except as ordered by the administrative law judge, but shall include the rulings thereon. Where official notice is taken of a material fact not appearing in the evidence in the record, any party shall, on timely request, be afforded an opportunity to controvert such fact.
+        </P>
+        <P>
+        (c)
+        <E T="03">Hearsay.</E>
+        Probative, material, and reliable hearsay evidence is admissible in proceedings under this subpart.
+        </P>
+        </SECTION>
+        <SECTION>
+        <SECTNO>§ 771.83 </SECTNO>
+        <SUBJECT>
+        Closing of hearings; arguments, briefs, and proposed findings.
+        </SUBJECT>
+        <P>
+        Before closing a hearing, the administrative law judge shall inquire of each party whether the party has any further evidence to offer, which inquiry and the response thereto shall be shown in the record. The administrative law judge may hear arguments of counsel and the administrative law judge may limit the time of such arguments at his discretion. The administrative law judge may, in his discretion, allow briefs to be filed on behalf of either party but shall closely limit the time within which the briefs for both parties shall be filed, so as to avoid unreasonable delay. The administrative law judge shall also ascertain whether the parties desire to submit proposed findings and conclusions, together with supporting reasons, and, if so, a period of not more than 15 days (unless extended by the administrative law judge)—after the close of the hearing or receipt of a copy of the record, if one is requested—will be allowed for such purpose.
+        </P>
+        </SECTION>
+        <SECTION>
+        <SECTNO>§ 771.84 </SECTNO>
+        <SUBJECT>Reopening of the hearing.</SUBJECT>
+        <P>
+        The Director, the Director of Industry Operations, or the administrative law judge, as the case may be, may, as to all matters pending before him, in his discretion reopen a hearing—
+        </P>
+        <P>
+        (a) In case of default under § 771.67 or § 771.68 where the applicant, licensee, or permittee failed to request a hearing or to appear after one was set, upon petition setting forth reasonable grounds for such failure; and
+        </P>
+        <P>
+        (b) Where any party desires leave to adduce additional evidence upon petition summarizing such evidence, establishing its materiality, and stating reasonable grounds why such party with due diligence was unable to produce such evidence at the hearing.
+        </P>    
+    </SECTION>
+</SUBJGRP>
+<SUBJGRP>
+    <HD SOURCE="HED">Record of Testimony</HD>
+    <SECTION>
+        <SECTNO>§ 771.85 </SECTNO>
+        <SUBJECT>Stenographic record.</SUBJECT>
+        <P>
+        A stenographic record shall be made of the testimony and proceedings, including stipulations, admissions of fact, and arguments of counsel in all proceedings. A transcript of the evidence and proceedings at the hearing shall be made in all cases.
+        </P>
+        </SECTION>
+        <SECTION>
+        <SECTNO>§ 771.86 </SECTNO>
+        <SUBJECT>Oath of reporter.</SUBJECT>
+        <P>
+        The reporter making the stenographic record shall subscribe an oath before the administrative law judge, to be filed in the record of the case, that he will truly and correctly report the oral testimony and proceedings at such hearing and
+        <PRTPAGE P="64751"/>
+        accurately transcribe the same to the best of his ability.
+        </P>
+    </SECTION>
+</SUBJGRP>
 </SUBPART>
 <SUBPART>
 <HD SOURCE="HED">Subpart G—Administrative Law Judges</HD>
@@ -1260,73 +1312,75 @@ Certification and transmittal of record and decision.
 <P>
 After reaching his decision, the administrative law judge shall certify the complete record of the proceeding before him and shall immediately forward the complete certified record together with one copy of the administrative law judge's recommended decision to the Director of Industry Operations for initial decision, one copy of the recommended decision to the applicant or the applicant's representative, and one copy of the recommended decision to the Attorney for the Government.
 </P>
-<HD SOURCE="HD1">Action by Director of Industry Operations</HD>
 </SECTION>
-<SECTION>
-<SECTNO>§ 771.107 </SECTNO>
-<SUBJECT> Initial application proceedings.</SUBJECT>
-<P>
-(a)
-<E T="03">Accepting the recommended decision.</E>
-If the Director of Industry Operations, after consideration of the record of the hearing and of any proposed findings, conclusions, or exceptions filed with him by the applicant, accepts the recommended decision of the administrative law judge, the Director of Industry Operations shall by order approve or disapprove of the application in accordance with the recommended decision. If the Director of Industry Operations approves the application, he shall briefly state for the record his reasons therefor. However, if the Director of Industry Operations disapproves of the applications, he shall serve a copy of the administrative law judge's recommended decision on the applicant, informing the applicant of the Director of Industry Operations' contemplated action and affording the applicant not more than 10 days in which to submit proposed findings and conclusions or exceptions to the recommended decision with reasons in support thereof.
-</P>
-<P>
-(b)
-<E T="03">Rejecting the recommended decision.</E>
-If, after such consideration referenced in paragraph (a) of this section, the Director of Industry Operations rejects the recommended decision of the administrative law judge, in whole or in part, the Director of Industry Operations shall by order make such findings and conclusions as in his opinion are warranted by the law and facts in the record. Any decision of the Director of Industry Operations ordering the disapproval of an application for a permit shall state the findings and conclusions upon which it is based, including his ruling upon each proposed finding, conclusion, and exception to the administrative law judge's recommended decision, together with a statement of the administrative law judge's findings, conclusions, and reasons or basis therefor, upon all material issues of fact, law, or discretion presented on the record. A signed original of the decision of the Director of Industry Operations shall be served upon the applicant and the original copy containing a certificate of service shall be placed in the official record of the proceeding.
-</P>
-</SECTION>
-<SECTION>
-<SECTNO>§ 771.108 </SECTNO>
-<SUBJECT>Director of Industry Operations' decision.</SUBJECT>
-<P>
-When the Director of Industry Operations issues an initial decision in accordance with § 771.77 or § 771.107 the decision shall become a part of the record. The decision shall consist of:
-</P>
-<P>
-(a) A brief statement of the issues involved in the proceedings;
-</P>
-<P>
-(b) The Director of Industry Operations' findings and conclusions, as well as the reasons therefor; and
-</P>
-<P>
-(c) The Director of Industry Operations' determination on the record.
-</P>
-</SECTION>
-<SECTION>
-<SECTNO>§ 771.109 </SECTNO>
-<SUBJECT>Revocation or denial of renewal proceedings.</SUBJECT>
-<P>
-(a)
-<E T="03">Accepting the recommended decision.</E>
-After consideration of the complete certified record of the hearing, if the Director of Industry Operations agrees with the recommended decision of the administrative law judge, the Director of Industry Operations shall enter an order revoking or denying the renewal of the license or permit or dismissing the proceedings in accordance with the administrative law judge's recommended decision.
-</P>
-<P>
-(b)
-<E T="03">Rejecting the recommended decision.</E>
-After consideration of the complete certified record of the hearing, if the Director of Industry Operations disagrees with the recommended decision of the administrative law judge, he may file a petition with the Director for review of the recommended decision, as provided in § 771.120. If the Director of Industry Operations files such a petition, he shall withhold issuance of the order pending the decision of the Director, upon receipt of which he shall issue the order in accordance with the Director's decision. A signed original of the order of the Director of Industry Operations shall be served upon the licensee or permittee or his representative and the original copy containing a certificate of service shall be placed in the official record of the proceeding.
-</P>
-<P>
-(c)
-<E T="03">Decisions pursuant to § 771.78(b).</E>
-In a case where the initial decision is made by the Director of Industry Operations in accordance with § 771.78(b), the Director of Industry Operations shall also issue an order revoking or denying the renewal of the license or permit, or dismissing the proceedings in accordance with his initial decision. A signed original of the decision and order of the Director of Industry Operations shall be served upon the licensee or permittee or his representative and the original copy placed in the official record of the proceeding.
-</P>
-</SECTION>
-<SECTION>
-<SECTNO>§ 771.110 </SECTNO>
-<SUBJECT>Revocation or denial of renewal.</SUBJECT>
-<P>
-Pursuant to § 771.109(a), when the Director of Industry Operations issues an order revoking or denying the renewal of a license or permit, he shall furnish a copy of the order and of the recommended decision on which it is based to the Director. Should such order be subsequently set aside on review by the courts, the Director of Industry Operations will so advise the Director.
-</P>
-</SECTION>
-<SECTION>
-<SECTNO>§ 771.111 </SECTNO>
-<SUBJECT>
-Proceedings involving violations not within the division of issuance of license or permit.
-</SUBJECT>
-<P>
-In the event violations occurred at a place not within the field division where the licensee or permittee is located, the Director of Industry Operations of the field division where the licensee or permittee is located will take jurisdiction over any proceeding and will take appropriate action in accordance with this subpart, including issuing the relevant notice.
-</P>
-</SECTION>
+<SUBJGRP>
+    <HD SOURCE="HED">Action by Director of Industry Operations</HD>
+    <SECTION>
+        <SECTNO>§ 771.107 </SECTNO>
+        <SUBJECT> Initial application proceedings.</SUBJECT>
+        <P>
+        (a)
+        <E T="03">Accepting the recommended decision.</E>
+        If the Director of Industry Operations, after consideration of the record of the hearing and of any proposed findings, conclusions, or exceptions filed with him by the applicant, accepts the recommended decision of the administrative law judge, the Director of Industry Operations shall by order approve or disapprove of the application in accordance with the recommended decision. If the Director of Industry Operations approves the application, he shall briefly state for the record his reasons therefor. However, if the Director of Industry Operations disapproves of the applications, he shall serve a copy of the administrative law judge's recommended decision on the applicant, informing the applicant of the Director of Industry Operations' contemplated action and affording the applicant not more than 10 days in which to submit proposed findings and conclusions or exceptions to the recommended decision with reasons in support thereof.
+        </P>
+        <P>
+        (b)
+        <E T="03">Rejecting the recommended decision.</E>
+        If, after such consideration referenced in paragraph (a) of this section, the Director of Industry Operations rejects the recommended decision of the administrative law judge, in whole or in part, the Director of Industry Operations shall by order make such findings and conclusions as in his opinion are warranted by the law and facts in the record. Any decision of the Director of Industry Operations ordering the disapproval of an application for a permit shall state the findings and conclusions upon which it is based, including his ruling upon each proposed finding, conclusion, and exception to the administrative law judge's recommended decision, together with a statement of the administrative law judge's findings, conclusions, and reasons or basis therefor, upon all material issues of fact, law, or discretion presented on the record. A signed original of the decision of the Director of Industry Operations shall be served upon the applicant and the original copy containing a certificate of service shall be placed in the official record of the proceeding.
+        </P>
+        </SECTION>
+        <SECTION>
+        <SECTNO>§ 771.108 </SECTNO>
+        <SUBJECT>Director of Industry Operations' decision.</SUBJECT>
+        <P>
+        When the Director of Industry Operations issues an initial decision in accordance with § 771.77 or § 771.107 the decision shall become a part of the record. The decision shall consist of:
+        </P>
+        <P>
+        (a) A brief statement of the issues involved in the proceedings;
+        </P>
+        <P>
+        (b) The Director of Industry Operations' findings and conclusions, as well as the reasons therefor; and
+        </P>
+        <P>
+        (c) The Director of Industry Operations' determination on the record.
+        </P>
+        </SECTION>
+        <SECTION>
+        <SECTNO>§ 771.109 </SECTNO>
+        <SUBJECT>Revocation or denial of renewal proceedings.</SUBJECT>
+        <P>
+        (a)
+        <E T="03">Accepting the recommended decision.</E>
+        After consideration of the complete certified record of the hearing, if the Director of Industry Operations agrees with the recommended decision of the administrative law judge, the Director of Industry Operations shall enter an order revoking or denying the renewal of the license or permit or dismissing the proceedings in accordance with the administrative law judge's recommended decision.
+        </P>
+        <P>
+        (b)
+        <E T="03">Rejecting the recommended decision.</E>
+        After consideration of the complete certified record of the hearing, if the Director of Industry Operations disagrees with the recommended decision of the administrative law judge, he may file a petition with the Director for review of the recommended decision, as provided in § 771.120. If the Director of Industry Operations files such a petition, he shall withhold issuance of the order pending the decision of the Director, upon receipt of which he shall issue the order in accordance with the Director's decision. A signed original of the order of the Director of Industry Operations shall be served upon the licensee or permittee or his representative and the original copy containing a certificate of service shall be placed in the official record of the proceeding.
+        </P>
+        <P>
+        (c)
+        <E T="03">Decisions pursuant to § 771.78(b).</E>
+        In a case where the initial decision is made by the Director of Industry Operations in accordance with § 771.78(b), the Director of Industry Operations shall also issue an order revoking or denying the renewal of the license or permit, or dismissing the proceedings in accordance with his initial decision. A signed original of the decision and order of the Director of Industry Operations shall be served upon the licensee or permittee or his representative and the original copy placed in the official record of the proceeding.
+        </P>
+        </SECTION>
+        <SECTION>
+        <SECTNO>§ 771.110 </SECTNO>
+        <SUBJECT>Revocation or denial of renewal.</SUBJECT>
+        <P>
+        Pursuant to § 771.109(a), when the Director of Industry Operations issues an order revoking or denying the renewal of a license or permit, he shall furnish a copy of the order and of the recommended decision on which it is based to the Director. Should such order be subsequently set aside on review by the courts, the Director of Industry Operations will so advise the Director.
+        </P>
+        </SECTION>
+        <SECTION>
+        <SECTNO>§ 771.111 </SECTNO>
+        <SUBJECT>
+        Proceedings involving violations not within the division of issuance of license or permit.
+        </SUBJECT>
+        <P>
+        In the event violations occurred at a place not within the field division where the licensee or permittee is located, the Director of Industry Operations of the field division where the licensee or permittee is located will take jurisdiction over any proceeding and will take appropriate action in accordance with this subpart, including issuing the relevant notice.
+        </P>
+    </SECTION>
+<SUBJGRP>
 </SUBPART>
 <SUBPART>
 <HD SOURCE="HED">Subpart I—Review</HD>
@@ -1411,24 +1465,26 @@ The discovery provisions of the Federal Rules of Civil Procedure and the Federal
 <P>
 The Administrative Procedure Act, 5 U.S.C. 559, provides that, except as otherwise required by law, privileges relating to procedure or evidence apply equally to agencies and persons. Therefore, an agency may rely on judicially-approved privileges to resist production of its files where appropriate.
 </P>
-<HD SOURCE="HD1">Record</HD>
 </SECTION>
-<SECTION>
-<SECTNO>§ 771.135 </SECTNO>
-<SUBJECT> What constitutes record.</SUBJECT>
-<P>
-The transcript of testimony, pleadings, exhibits, all papers and requests filed in the proceeding, and all findings, decisions, and orders, shall constitute the exclusive record. Where the decision rests on official notice of
-<PRTPAGE P="64754"/>
-material fact not appearing in the record, the administrative law judge shall so state in his findings and any party shall, on timely request, be afforded an opportunity to show facts to the contrary.
-</P>
-</SECTION>
-<SECTION>
-<SECTNO>§ 771.136 </SECTNO>
-<SUBJECT> Availability.</SUBJECT>
-<P>
-A copy of the record shall be available for inspection or copying by the parties to the proceedings during business hours at the office of the administrative law judge or the Director of Industry Operations or, pending administrative review, at the Office of the Director.
-</P>
-</SECTION>
+<SUBJGRP>
+    <HD SOURCE="HED">Record</HD>
+    <SECTION>
+        <SECTNO>§ 771.135 </SECTNO>
+        <SUBJECT> What constitutes record.</SUBJECT>
+        <P>
+        The transcript of testimony, pleadings, exhibits, all papers and requests filed in the proceeding, and all findings, decisions, and orders, shall constitute the exclusive record. Where the decision rests on official notice of
+        <PRTPAGE P="64754"/>
+        material fact not appearing in the record, the administrative law judge shall so state in his findings and any party shall, on timely request, be afforded an opportunity to show facts to the contrary.
+        </P>
+        </SECTION>
+        <SECTION>
+        <SECTNO>§ 771.136 </SECTNO>
+        <SUBJECT> Availability.</SUBJECT>
+        <P>
+        A copy of the record shall be available for inspection or copying by the parties to the proceedings during business hours at the office of the administrative law judge or the Director of Industry Operations or, pending administrative review, at the Office of the Director.
+        </P>
+    </SECTION>
+</SUBJGRP>
 </SUBPART>
 </PART>
 </SUBCHAP>
