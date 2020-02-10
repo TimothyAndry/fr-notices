@@ -292,17 +292,19 @@ PART 771—RULES OF PRACTICE IN EXPLOSIVE LICENSE AND PERMIT PROCEEDINGS
 Service on the Director of Industry Operations or Director.
 </SUBJECT>
 <SUBJGRP>
-  <HD SOURCE="HED">Time</HD>
+    <HD SOURCE="HED">Time</HD>
     <SECTNO>771.28 </SECTNO>
     <SUBJECT>Computation.</SUBJECT>
     <SECTNO>771.29 </SECTNO>
-  <SUBJECT>Continuances and extensions.</SUBJECT>
+    <SUBJECT>Continuances and extensions.</SUBJECT>
 </SUBJGRP> 
-<HD SOURCE="HD1">Representation at Hearings</HD>
-<SECTNO>771.30 </SECTNO>
-<SUBJECT>Personal representation.</SUBJECT>
-<SECTNO>771.31 </SECTNO>
-<SUBJECT>Attorneys and other representatives.</SUBJECT>
+<SUBJGRP>
+    <HD SOURCE="HED">Representation at Hearings</HD>
+    <SECTNO>771.30 </SECTNO>
+    <SUBJECT>Personal representation.</SUBJECT>
+    <SECTNO>771.31 </SECTNO>
+    <SUBJECT>Attorneys and other representatives.</SUBJECT>
+</SUBJGRP>
 </SUBPART>
 <SUBPART>
 <HD SOURCE="HED">Subpart D—Compliance and Settlement</HD>
@@ -683,20 +685,23 @@ Pleadings, motions, notices, and other formal documents may be served by certifi
     <HD SOURCE="HD1">Representation at Hearings</HD>
     </SECTION>
 </SUBJGRP>    
-<SECTION>
-<SECTNO>§ 771.30 </SECTNO>
-<SUBJECT>Personal representation.</SUBJECT>
-<P>
-Any individual or member of a partnership may appear for himself, or for such partnership, and a corporation or association may be represented by a bona fide officer of such corporation or association, upon showing of adequate authorization.
-</P>
-</SECTION>
-<SECTION>
-<SECTNO>§ 771.31 </SECTNO>
-<SUBJECT>Attorneys and other representatives.</SUBJECT>
-<P>
-An applicant, licensee, or permittee may represent himself, or be represented by an attorney, a certified public accountant, or any other person, specifically designated in a duly executed power of attorney that shall be filed in the proceeding by the applicant, licensee, or permittee. The applicant, licensee, or permittee shall file waivers, if applicable, under the Privacy Act of 1974 and 26 U.S.C. 6103(c) (confidentiality and disclosure of returns and return information). The Director of Industry Operations may be represented in proceedings by an attorney in the Office of Chief Counsel who is authorized to execute and file motions, briefs, and other papers in the proceeding on behalf of the Director of Industry Operations, in the attorney's own name as “Attorney for the Government.”
-</P>
-</SECTION>
+<SUBJGRP>
+  <HD SOURCE="HED">Representation at Hearings</HD>
+  <SECTION>
+    <SECTNO>§ 771.30 </SECTNO>
+    <SUBJECT>Personal representation.</SUBJECT>
+    <P>
+    Any individual or member of a partnership may appear for himself, or for such partnership, and a corporation or association may be represented by a bona fide officer of such corporation or association, upon showing of adequate authorization.
+    </P>
+    </SECTION>
+    <SECTION>
+    <SECTNO>§ 771.31 </SECTNO>
+    <SUBJECT>Attorneys and other representatives.</SUBJECT>
+    <P>
+    An applicant, licensee, or permittee may represent himself, or be represented by an attorney, a certified public accountant, or any other person, specifically designated in a duly executed power of attorney that shall be filed in the proceeding by the applicant, licensee, or permittee. The applicant, licensee, or permittee shall file waivers, if applicable, under the Privacy Act of 1974 and 26 U.S.C. 6103(c) (confidentiality and disclosure of returns and return information). The Director of Industry Operations may be represented in proceedings by an attorney in the Office of Chief Counsel who is authorized to execute and file motions, briefs, and other papers in the proceeding on behalf of the Director of Industry Operations, in the attorney's own name as “Attorney for the Government.”
+    </P>
+  </SECTION>
+</SUBJGRP> 
 </SUBPART>
 <SUBPART>
 <HD SOURCE="HED">Subpart D—Compliance and Settlement</HD>
