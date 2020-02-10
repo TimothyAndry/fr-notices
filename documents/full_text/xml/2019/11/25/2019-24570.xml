@@ -350,7 +350,7 @@ Grounds for denial of applications for licenses or permits.
     <SUBJECT>Execution and disposition.</SUBJECT>
     <SECTNO>771.58 </SECTNO>
     <SUBJECT>Designated place of hearing.</SUBJECT>
-<SUBJGRP>
+</SUBJGRP>
 <SUBJGRP>
     <HD SOURCE="HED">Request for Hearing</HD>
     <SECTNO>771.59 </SECTNO>
@@ -359,14 +359,14 @@ Grounds for denial of applications for licenses or permits.
     <SUBJECT>Revocation or denial of renewal proceedings.</SUBJECT>
     <SECTNO>771.61 </SECTNO>
     <SUBJECT>Notice of hearing.</SUBJECT>
-<SUBJGRP>
+</SUBJGRP>
 <SUBJGRP>
     <HD SOURCE="HED">Non-Request for Hearing</HD>
     <SECTNO>771.62 </SECTNO>
     <SUBJECT>Initial application.</SUBJECT>
     <SECTNO>771.63 </SECTNO>
     <SUBJECT>Revocation or denial of renewal.</SUBJECT>
-<SUBJGRP>
+</SUBJGRP>
 <SUBJGRP>
     <HD SOURCE="HED">Responses to Notices</HD>
     <SECTNO>771.64 </SECTNO>
@@ -375,28 +375,28 @@ Grounds for denial of applications for licenses or permits.
     <SUBJECT>Responses admitting facts.</SUBJECT>
     <SECTNO>771.66 </SECTNO>
     <SUBJECT>Initial conferences.</SUBJECT>
-<SUBJGRP>
+</SUBJGRP>
 <SUBJGRP>
     <HD SOURCE="HED">Failure to Appear</HD>
     <SECTNO>771.67 </SECTNO>
     <SUBJECT>Initial applications.</SUBJECT>
     <SECTNO>771.68 </SECTNO>
     <SUBJECT>Revocation or denial of renewal.</SUBJECT>
-<SUBJGRP>
+</SUBJGRP>
 <SUBJGRP>
     <HD SOURCE="HED">Waiver of Hearing</HD>
     <SECTNO>771.69 </SECTNO>
     <SUBJECT>Withdrawal of request for hearing.</SUBJECT>
     <SECTNO>771.70 </SECTNO>
     <SUBJECT>Adjudication based upon written submissions.</SUBJECT>
-<SUBJGRP>
+</SUBJGRP>
 <SUBJGRP>
     <HD SOURCE="HED">Surrender of License or Permit</HD>
     <SECTNO>771.71 </SECTNO>
     <SUBJECT>Before citation.</SUBJECT>
     <SECTNO>771.72 </SECTNO>
     <SUBJECT>After citation.</SUBJECT>
-<SUBJGRP>
+</SUBJGRP>
 <SUBJGRP>
     <HD SOURCE="HED">Motions</HD>
     <SECTNO>771.73 </SECTNO>
@@ -405,7 +405,7 @@ Grounds for denial of applications for licenses or permits.
     <SUBJECT>Prior to hearing.</SUBJECT>
     <SECTNO>771.75 </SECTNO>
     <SUBJECT>At hearing.</SUBJECT>
-<SUBJGRP>
+</SUBJGRP>
 <SUBJGRP>
     <HD SOURCE="HED">Hearing</HD>
     <SECTNO>771.76 </SECTNO>
@@ -414,14 +414,14 @@ Grounds for denial of applications for licenses or permits.
     <SUBJECT>Initial applications.</SUBJECT>
     <SECTNO>771.78 </SECTNO>
     <SUBJECT>Revocation or denial of renewal.</SUBJECT>
-<SUBJGRP>
+</SUBJGRP>
 <SUBJGRP>
     <HD SOURCE="HED">Burden of Proof</HD>
     <SECTNO>771.79 </SECTNO>
     <SUBJECT>Initial applications.</SUBJECT>
     <SECTNO>771.80 </SECTNO>
     <SUBJECT>Revocation or denial of renewal.</SUBJECT>
-<SUBJGRP>
+</SUBJGRP>
 <SUBJGRP>
     <HD SOURCE="HED">General</HD>
     <SECTNO>771.81 </SECTNO>
@@ -434,7 +434,7 @@ Grounds for denial of applications for licenses or permits.
     </SUBJECT>
     <SECTNO>771.84 </SECTNO>
     <SUBJECT>Reopening of the hearing.</SUBJECT>
-<SUBJGRP>
+</SUBJGRP>
 <SUBJGRP>
     <HD SOURCE="HED">Record of Testimony</HD>
     <SECTNO>771.85 </SECTNO>
@@ -443,7 +443,7 @@ Grounds for denial of applications for licenses or permits.
     <SUBJECT>Oath of reporter.</SUBJECT>
     </SUBPART>
     <SUBPART>
-<SUBJGRP>
+</SUBJGRP>
 <HD SOURCE="HED">Subpart G—Administrative Law Judges</HD>
 <SECTNO>771.95 </SECTNO>
 <SUBJECT>Responsibilities of administrative law judges.</SUBJECT>
