@@ -327,7 +327,7 @@
             <SECTION>
                 <SECTNO>§ 478.11</SECTNO>
                 <SUBJECT>Meaning of terms.</SUBJECT>
-                <P>When used in this part and in forms prescribed under this part, where not otherwise distinctly expressed or manifestly incompatible with the intent thereof, terms shall have the meanings ascribed in this section. Words in the plural form shall include the singular, and vice versa, and words importing the masculine gender shall include the feminine. The terms “includes” and “including” do not exclude other things not enumerated which are in the same general class or are otherwise within the scope thereof.</P>
+                <P>When used in this part and in forms prescribed under this part, where not otherwise distinctly expressed or manifestly incompatible with the intent thereof, terms shall have the meanings ascribed in this subpart. Words in the plural form shall include the singular, and vice versa, and words importing the masculine gender shall include the feminine. The terms “includes” and “including” do not exclude other things not enumerated which are in the same general class or are otherwise within the scope thereof.</P>
                 <P>
                     <E T="03">Act.</E>
                      18 U.S.C. Chapter 44.
@@ -407,11 +407,11 @@
                 </P>
                 <P>
                     <E T="03">Complete muffler or silencer device.</E>
-                        A firearm muffler or firearm silencer that contains all component parts necessary to function, whether or not assembled or operable.
+                    A firearm muffler or firearm silencer that contains all component parts necessary to function, whether or not assembled or operable.
                 </P>
                 <P>
                     <E T="03">Complete weapon.</E>
-                        A firearm other than a firearm muffler or firearm silencer that contains all component parts necessary to function, whether or not assembled or operable.
+                     A firearm other than a firearm muffler or firearm silencer that contains all component parts necessary to function, whether or not assembled or operable.
                 </P>
                 <P>
                     <E T="03">Controlled substance.</E>
@@ -473,14 +473,10 @@
                     <E T="03">Dealer in firearms other than a gunsmith or a pawnbroker.</E>
                      A person who devotes time, attention, and labor to dealing in firearms as a regular course of trade or business with the principal objective of livelihood and profit through the repetitive purchase and resale of firearms, but such a term shall not include a person who makes occasional sales, exchanges, or purchases of firearms for the enhancement of a personal collection or for a hobby, or who sells all or part of his personal collection of firearms;
                 </P>
-               <P>
+                <P>
                     (d) 
                     <E T="03">Gunsmith.</E>
-                        A person who, as a service performed on existing firearms not for sale or distribution, devotes time, attention, and labor to repairing or customizing firearms, making or fitting special barrels, stocks, or trigger mechanisms to firearms, or placing marks of identification on privately made firearms in accordance with this part, as a regular course of trade or business with the principal objective of livelihood and profit, but such term shall not include a person who occasionally repairs or customizes firearms (including identification), or occasionally makes or fits special barrels, stocks, or trigger mechanisms to firearms. In the case of firearms for purposes of sale or distribution, such term shall include a person who performs repairs (
-                    <E T="03">e.g.,</E>
-                        by replacing worn or broken parts) on complete weapons, or places marks of identification on privately made firearms, but shall not include a person who manufactures firearms (
-                    <E T="03">i.e.,</E>
-                        frames or receivers or complete weapons) by completion, assembly, or applying coatings, or otherwise making them suitable for use, requiring a license as a manufacturer;
+                     A person who, as a service performed on existing firearms not for sale or distribution, devotes time, attention, and labor to repairing or customizing firearms, making or fitting special barrels, stocks, or trigger mechanisms to firearms, or placing marks of identification on privately made firearms in accordance with this part, as a regular course of trade or business with the principal objective of livelihood and profit, but such a term shall not include a person who occasionally repairs or customizes firearms (including identification), or occasionally makes or fits special barrels, stocks, or trigger mechanisms to firearms. In the case of firearms for purposes of sale or distribution, such term shall include a person who performs repairs (e.g., by replacing worn or broken parts) on complete weapons, or places marks of identification on privately made firearms, but shall not include a person who manufactures firearms (i.e., frames or receivers or complete weapons) by completion, assembly, or applying coatings, or otherwise making them suitable for use, requiring a license as a manufacturer;
                 </P>
                 <P>
                     (e) 
@@ -507,15 +503,15 @@
                 </P>
                 <P>
                     <E T="03">Firearm.</E>
-                     Any weapon, including a starter gun, which will or is designed to or may readily be converted to expel a projectile by the action of an explosive; the frame or receiver of any such weapon; any firearm muffler or firearm silencer; or any destructive device; but the term shall not include an antique firearm. In the case of a licensed collector, the term shall mean only curios and relics.
-                </P>
-                <P>
-                    <E T="03">Firearm frame or receiver.</E>
-                     That part of a firearm which provides housing for the hammer, bolt or breechblock, and firing mechanism, and which is usually threaded at its forward portion to receive the barrel.
+                     Any weapon, including a starter gun, which will or is designed to or may readily be converted to expel a projectile by the action of an explosive; the frame or receiver of any such weapon; any firearm muffler or firearm silencer; or any destructive device; but the term shall not include an antique firearm. In the case of a licensed collector, the term shall mean only curios and relics. The term shall include a weapon parts kit that is designed to or may readily be completed, assembled, restored, or otherwise converted to expel a projectile by the action of an explosive. The term shall not include a weapon, including a weapon parts kit, in which the frame or receiver of such weapon is destroyed as described in the definition “frame or receiver.”
                 </P>
                 <P>
                     <E T="03">Firearm muffler or firearm silencer.</E>
                      Any device for silencing, muffling, or diminishing the report of a portable firearm, including any combination of parts, designed or redesigned, and intended for use in assembling or fabricating a firearm silencer or firearm muffler, and any part intended only for use in such assembly or fabrication.
+                </P>
+                <P>
+                    <E T="03">Frame or receiver.</E>
+                     The term “frame or receiver” shall have the same meaning as in 27 CFR 478.12.
                 </P>
                 <P>
                     <E T="03">Friendly foreign government.</E>
@@ -545,6 +541,10 @@
                 <P>
                     <E T="03">Importer.</E>
                      Any person engaged in the business of importing or bringing firearms or ammunition into the United States. The term shall include any person who engages in such business on a part-time basis.
+                </P>
+                 <P>
+                    <E T="03">Importer's or manufacturer's serial number.</E>
+                     The serial number placed by a licensee on a firearm, including any full or abbreviated license number, any such identification on a privately made firearm, or a serial number issued by the Director. For purposes of 18 U.S.C. 922(k) and § 478.34, the term shall include any associated licensee name, or licensee city or state placed on a frame or receiver.
                 </P>
                 <P>
                     <E T="03">Indictment.</E>
@@ -661,10 +661,58 @@
                 <P>(2) To influence the policy of a government by intimidation or coercion; or</P>
                 <P>(3) To affect the conduct of a government by assassination or kidnapping.</P>
                 <P>
+                    <E T="03">Privately made firearm (PMF).</E>
+                    A firearm, including a frame or receiver, completed, assembled, or otherwise produced by a person other than a licensed manufacturer, and without a serial number placed by a licensed manufacturer at the time the firearm was produced. The term shall not include a firearm identified and registered in the National Firearms Registration and Transfer Record pursuant to chapter 53, title 26, United States Code, or any firearm manufactured or made before October 22, 1968 (unless remanufactured or remade after that date).
+                </P>
+                <P>
                     <E T="03">Published ordinance.</E>
                      A published law of any political subdivision of a State which the Director determines to be relevant to the enforcement of this part and which is contained on a list compiled by the Director, which list is incorporated by reference in the 
                     <E T="04">Federal Register,</E>
                      revised annually, and furnished to licensees under this part.
+                </P>
+                <P>
+                    <E T="03">Readily.</E>
+                        A process, action, or physical state that is fairly or reasonably efficient, quick, and easy, but not necessarily the most efficient, speediest, or easiest process, action, or physical state. With respect to the classification of firearms, factors relevant in making this determination include the following:
+                </P>
+                <P>
+                    (1) Time, 
+                    <E T="03">i.e.,</E>
+                        how long it takes to finish the process;
+                </P>
+                <P>
+                    (2) Ease, 
+                    <E T="03">i.e.,</E>
+                        how difficult it is to do so;
+                </P>
+                <P>
+                    (3) Expertise, 
+                    <E T="03">i.e.,</E>
+                        what knowledge and skills are required;
+                </P>
+                <P>
+                    (4) Equipment, 
+                    <E T="03">i.e.,</E>
+                        what tools are required;
+                </P>
+                <P>
+                    (5) Parts availability, 
+                    <E T="03">i.e.,</E>
+                        whether additional parts are required, and how easily they can be obtained;
+                </P>
+                <P>
+                    (6) Expense, 
+                    <E T="03">i.e.,</E>
+                        how much it costs;
+                </P>
+                <P>
+                    (7) Scope, 
+                    <E T="03">i.e.,</E>
+                        the extent to which the subject of the process must be changed to finish it; and
+                </P>
+                <P>
+                    (8) Feasibility, 
+                    <E T="03">i.e.,</E>
+                        whether the process would damage or destroy the subject of the process, or cause it to malfunction.
                 </P>
                 <P>
                     <E T="03">Renounced U.S. citizenship.</E>
