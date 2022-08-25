@@ -327,7 +327,7 @@
             <SECTION>
                 <SECTNO>§ 478.11</SECTNO>
                 <SUBJECT>Meaning of terms.</SUBJECT>
-                <P>When used in this part and in forms prescribed under this part, where not otherwise distinctly expressed or manifestly incompatible with the intent thereof, terms shall have the meanings ascribed in this section. Words in the plural form shall include the singular, and vice versa, and words importing the masculine gender shall include the feminine. The terms “includes” and “including” do not exclude other things not enumerated which are in the same general class or are otherwise within the scope thereof.</P>
+                <P>When used in this part and in forms prescribed under this part, where not otherwise distinctly expressed or manifestly incompatible with the intent thereof, terms shall have the meanings ascribed in this subpart. Words in the plural form shall include the singular, and vice versa, and words importing the masculine gender shall include the feminine. The terms “includes” and “including” do not exclude other things not enumerated which are in the same general class or are otherwise within the scope thereof.</P>
                 <P>
                     <E T="03">Act.</E>
                      18 U.S.C. Chapter 44.
@@ -406,6 +406,14 @@
                      A formal commitment of a person to a mental institution by a court, board, commission, or other lawful authority. The term includes a commitment to a mental institution involuntarily. The term includes commitment for mental defectiveness or mental illness. It also includes commitments for other reasons, such as for drug use. The term does not include a person in a mental institution for observation or a voluntary admission to a mental institution.
                 </P>
                 <P>
+                    <E T="03">Complete muffler or silencer device.</E>
+                    A firearm muffler or firearm silencer that contains all component parts necessary to function, whether or not assembled or operable.
+                </P>
+                <P>
+                    <E T="03">Complete weapon.</E>
+                     A firearm other than a firearm muffler or firearm silencer that contains all component parts necessary to function, whether or not assembled or operable.
+                </P>
+                <P>
                     <E T="03">Controlled substance.</E>
                      A drug or other substance, or immediate precursor, as defined in section 102 of the Controlled Substances Act, 21 U.S.C. 802. The term includes, but is not limited to, marijuana, depressants, stimulants, and narcotic drugs. The term does not include distilled spirits, wine, malt beverages, or tobacco, as those terms are defined or used in Subtitle E of the Internal Revenue Code of 1986, as amended.
                 </P>
@@ -468,7 +476,7 @@
                 <P>
                     (d) 
                     <E T="03">Gunsmith.</E>
-                     A person who devotes time, attention, and labor to engaging in such activity as a regular course of trade or business with the principal objective of livelihood and profit, but such a term shall not include a person who makes occasional repairs of firearms or who occasionally fits special barrels, stocks, or trigger mechanisms to firearms;
+                     A person who, as a service performed on existing firearms not for sale or distribution, devotes time, attention, and labor to repairing or customizing firearms, making or fitting special barrels, stocks, or trigger mechanisms to firearms, or placing marks of identification on privately made firearms in accordance with this part, as a regular course of trade or business with the principal objective of livelihood and profit, but such a term shall not include a person who occasionally repairs or customizes firearms (including identification), or occasionally makes or fits special barrels, stocks, or trigger mechanisms to firearms. In the case of firearms for purposes of sale or distribution, such term shall include a person who performs repairs (e.g., by replacing worn or broken parts) on complete weapons, or places marks of identification on privately made firearms, but shall not include a person who manufactures firearms (i.e., frames or receivers or complete weapons) by completion, assembly, or applying coatings, or otherwise making them suitable for use, requiring a license as a manufacturer;
                 </P>
                 <P>
                     (e) 
@@ -495,15 +503,15 @@
                 </P>
                 <P>
                     <E T="03">Firearm.</E>
-                     Any weapon, including a starter gun, which will or is designed to or may readily be converted to expel a projectile by the action of an explosive; the frame or receiver of any such weapon; any firearm muffler or firearm silencer; or any destructive device; but the term shall not include an antique firearm. In the case of a licensed collector, the term shall mean only curios and relics.
-                </P>
-                <P>
-                    <E T="03">Firearm frame or receiver.</E>
-                     That part of a firearm which provides housing for the hammer, bolt or breechblock, and firing mechanism, and which is usually threaded at its forward portion to receive the barrel.
+                     Any weapon, including a starter gun, which will or is designed to or may readily be converted to expel a projectile by the action of an explosive; the frame or receiver of any such weapon; any firearm muffler or firearm silencer; or any destructive device; but the term shall not include an antique firearm. In the case of a licensed collector, the term shall mean only curios and relics. The term shall include a weapon parts kit that is designed to or may readily be completed, assembled, restored, or otherwise converted to expel a projectile by the action of an explosive. The term shall not include a weapon, including a weapon parts kit, in which the frame or receiver of such weapon is destroyed as described in the definition “frame or receiver.”
                 </P>
                 <P>
                     <E T="03">Firearm muffler or firearm silencer.</E>
                      Any device for silencing, muffling, or diminishing the report of a portable firearm, including any combination of parts, designed or redesigned, and intended for use in assembling or fabricating a firearm silencer or firearm muffler, and any part intended only for use in such assembly or fabrication.
+                </P>
+                <P>
+                    <E T="03">Frame or receiver.</E>
+                     The term “frame or receiver” shall have the same meaning as in 27 CFR 478.12.
                 </P>
                 <P>
                     <E T="03">Friendly foreign government.</E>
@@ -533,6 +541,10 @@
                 <P>
                     <E T="03">Importer.</E>
                      Any person engaged in the business of importing or bringing firearms or ammunition into the United States. The term shall include any person who engages in such business on a part-time basis.
+                </P>
+                 <P>
+                    <E T="03">Importer's or manufacturer's serial number.</E>
+                     The serial number placed by a licensee on a firearm, including any full or abbreviated license number, any such identification on a privately made firearm, or a serial number issued by the Director. For purposes of 18 U.S.C. 922(k) and § 478.34, the term shall include any associated licensee name, or licensee city or state placed on a frame or receiver.
                 </P>
                 <P>
                     <E T="03">Indictment.</E>
@@ -649,10 +661,58 @@
                 <P>(2) To influence the policy of a government by intimidation or coercion; or</P>
                 <P>(3) To affect the conduct of a government by assassination or kidnapping.</P>
                 <P>
+                    <E T="03">Privately made firearm (PMF).</E>
+                    A firearm, including a frame or receiver, completed, assembled, or otherwise produced by a person other than a licensed manufacturer, and without a serial number placed by a licensed manufacturer at the time the firearm was produced. The term shall not include a firearm identified and registered in the National Firearms Registration and Transfer Record pursuant to chapter 53, title 26, United States Code, or any firearm manufactured or made before October 22, 1968 (unless remanufactured or remade after that date).
+                </P>
+                <P>
                     <E T="03">Published ordinance.</E>
                      A published law of any political subdivision of a State which the Director determines to be relevant to the enforcement of this part and which is contained on a list compiled by the Director, which list is incorporated by reference in the 
                     <E T="04">Federal Register,</E>
                      revised annually, and furnished to licensees under this part.
+                </P>
+                <P>
+                    <E T="03">Readily.</E>
+                        A process, action, or physical state that is fairly or reasonably efficient, quick, and easy, but not necessarily the most efficient, speediest, or easiest process, action, or physical state. With respect to the classification of firearms, factors relevant in making this determination include the following:
+                </P>
+                <P>
+                    (1) Time, 
+                    <E T="03">i.e.,</E>
+                        how long it takes to finish the process;
+                </P>
+                <P>
+                    (2) Ease, 
+                    <E T="03">i.e.,</E>
+                        how difficult it is to do so;
+                </P>
+                <P>
+                    (3) Expertise, 
+                    <E T="03">i.e.,</E>
+                        what knowledge and skills are required;
+                </P>
+                <P>
+                    (4) Equipment, 
+                    <E T="03">i.e.,</E>
+                        what tools are required;
+                </P>
+                <P>
+                    (5) Parts availability, 
+                    <E T="03">i.e.,</E>
+                        whether additional parts are required, and how easily they can be obtained;
+                </P>
+                <P>
+                    (6) Expense, 
+                    <E T="03">i.e.,</E>
+                        how much it costs;
+                </P>
+                <P>
+                    (7) Scope, 
+                    <E T="03">i.e.,</E>
+                        the extent to which the subject of the process must be changed to finish it; and
+                </P>
+                <P>
+                    (8) Feasibility, 
+                    <E T="03">i.e.,</E>
+                        whether the process would damage or destroy the subject of the process, or cause it to malfunction.
                 </P>
                 <P>
                     <E T="03">Renounced U.S. citizenship.</E>
@@ -780,6 +840,203 @@
                         <E T="03">www.govinfo.gov.</E>
                     </P>
                 </EDNOTE>
+            </SECTION>
+            <SECTION>
+                <SECTNO>§ 478.12</SECTNO>
+                <SUBJECT> Definition of Frame or Receiver.</SUBJECT>
+                <P>(a) Except as otherwise provided in this section, the term “frame or receiver” means the following—</P>
+                <P>
+                    (1) The term “frame” means the part of a handgun, or variants thereof, that provides housing or a structure for the primary energized component designed to hold back the hammer, striker, bolt, or similar component prior to initiation of the firing sequence (
+                    <E T="03">i.e.,</E>
+                        sear or equivalent), even if pins or other attachments are required to connect such component to the housing or structure.
+                </P>
+                <P>
+                    (2) The term “receiver” means the part of a rifle, shotgun, or projectile weapon other than a handgun, or variants thereof, that provides housing or a structure for the primary component designed to block or seal the breech prior to initiation of the firing sequence (
+                    <E T="03">i.e.,</E>
+                        bolt, breechblock, or equivalent), even if pins or other attachments are required to connect such component to the housing or structure.
+                </P>
+                <P>(3) The terms “variant” and “variants thereof” mean a weapon utilizing a similar frame or receiver design irrespective of new or different model designations or configurations, characteristics, features, components, accessories, or attachments. For example, an AK-type firearm with a short stock and a pistol grip is a pistol variant of an AK-type rifle, an AR-type firearm with a short stock and a pistol grip is a pistol variant of an AR-type rifle, and a revolving cylinder shotgun is a shotgun variant of a revolver.</P>
+                <P>(4) The following are nonexclusive examples that illustrate the above definitions:</P>
+                <P>
+                    (i) 
+                    <E T="03">Hinged or single framed revolvers:</E>
+                        The frame is the part of the revolver that provides a structure designed to hold the sear.
+                </P>
+                <GPH SPAN="3" DEEP="136">
+                    <GID>ER26AP22.001</GID>
+                </GPH>
+                <P>
+                    (ii) 
+                    <E T="03">Colt 1911, Beretta/Browning/FN Herstal/Heckler &amp; Koch/Ruger/Sig Sauer/Smith &amp; Wesson/Taurus hammer-fired semiautomatic pistols:</E>
+                        The frame is the lower portion of the pistol, or grip, that provides housing for the sear.
+                </P>
+                <GPH SPAN="3" DEEP="136">
+                    <PRTPAGE P="24736"/>
+                    <GID>ER26AP22.002</GID>
+                </GPH>
+                <P>
+                    (iii) 
+                    <E T="03">Glock variant striker-fired semiautomatic pistols:</E>
+                        The frame is the lower portion of the pistol, or grip, that provides housing for the sear.
+                </P>
+                <GPH SPAN="3" DEEP="134">
+                    <GID>ER26AP22.003</GID>
+                </GPH>
+                <P>
+                    (iv) 
+                    <E T="03">Sig Sauer P250/P320 variant semiautomatic pistols:</E>
+                        The frame is the internal removable chassis of the pistol that provides housing for the energized component (
+                    <E T="03">i.e.,</E>
+                        sear or equivalent).
+                </P>
+                <GPH SPAN="3" DEEP="136">
+                    <GID>ER26AP22.004</GID>
+                </GPH>
+                <P>
+                    (v) 
+                    <E T="03">Bolt action rifles:</E>
+                        The receiver is the part of the rifle that provides a structure for the bolt.
+                </P>
+                <GPH SPAN="3" DEEP="134">
+                    <PRTPAGE P="24737"/>
+                    <GID>ER26AP22.005</GID>
+                </GPH>
+                <P>
+                    (vi) 
+                    <E T="03">Break action, lever action, or pump action rifles and shotguns:</E>
+                        The receiver is the part of the rifle or shotgun that provides housing for the bolt, breechblock, or equivalent.
+                </P>
+                <GPH SPAN="3" DEEP="136">
+                    <GID>ER26AP22.006</GID>
+                </GPH>
+                <P>
+                    (vii) 
+                    <E T="03">AK variant firearms:</E>
+                        The receiver is the part of the weapon that provides housing for the bolt.
+                </P>
+                <GPH SPAN="3" DEEP="134">
+                    <GID>ER26AP22.007</GID>
+                </GPH>
+                <P>
+                    (viii) 
+                    <E T="03">Steyr AUG variant firearms:</E>
+                        The receiver is the central part of the weapon that provides housing for the bolt. 
+                </P>
+                <GPH SPAN="3" DEEP="136">
+                    <PRTPAGE P="24738"/>
+                    <GID>ER26AP22.008</GID>
+                </GPH>
+                <P>
+                    (ix) 
+                    <E T="03">Thompson machineguns and semiautomatic variants, and L1A1, FN FAL, FN FNC, MP38, MP40, and SIG 550 firearms, and HK machineguns and semiautomatic variants:</E>
+                        The receiver is the upper part of the weapon that provides housing for the bolt.
+                </P>
+                <GPH SPAN="3" DEEP="260">
+                    <GID>ER26AP22.009</GID>
+                </GPH>
+                <P>
+                    (x) 
+                    <E T="03">Sten, Sterling, and Kel-Tec SUB-2000 firearms:</E>
+                        The receiver is the central part of the weapon, or tube, that provides housing for the bolt.
+                </P>
+                <GPH SPAN="3" DEEP="139">
+                    <GID>ER26AP22.010</GID>
+                </GPH>
+                <PRTPAGE P="24739"/>
+                <P>
+                    (b) 
+                    <E T="03">Firearm muffler or silencer frame or receiver.</E>
+                        The terms “frame” and “receiver” shall mean, in the case of a firearm muffler or firearm silencer, the part of the firearm, such as an outer tube or modular piece, that provides housing or a structure for the primary internal component designed to reduce the sound of a projectile (
+                    <E T="03">i.e.,</E>
+                        baffles, baffling material, expansion chamber, or equivalent). In the case of a modular firearm muffler or firearm silencer device with more than one such part, the terms shall mean the principal housing attached to the weapon that expels a projectile, even if an adapter or other attachments are required to connect the part to the weapon. The terms shall not include a removable end cap of an outer tube or modular piece.
+                </P>
+                <P>
+                    (c) 
+                    <E T="03">Partially complete, disassembled, or nonfunctional frame or receiver.</E>
+                        The terms “frame” and “receiver” shall include a partially complete, disassembled, or nonfunctional frame or receiver, including a frame or receiver parts kit, that is designed to or may readily be completed, assembled, restored, or otherwise converted to function as a frame or receiver, 
+                    <E T="03">i.e.,</E>
+                        to house or provide a structure for the primary energized component of a handgun, breech blocking or sealing component of a projectile weapon other than a handgun, or internal sound reduction component of a firearm muffler or firearm silencer, as the case may be. The terms shall not include a forging, casting, printing, extrusion, unmachined body, or similar article that has not yet reached a stage of manufacture where it is clearly identifiable as an unfinished component part of a weapon (
+                    <E T="03">e.g.,</E>
+                        unformed block of metal, liquid polymer, or other raw material). When issuing a classification, the Director may consider any associated templates, jigs, molds, equipment, tools, instructions, guides, or marketing materials that are sold, distributed, or possessed with the item or kit, or otherwise made available by the seller or distributor of the item or kit to the purchaser or recipient of the item or kit. The following are nonexclusive examples that illustrate the definitions:
+                </P>
+                <P>
+                    <E T="03">Example 1 to paragraph (c)—Frame or receiver:</E>
+                        A frame or receiver parts kit containing a partially complete or disassembled billet or blank of a frame or receiver that is sold, distributed, or possessed with a compatible jig or template is a frame or receiver, as a person with online instructions and common hand tools may readily complete or assemble the frame or receiver parts to function as a frame or receiver.
+                </P>
+                <P>
+                    <E T="03">Example 2 to paragraph (c)—Frame or receiver:</E>
+                        A partially complete billet or blank of a frame or receiver with one or more template holes drilled or indexed in the correct location is a frame or receiver, as a person with common hand tools may readily complete the billet or blank to function as a frame or receiver.
+                </P>
+                <P>
+                    <E T="03">Example 3 to paragraph (c)—Frame or receiver:</E>
+                        A complete frame or receiver of a weapon that has been disassembled, damaged, split, or cut into pieces, but not destroyed in accordance with paragraph (e), is a frame or receiver.
+                </P>
+                <P>
+                    <E T="03">Example 4 to paragraph (c)—Not a receiver:</E>
+                        A billet or blank of an AR-15 variant receiver without critical interior areas having been indexed, machined, or formed that is not sold, distributed, or possessed with instructions, jigs, templates, equipment, or tools such that it may readily be completed is not a receiver.
+                </P>
+                <P>
+                    <E T="03">Example 5 to paragraph (c)—Not a receiver:</E>
+                        A flat blank of an AK variant receiver without laser cuts or indexing that is not sold, distributed, or possessed with instructions, jigs, templates, equipment, or tools is not a receiver, as a person cannot readily fold the flat to provide housing or a structure for the primary component designed to block or seal the breech prior to initiation of the firing sequence.
+                </P>
+                <P>
+                    (d) 
+                    <E T="03">Multi-piece frame or receiver.</E>
+                        The term “multi-piece frame or receiver” shall mean a frame or receiver that may be disassembled into multiple modular subparts, 
+                    <E T="03">i.e.,</E>
+                        standardized units that may be replaced or exchanged. The term shall not include the internal frame of a pistol that is a complete removable chassis that provides housing for the energized component, unless the chassis itself may be disassembled. The modular subpart(s) identified in accordance with § 478.92 with an importer's or manufacturer's serial number shall be presumed, absent an official determination by the Director or other reliable evidence to the contrary, to be part of the frame or receiver of a weapon or device.
+                </P>
+                <P>
+                    (e) 
+                    <E T="03">Destroyed frame or receiver.</E>
+                        The terms “frame” and “receiver” shall not include a frame or receiver that is destroyed. For purposes of these definitions, the term “destroyed” means that the frame or receiver has been permanently altered such that it may not readily be completed, assembled, restored, or otherwise converted to function as a frame or receiver. Acceptable methods of destruction include completely melting, crushing, or shredding the frame or receiver, or other method approved by the Director.
+                </P>
+                <P>
+                    (f)(1) 
+                    <E T="03">Frame or receiver classifications based on which part of the weapon was classified as such before</E>
+                        April 26, 2022. Except as provided in paragraph (f)(2) of this section, the terms “frame” and “receiver” shall include the specific part of a complete weapon, including variants thereof, determined (classified) by the Director to be defined as a firearm frame or receiver prior to April 26, 2022. Any such part that is identified with an importer's or manufacturer's serial number shall be presumed, absent an official determination by the Director or other reliable evidence to the contrary, to be the frame or receiver of the weapon. The following is a nonexclusive list of such weapons and the specific part determined by the Director to be the firearm frame or receiver as they existed on that date:
+                </P>
+                <P>
+                    (i) 
+                    <E T="03">AR-15/M-16 variant firearms:</E>
+                        The receiver is the lower part of the weapon that provides housing for the trigger mechanism and hammer (
+                    <E T="03">i.e.,</E>
+                        lower receiver). 
+                </P>
+                <GPH SPAN="3" DEEP="132">
+                    <PRTPAGE P="24740"/>
+                    <GID>ER26AP22.011</GID>
+                </GPH>
+                <P>
+                    (ii) 
+                    <E T="03">Ruger Mark IV pistol:</E>
+                        The frame is the upper part of the weapon that provides housing for the bolt or breechblock.
+                </P>
+                <GPH SPAN="3" DEEP="136">
+                    <GID>ER26AP22.012</GID>
+                </GPH>
+                <P>
+                    (iii) 
+                    <E T="03">Benelli 121 M1 Shotgun:</E>
+                        The receiver is the lower part of the weapon that provides housing for the trigger mechanism.
+                </P>
+                <GPH SPAN="3" DEEP="136">
+                    <GID>ER26AP22.013</GID>
+                </GPH>
+                <P>
+                    (iv) 
+                    <E T="03">Vickers/Maxim, Browning 1919, M2, and box-type machineguns and semiautomatic variants:</E>
+                        The receiver is the side plate of the weapon that is designed to hold the charging handle.
+                </P>
+                <GPH SPAN="3" DEEP="136">
+                    <PRTPAGE P="24741"/>
+                    <GID>ER26AP22.014</GID>
+                </GPH>
+                <P>
+                    (2) 
+                    <E T="03">Frame or receiver classifications of partially complete, disassembled, or nonfunctional frames or receivers before</E>
+                        April 26, 2022. Prior determinations by the Director that a partially complete, disassembled, or nonfunctional frame or receiver, including a parts kit, was not, or did not include, a “firearm frame or receiver” under § 478.11, or “frame or receiver” under § 479.11 of this subchapter, as those terms were defined prior to April 26, 2022, shall not continue to be valid or authoritative after that date. Such determinations shall include those in which the Director determined that the item or parts kit had not yet reached a stage of manufacture to be, or include, a “firearm frame or receiver” under § 478.11, or “frame or receiver” under § 479.11 of this subchapter, as those terms were defined prior to [date of publication of the rule].
+                </P>
             </SECTION>
         </SUBPART>
         <SUBPART>
@@ -1207,7 +1464,7 @@
                 <P>
                     (a) Upon receipt of a properly executed application for a license on ATF Form 7, ATF Form 7CR, or ATF Form 8 Part II, the Chief, Federal Firearms 
                     <PRTPAGE P="41"/>
-                    Licensing Center, shall, upon finding through further inquiry or investigation, or otherwise, that the applicant is qualified, issue the appropriate license. Each license shall bear a serial number and such number may be assigned to the licensee to whom issued for so long as the licensee maintains continuity of renewal in the same location (State).
+                    Licensing Center, shall, upon finding through further inquiry or investigation, or otherwise, that the applicant is qualified, issue the appropriate license. Each license shall bear a unique license number and such number may be assigned to the licensee to whom issued for so long as the licensee maintains continuity of renewal in the same location (State).
                 </P>
                 <P>(b) The Chief, Federal Firearms Licensing Center, shall approve a properly executed application for license on ATF Form 7, ATF Form 7CR, or ATF Form 8 Part II, if:</P>
                 <P>(1) The applicant is 21 years of age or over;</P>
@@ -1406,93 +1663,163 @@
                 <P>Any license issued under this part shall be kept posted and kept available for inspection on the premises covered by the license.</P>
             </SECTION>
             <SECTION>
-                <SECTNO>§ 478.92</SECTNO>
-                <SUBJECT>Identification of firearms and armor piercing ammunition by licensed manufacturers and licensed importers.</SUBJECT>
+                <SECTNO>§ 478.92 </SECTNO>
+                <SUBJECT> Identification of firearms and armor piercing ammunition.</SUBJECT>
                 <P>
                     (a)(1) 
-                    <E T="03">Firearms.</E>
-                     You, as a licensed manufacturer or licensed importer of firearms, must legibly identify each firearm manufactured or imported as follows:
+                    <E T="03">Firearms manufactured or imported by licensees.</E>
+                        Except as otherwise provided in this section, licensed manufacturers and licensed importers of firearms must legibly identify each firearm they manufacture or import as follows:
                 </P>
                 <P>
-                    (i) By engraving, casting, stamping (impressing), or otherwise conspicuously placing or causing to be engraved, cast, stamped (impressed) or placed on the frame or receiver thereof 
-                    <PRTPAGE P="47"/>
-                    an individual serial number. The serial number must be placed in a manner not susceptible of being readily obliterated, altered, or removed, and must not duplicate any serial number placed by you on any other firearm. For firearms manufactured or imported on and after January 30, 2002, the engraving, casting, or stamping (impressing) of the serial number must be to a minimum depth of .003 inch and in a print size no smaller than 
-                    <FR>1/16</FR>
-                     inch; and
+                    (i) 
+                    <E T="03">Serial number, name, place of business.</E>
+                        By engraving, casting, stamping (impressing), or otherwise conspicuously placing or causing to be engraved, cast, stamped (impressed) or otherwise placed on the frame or receiver thereof, an individual serial number, in a manner not susceptible of being readily obliterated, altered, or removed. The serial number must not duplicate any serial number placed by the licensee on any other firearm. The frame or receiver must also be marked with either: their name (or recognized abbreviation), and city and State (or recognized abbreviation) where they maintain their place of business; or their name (or recognized abbreviation) and the serial number beginning with their abbreviated Federal firearms license number, which is the first three and last five digits, as a prefix to the unique identification number, followed by a hyphen, 
+                    <E T="03">e.g.,</E>
+                        “12345678-[unique identification number]”; and
                 </P>
-                <P>(ii) By engraving, casting, stamping (impressing), or otherwise conspicuously placing or causing to be engraved, cast, stamped (impressed) or placed on the frame, receiver, or barrel thereof certain additional information. This information must be placed in a manner not susceptible of being readily obliterated, altered, or removed. For firearms manufactured or imported on and after January 30, 2002, the engraving, casting, or stamping (impressing) of this information must be to a minimum depth of .003 inch. The additional information includes:</P>
+                <P>
+                    (ii) 
+                    <E T="03">Model, caliber or gauge, foreign manufacturer, country of manufacture.</E>
+                        By engraving, casting, stamping (impressing), or otherwise conspicuously placing or causing to be engraved, cast, stamped (impressed) or placed on the frame or receiver, or barrel or pistol slide (if applicable) thereof, certain additional information. This information must be placed in a manner not susceptible of being readily obliterated, altered, or removed. The additional information shall include:
+                </P>
                 <P>(A) The model, if such designation has been made;</P>
                 <P>(B) The caliber or gauge;</P>
-                <P>(C) Your name (or recognized abbreviation) and also, when applicable, the name of the foreign manufacturer;</P>
-                <P>(D) In the case of a domestically made firearm, the city and State (or recognized abbreviation thereof) where you as the manufacturer maintain your place of business; and</P>
-                <P>(E) In the case of an imported firearm, the name of the country in which it was manufactured and the city and State (or recognized abbreviation thereof) where you as the importer maintain your place of business. For additional requirements relating to imported firearms, see Customs regulations at 19 CFR part 134.</P>
+                <P>(C) When applicable, the name of the foreign manufacturer; and</P>
+                <P>(D) In the case of an imported firearm, the name of the country in which it was manufactured. For additional requirements relating to imported firearms, see Customs regulations at 19 CFR part 134.</P>
+                <P>
+                    (iii) 
+                    <E T="03">Multi-piece frame or receiver.</E>
+                        In the case of a multi-piece frame or receiver, the modular subpart that is the outermost housing or structure designed to house, hold, or contain either the primary energized component of a handgun, breech blocking or sealing component of a projectile weapon other than a handgun, or internal sound reduction component of a firearm muffler or firearm silencer, as the case may be, shall be the subpart of the multi-piece frame or receiver identified in accordance with this section. If more than one subpart is similarly designed to house, hold, or contain such primary component (
+                    <E T="03">e.g.,</E>
+                        left and right halves), each of those subparts must be identified with the same serial number and associated licensee information not duplicated on any other frame or receiver. The identified subpart(s) of a complete (assembled or unassembled) multi-piece frame or receiver shall not be removed and replaced (
+                    <E T="03">see</E>
+                        § 478.34, 18 U.S.C. 922(k), and 26 U.S.C. 5861(g) and (h)), unless—
+                </P>
+                <P>(A) The subpart replacement is not a firearm under 26 U.S.C. 5845;</P>
+                <P>(B) The subpart replacement is identified by the licensed manufacturer of the original subpart with the same serial number and associated licensee information in the manner prescribed by this section; and</P>
+                <P>(C) The original subpart is destroyed under the licensed manufacturer's control or direct supervision prior to such placement.</P>
+                <P>
+                    (iv) 
+                    <E T="03">Frame or receiver, machinegun conversion part, or muffler or silencer part disposed of separately.</E>
+                        Each part defined as a frame or receiver or modular subpart thereof described in paragraph (a)(1)(iii) of this section, machinegun, or firearm muffler or firearm silencer that is not a component part of a complete weapon or complete muffler or silencer device at the time it is sold, shipped, or otherwise disposed of by the licensee must be identified as required by this section with an individual serial number not duplicated on any other firearm and all additional identifying information, except that the model designation and caliber or gauge may be omitted if that information is 
+                    <PRTPAGE P="24742"/>
+                    unknown at the time the part is identified.
+                </P>
+                <P>
+                    (v) 
+                    <E T="03">Size and depth of markings.</E>
+                        The engraving, casting, or stamping (impressing) of the serial number and additional information must be to a minimum depth of .003 inch, and the serial number and any associated license number in a print size no smaller than 
+                    <FR>1/16</FR>
+                        inch. The size of the serial and license number is measured as the distance between the latitudinal ends of the character impression bottoms (bases). The depth of all markings required by this section is measured from the flat surface of the metal and not the peaks or ridges.
+                </P>
+                <P>
+                    (vi) 
+                    <E T="03">Period of time to identify firearms.</E>
+                        Licensed manufacturers shall identify firearms they manufacture within the period of time set forth in the following subparagraphs (A) and (B), and licensed importers must identify firearms they import within the period prescribed in § 478.112. For purposes of these subparagraphs, firearms awaiting materials, parts, or equipment repair to be completed are presumed, absent reliable evidence to the contrary, to be in the manufacturing process.
+                </P>
+                <P>
+                    (A) 
+                    <E T="03">Complete non-National Firearms Act weapons, and frames or receivers of such weapons.</E>
+                        Complete weapons not defined as firearms under 26 U.S.C. 5845 shall be identified not later than the seventh day following the date the entire manufacturing process has ended for the weapon, or prior to disposition, whichever is sooner. Each part, including a replacement part, defined as a frame or receiver or modular subpart thereof described in paragraph (a)(1)(iii) of this section (other than a machinegun or firearm muffler or firearm silencer) that is not a component part of a complete weapon at the time it is sold, shipped, or otherwise disposed of shall be identified not later than the seventh day following the date the entire manufacturing process has ended for the frame or receiver or modular subpart, or prior to disposition, whichever is sooner.
+                </P>
+                <P>
+                    (B) 
+                    <E T="03">Complete National Firearms Act weapons and devices, and machinegun and muffler or silencer parts.</E>
+                        Complete weapons defined as firearms under 26 U.S.C. 5845, and complete muffler or silencer devices, shall be identified not later than close of the next business day following the date the entire manufacturing process has ended for the weapon or device, or prior to disposition, whichever is sooner. Each part or modular subpart defined as a machinegun (
+                    <E T="03">i.e.,</E>
+                        frame or receiver or conversion part), or firearm muffler or firearm silencer, that is not a component part of a complete weapon or complete firearm muffler or silencer device at the time it is sold, shipped, or otherwise disposed of shall be identified not later than close of the next business day following the date the entire manufacturing process has ended for the part, or prior to disposition, whichever is sooner.
+                </P>
                 <P>
                     (2) 
-                    <E T="03">Firearm frames or receivers.</E>
-                     A firearm frame or receiver that is not a component part of a complete weapon at the time it is sold, shipped, or otherwise disposed of by you must be identified as required by this section.
+                    <E T="03">Privately made firearms (PMFs).</E>
+                        Unless previously identified by another licensee in accordance with, and except as otherwise provided by, this section, licensees must legibly and conspicuously identify each privately made firearm or “PMF” received or otherwise acquired (including from a personal collection) not later than the seventh day following the date of receipt or other acquisition, or before the date of disposition (including to a personal collection), whichever is sooner. PMFs must be identified by placing, or causing to be placed under the licensee's direct supervision, an individual serial number on the frame or receiver, which must not duplicate any serial number placed by the licensee on any other firearm. The serial number must begin with the licensee's abbreviated Federal firearms license number, which is the first three and last five digits, as a prefix to a unique identification number, followed by a hyphen, 
+                    <E T="03">e.g.,</E>
+                        “12345678-[unique identification number]”. The serial number must be placed in a manner otherwise in accordance with this section, including the requirements that the serial number be at the minimum size and depth, and not susceptible of being readily obliterated, altered, or removed. An acceptable method of identifying a PMF is by placing the serial number on a metal plate that is permanently embedded into a polymer frame or receiver, or other method approved by the Director.
                 </P>
-                <P>(3) [Reserved]</P>
+                <P>
+                    (3) 
+                    <E T="03">Meaning of marking terms.</E>
+                        For purposes of this section, the term “identify” means placing marks of identification, the terms “legible” and “legibly” mean that the identification markings (including a unique identification number) use exclusively Roman letters (
+                    <E T="03">e.g.,</E>
+                        A, a, B, b, C, c) and Arabic numerals (
+                    <E T="03">e.g.,</E>
+                        1, 2, 3), or solely Arabic numerals, and may include a hyphen, and the terms “conspicuous” and “conspicuously” mean that the identification markings are capable of being easily seen with the naked eye during normal handling of the firearm, and are unobstructed by other markings when the complete weapon or device is assembled.
+                </P>
                 <P>
                     (4) 
-                    <E T="03">Exceptions.</E>
-                     (i) 
+                    <E T="03">Exceptions—</E>
+                    (i) 
                     <E T="03">Alternate means of identification.</E>
-                     The Director may authorize other means of identification upon receipt of a letter application from you, submitted in duplicate, showing that such other identification is reasonable and will not hinder the effective administration of this part.
+                        The Director may authorize other means of identification to identify firearms upon receipt of a letter application or prescribed form from the licensee showing that such other identification is reasonable and will not hinder the effective administration of this part.
                 </P>
                 <P>
                     (ii) 
                     <E T="03">Destructive devices.</E>
-                     In the case of a destructive device, the Director may authorize other means of identifying that weapon upon receipt of a letter application from you, submitted in duplicate, showing that engraving, casting, or stamping (impressing) such a weapon would be dangerous or impracticable.
+                        In the case of a destructive device, the Director may authorize other means of identification to identify that weapon upon receipt of a letter application or prescribed form from the licensee. The application shall show that engraving, casting, or stamping (impressing) such a weapon as required by this section would be dangerous or impracticable and that the alternate means of identification proposed will not hinder the effective administration of this part.
                 </P>
                 <P>
                     (iii) 
-                    <E T="03">Machine guns, silencers, and parts.</E>
-                     Any part defined as a machine gun, firearm muffler, or firearm silencer in § 478.11, that is not a component part of a complete weapon at the time it is sold, shipped, or otherwise disposed of by you, must be identified as required by this section. The Director may authorize other means of identification of parts defined as machine guns other than frames or receivers and parts defined as mufflers or silencers upon receipt of a letter application from you, submitted in duplicate, showing that such other identification is reasonable and will not hinder the effective administration of this part.
+                    <E T="03">Adoption of identifying markings.</E>
+                        Licensees may adopt existing markings previously placed on a firearm and are not required to mark a serial number or other identifying markings in accordance with this section, as follows:
                 </P>
                 <P>
-                    (5) 
-                    <E T="03">Measurement of height and depth of markings.</E>
-                     The depth of all markings required by this section will be measured from the flat surface of the metal and not the peaks or ridges. The height of serial numbers required by paragraph (a)(1)(i) of this section will be measured as the distance between the latitudinal ends of the character impression bottoms (bases).
+                    (A) 
+                    <E T="03">Newly manufactured firearms:</E>
+                        Licensed manufacturers may adopt the serial number and other identifying markings previously placed on a firearm by another licensed manufacturer provided the firearm has not been sold, shipped, or otherwise disposed of to a person other than a licensee, and the serial number adopted is not duplicated on any other firearm.
                 </P>
                 <P>
-                    (b) 
-                    <E T="03">Armor piercing ammunition</E>
-                    —(1) 
-                    <E T="03">Marking of ammunition.</E>
-                     Each licensed manufacturer or licensed importer of armor piercing ammunition shall identify such ammunition by means of painting, staining or dying the exterior of the projectile with an opaque black coloring. This coloring must completely cover the point of the projectile and at least 50 percent of that portion of the projectile which is visible when the projectile is loaded into a cartridge case.
+                    (B) 
+                    <E T="03">Remanufactured or imported firearms.</E>
+                        Licensed manufacturers and licensed importers may adopt the serial number or other identifying markings previously placed on a firearm that otherwise meets the requirements of this section that has been sold, shipped, or otherwise disposed of to a person other than a licensee provided that, within the period and in the manner herein prescribed, the licensee legibly and conspicuously places, or causes to be placed, on the frame or receiver either: Their name (or recognized abbreviation), and city and State (or recognized abbreviation) where they maintain their place of business; or their name (or recognized abbreviation) and abbreviated Federal firearms license number, which is the first three and last five digits, individually (
+                    <E T="03">i.e.,</E>
+                        not as a prefix to the serial number adopted) after the letters “FFL”, in the following format: “FFL12345678”. The serial number adopted must not duplicate any serial number adopted or placed on any other firearm, except that if a licensed importer receives two or more firearms with the same foreign manufacturer's serial number, the importer may adopt the serial number by adding letters or numbers to that serial number, and may include a hyphen.
                 </P>
                 <P>
-                    (2) 
-                    <E T="03">Labeling of packages.</E>
-                     Each licensed manufacturer or licensed importer of armor piercing ammunition shall clearly and conspicuously label each package in which armor piercing ammunition is contained, e.g., each box, carton, case, or other container. The 
-                    <PRTPAGE P="48"/>
-                    label shall include the words “ARMOR PIERCING” in block letters at least 
-                    <FR>1/4</FR>
-                     inch in height. The lettering shall be located on the exterior surface of the package which contains information concerning the caliber or gauge of the ammunition. There shall also be placed on the same surface of the package in block lettering at least 
-                    <FR>1/8</FR>
-                     inch in height the words “FOR GOVERNMENTAL ENTITIES OR EXPORTATION ONLY.” The statements required by this subparagraph shall be on a contrasting background.
+                    (C) 
+                    <E T="03">Manufacturers performing gunsmithing services.</E>
+                        Licensed 
+                    <PRTPAGE P="24743"/>
+                    manufacturers may adopt the serial number or other identifying markings previously placed on a firearm by another licensee provided the manufacturer is performing services for a nonlicensee as a gunsmith (as defined in § 478.11) on existing firearms not for sale or distribution.
                 </P>
-                <APPRO>(Approved by the Office of Management and Budget under control number 1140-0050)</APPRO>
-                <CITA>[T.D. ATF-270, 53 FR 10496, Mar. 31, 1988, as amended by T.D. ATF-363, 60 FR 17454, Apr. 6, 1995; T.D. ATF-383, 61 FR 39321, July 29, 1996; T.D. ATF-396, 63 FR 12646, Mar. 16, 1998; T.D. ATF-461, 66 FR 40600, Aug. 3, 2001; ATF-11F, 73 FR 57241, Oct. 2, 2008; ATF 2014R-42, 84 FR 12094, Apr. 1, 2019]</CITA>
-            </SECTION>
-            <SECTION>
-                <SECTNO>§ 478.93</SECTNO>
-                <SUBJECT>Authorized operations by a licensed collector.</SUBJECT>
-                <P>The license issued to a collector of curios or relics under the provisions of this part shall cover only transactions by the licensed collector in curios and relics. The collector's license is of no force or effect and a licensed collector is of the same status under the Act and this part as a nonlicensee with respect to (a) any acquisition or disposition of firearms other than curios or relics, or any transportation, shipment, or receipt of firearms other than curios or relics in interstate or foreign commerce, and (b) any transaction with a nonlicensee involving any firearm other than a curio or relic. (See also § 478.50.) A collectors license is not necessary to receive or dispose of ammunition, and a licensed collector is not precluded by law from receiving or disposing of armor piercing ammunition. However, a licensed collector may not dispose of any ammunition to a person prohibited from receiving or possessing ammunition (see § 478.99(c)). Any licensed collector who disposes of armor piercing ammunition must record the disposition as required by § 478.125 (a) and (b).</P>
-                <CITA>[T.D. ATF-270, 53 FR 10496, Mar. 31, 1988]</CITA>
-            </SECTION>
-            <SECTION>
-                <SECTNO>§ 478.94</SECTNO>
-                <SUBJECT>Sales or deliveries between licensees.</SUBJECT>
                 <P>
-                    A licensed importer, licensed manufacturer, or licensed dealer selling or otherwise disposing of firearms, and a licensed collector selling or otherwise disposing of curios or relics, to another licensee shall verify the identity and licensed status of the transferee prior to making the transaction. Verification shall be established by the transferee furnishing to the transferor a certified copy of the transferee's license and by such other means as the transferor deems necessary: 
-                    <E T="03">Provided,</E>
-                     That it shall not be required (a) for a transferee who has furnished a certified copy of its license to a transferor to again furnish such certified copy to that transferor during the term of the transferee's current license, (b) for a licensee to furnish a certified copy of its license to another licensee if a firearm is being returned either directly or through another licensee to such licensee and (c) for licensees of multilicensed business organizations to furnish certified copies of their licenses to other licensed locations operated by such organization: 
-                    <E T="03">Provided further,</E>
-                     That a multilicensed business organization may furnish to a transferor, in lieu of a certified copy of each license, a list, certified to be true, correct and complete, containing the name, address, license number, and the date of license expiration of each licensed location operated by such organization, and the transferor may sell or otherwise dispose of firearms as provided by this section to any licensee appearing on such list without requiring a certified copy of a license therefrom. A transferor licensee who has the certified information required by this section may sell or dispose of firearms to a licensee for not more than 45 days following the expiration date of the transferee's license.
+                    (D) 
+                    <E T="03">Privately made firearms marked by nonlicensees.</E>
+                        Unless previously identified by another licensee in accordance with this section, licensees may adopt a unique identification number previously placed on a privately made firearm by an unlicensed person, but not duplicated on any other firearm of the licensee, that otherwise meets the identification requirements of this section provided that, within the period and in the manner herein prescribed, the licensee legibly and conspicuously places, or causes to be placed, on the frame or receiver thereof a serial number beginning with their abbreviated Federal firearms license number, which is the first three and last five digits, followed by a hyphen, before the existing unique identification number, 
+                    <E T="03">e.g.,</E>
+                        “12345678-[unique identification number]”.
                 </P>
-                <APPRO>(Approved by the Office of Management and Budget under control number 1140-0032)</APPRO>
-                <CITA>[T.D. ATF-270, 53 FR 10496, Mar. 31, 1988, as amended by ATF-11F, 73 FR 57241, Oct. 2, 2008]</CITA>
+                <P>
+                    (iv)(A) 
+                    <E T="03">Firearm muffler or silencer parts transferred between qualified manufacturers for further manufacture or to complete new devices.</E>
+                        Licensed manufacturers qualified under 27 CFR part 479 may transfer a part defined as a firearm muffler or firearm silencer to another qualified manufacturer without immediately identifying or registering such part provided that it is for further manufacture (
+                    <E T="03">i.e.,</E>
+                        machining, coating, 
+                    <E T="03">etc.</E>
+                    ) or manufacturing a complete muffler or silencer device. Once the new device with such part is completed, the manufacturer who completes the device shall identify, record, and register it in the manner and within the period specified in this part for a complete muffler or silencer device.
+                </P>
+                <P>
+                    (B) 
+                    <E T="03">Firearm muffler or silencer replacement parts transferred to qualified manufacturers or dealers to repair existing devices.</E>
+                        Licensed manufacturers qualified under part 479 may transfer a replacement part defined as a firearm muffler or firearm silencer other than a frame or receiver to a qualified manufacturer or dealer without identifying or registering such part provided that it is for repairing a complete muffler or silencer device that was previously identified, recorded, and registered in accordance with this part and part 479.
+                </P>
+                <P>
+                    (v) 
+                    <E T="03">Frames or receivers designed before August 24, 2022.</E>
+                        Licensed manufacturers and licensed importers may continue to identify the same component of a firearm (other than a PMF) defined as a frame or receiver as it existed before August 24, 2022 with the same information required to be marked by paragraphs (a)(1)(i) and (a)(1)(ii) of this section that were in effect prior to that date, and any rules necessary to ensure such identification shall remain effective for that purpose. Any frame or receiver with a new design manufactured after August 24, 2022 must be marked with the identifying information and within the period prescribed by this section. For purposes of this paragraph, the term “new design” means that the design of the existing frame or receiver has been functionally modified or altered, as distinguished from performing a cosmetic process that adds to or changes the decoration of the frame or receiver (
+                    <E T="03">e.g.,</E>
+                        painting or engraving), or by adding or replacing stocks, barrels, or accessories to the frame or receiver.
+                </P>
+                <P>
+                    (vi) 
+                    <E T="03">Privately made firearms acquired before August 24, 2022.</E>
+                        Licensees shall identify in the manner prescribed by this section, or cause another person to so identify, each privately made firearm received or otherwise acquired (including from a personal collection) by the licensee before August 24, 2022within sixty (60) days from that date, or prior to the date of final disposition (including to a personal collection), whichever is sooner.
+                </P>
+                <STARS/>
+                <P>
+                    (c) 
+                    <E T="03">Voluntary classification of firearms and armor piercing ammunition.</E>
+                        The Director may issue a determination (classification) to a person whether an item, including a kit, is a firearm or armor piercing ammunition as defined in this part upon receipt of a written request or form prescribed by the Director. Each such voluntary request or form submitted shall be executed under the penalties of perjury with a complete and accurate description of the item or kit, the name and address of the manufacturer or importer thereof, and a sample of such item or kit for examination. A firearm sample must include all accessories and attachments relevant to such classification as each classification is limited to the firearm in the configuration submitted. Each request for classification of a partially complete, disassembled, or nonfunctional item or kit must contain any associated templates, jigs, molds, equipment, or tools that are made available by the seller or distributor of the item or kit to the purchaser or recipient of the item or kit, and any instructions, guides, or marketing materials if they will be made available by the seller or distributor with the item or kit. Upon completion of the examination, the Director may return the sample to the person who made the request unless a determination is made that return of the sample would be or place the person in violation of law. Submissions of armor piercing ammunition with a projectile or projectile core constructed entirely from one or a combination of tungsten steel alloys, steel, iron, brass, bronze, beryllium copper, or depleted uranium must include a list of known handguns in which the ammunition may be used. Except for the classification of a specific component as the frame or receiver of a particular weapon, a determination made by the Director under this paragraph shall not be deemed by any person to be applicable to or authoritative with respect to any other sample, design, model, or configuration.
+                </P>
             </SECTION>
             <SECTION>
                 <SECTNO>§ 478.95</SECTNO>
@@ -2054,61 +2381,96 @@
                 <CITA>[33 FR 18555, Dec. 14, 1968. Redesignated at 40 FR 16835, Apr. 15, 1975, and amended by T.D. ATF-191, 49 FR 46891, Nov. 29, 1984; T.D. ATF-208, 50 FR 26703, June 28, 1985; T.D. ATF-270, 53 FR 10501, Mar. 31, 1988; ATF-11F, 73 FR 57241, Oct. 2, 2008]</CITA>
             </SECTION>
             <SECTION>
-                <SECTNO>§ 478.122</SECTNO>
-                <SUBJECT>Records maintained by importers.</SUBJECT>
-                <P>(a) Each licensed importer shall, within 15 days of the date of importation or other acquisition, record the type, model, caliber or gauge, manufacturer, country of manufacture, and the serial number of each firearm imported or otherwise acquired, and the date such importation or other acquisition was made.</P>
+                <SECTNO>§ 478.122 </SECTNO>
+                <SUBJECT> Records maintained by importers.</SUBJECT>
+                <P>(a) Except for adjustment or repair of a firearm that is returned to the person from whom it was received on the same day, each licensed importer shall record the name of the importer and manufacturer, type, model, caliber or gauge, country or countries of manufacture (if imported), and serial number (including any associated license number either as a prefix, or if remanufactured or imported, separated by a semicolon) of each firearm imported or otherwise acquired (including a frame or receiver to be disposed of separately), the date of such importation or other acquisition, and if otherwise acquired, the name and address, or the name and license number of the person from whom it was received. Privately made firearms shall be recorded in accordance with § 478.125(i). The information required by this paragraph shall be recorded not later than 15 days following the date of importation or other acquisition in a format containing the applicable columns set forth in paragraph (b) of this section.</P>
                 <P>
-                    (b) A record of firearms disposed of by a licensed importer to another licensee and a separate record of armor piercing ammunition dispositions to governmental entities, for exportation, or for testing or experimentation authorized under the provisions of § 478.149 shall be maintained by the licensed importer on the licensed premises. For firearms, the record shall show the quantity, type, manufacturer, country of manufacture, caliber or gauge, model, serial number of the firearms so transferred, the name and license number of the licensee to whom the firearms were transferred, and the date of the transaction. For armor piercing ammunition, the record shall show the date of the transaction, manufacturer, caliber or gauge, quantity of projectiles, and the name and address of the purchaser. The information required by this paragraph shall be entered in the proper record book not later than the seventh day following the date of the transaction, and such information shall be recorded under the following formats:
-                    <PRTPAGE P="65"/>
+                    (b) A record of each firearm disposed of by an importer and a separate record of armor piercing ammunition dispositions to governmental entities, for exportation, or for testing or experimentation authorized under the provisions of § 478.149 shall be maintained by the licensed importer on the licensed premises. The record shall show the date of such sale or other disposition, and the name and license number of the licensee to whom the firearm was transferred, or if disposed of to a nonlicensee, the name and address of the person, or the transaction number 
+                    <PRTPAGE P="24744"/>
+                    of the Firearms Transaction Record, Form 4473, if the licensee transferring the firearm sequentially numbers the Forms 4473 and files them numerically. In the event the licensee records a duplicate entry with the same firearm and acquisition information, whether to close out an old record book or for any other reason, the licensee shall record a reference to the date and location of the subsequent entry (
+                    <E T="03">e.g.,</E>
+                        date of new entry, book name/number, page number, and line number) as the disposition. The information required by this paragraph (b) shall be entered in the proper record book not later than the seventh day following the date of the transaction. Such information shall be recorded in formats containing the applicable columns below, except that for armor piercing ammunition, the information and format shall also include the quantity of projectiles:
                 </P>
-                <GPOTABLE COLS="9" OPTS="L2(,,0),p6,6/1" CDEF="8,4,12,10,8,6,6,12,8">
-                    <TTITLE>Importer's Firearms Disposition Record</TTITLE>
+                <GPOTABLE COLS="11" OPTS="L2(,0,),p7,7/1,i1" CDEF="s25,8,8,8,12,8,12,12,10,8,12">
+                    <TTITLE>
+                        Table 1 to Paragraph (
+                        <E T="01">b</E>
+                        )—Firearms Importer or Manufacturer Acquisition and Disposition Record
+                    </TTITLE>
                     <BOXHD>
-                        <CHED H="1">Quantity</CHED>
-                        <CHED H="1">Type</CHED>
+                        <CHED H="1">Description of firearm</CHED>
+                        <CHED H="2">
+                            Importer, 
+                            <LI>manufacturer, and/or “privately made firearm” (PMF) </LI>
+                            <LI>(if privately made in the U.S.)</LI>
+                        </CHED>
+                        <CHED H="2">Type</CHED>
+                        <CHED H="2">Model</CHED>
+                        <CHED H="2">Caliber or gauge</CHED>
+                        <CHED H="2">
+                            Country or countries of manufacture 
+                            <LI>(if imported)</LI>
+                        </CHED>
+                        <CHED H="2">Serial No.</CHED>
+                        <CHED H="1">Import/manufacture/acquisition</CHED>
+                        <CHED H="2">
+                            Date of import, 
+                            <LI>manufacture, or acquisition</LI>
+                        </CHED>
+                        <CHED H="2">
+                            Name and 
+                            <LI>address of nonlicensee; or if licensee, name and </LI>
+                            <LI>license No. </LI>
+                            <LI>(if acquired)</LI>
+                        </CHED>
+                        <CHED H="1">Disposition</CHED>
+                        <CHED H="2">
+                            Date of 
+                            <LI>disposition</LI>
+                        </CHED>
+                        <CHED H="2">Name</CHED>
+                        <CHED H="2">
+                            Address of nonlicensee; 
+                            <LI>license No. of licensee; or Form 4473 transaction No. if such forms filed </LI>
+                            <LI>numerically</LI>
+                        </CHED>
+                    </BOXHD>
+                    <ROW>
+                        <ENT I="22"> </ENT>
+                    </ROW>
+                </GPOTABLE>
+                <GPOTABLE COLS="5" OPTS="L2(,0,),p8,8/1,i1" CDEF="s25,r35,10,10,r100">
+                    <TTITLE>
+                        Table 2 to Paragraph (
+                        <E T="01">b</E>
+                        )—Armor Piercing Ammunition Importer or Manufacturer Disposition Record
+                    </TTITLE>
+                    <BOXHD>
+                        <CHED H="1">
+                            Date of 
+                            <LI>disposition</LI>
+                        </CHED>
                         <CHED H="1">Manufacturer</CHED>
-                        <CHED H="1">Country of manufacture</CHED>
                         <CHED H="1">Caliber or gauge</CHED>
-                        <CHED H="1">Model</CHED>
-                        <CHED H="1">Serial No.</CHED>
-                        <CHED H="1">Name and license No. of licensee to whom transferred</CHED>
-                        <CHED H="1">Date of the transaction</CHED>
-                    </BOXHD>
-                    <ROW EXPSTB="08">
-                        <ENT I="22"> </ENT>
-                    </ROW>
-                </GPOTABLE>
-                <GPOTABLE COLS="5" OPTS="L2(,,0),p6,6/1" CDEF="4,8,8,8,16">
-                    <TTITLE>Importer's Armor Piercing Ammunition Disposition Record</TTITLE>
-                    <BOXHD>
-                        <CHED H="1">Date</CHED>
-                        <CHED H="1">Manufacturer</CHED>
-                        <CHED H="1">Calibur or gauge</CHED>
                         <CHED H="1">Quantity of projectiles</CHED>
-                        <CHED H="1">Purchaser—Name and address</CHED>
+                        <CHED H="1">Transferee—name and address</CHED>
                     </BOXHD>
-                    <ROW EXPSTB="04">
+                    <ROW>
                         <ENT I="22"> </ENT>
                     </ROW>
                 </GPOTABLE>
-                <P>(c) Notwithstanding the provisions of paragraph (b) of this section, the Director of Industry Operations may authorize alternate records to be maintained by a licensed importer to record the disposal of firearms and armor piercing ammunition when it is shown by the licensed importer that such alternate records will accurately and readily disclose the information required by paragraph (b) of this section. A licensed importer who proposes to use alternate records shall submit a letter application, in duplicate, to the Director of Industry Operations and shall describe the proposed alternate records and the need therefor. Such alternate records shall not be employed by the licensed importer until approval in such regard is received from the Director of Industry Operations.</P>
-                <P>(d) Each licensed importer shall maintain separate records of the sales or other dispositions made of firearms to nonlicensees. Such records shall be maintained in the form and manner as prescribed by §§ 478.124 and 478.125 in regard to firearms transaction records and records of acquisition and disposition of firearms.</P>
-                <APPRO>(Approved by the Office of Management and Budget under control number 1140-0032)</APPRO>
-                <CITA>[T.D. ATF-270, 53 FR 10501, Mar. 31, 1988, as amended by ATF-11F, 73 FR 57241, Oct. 2, 2008]</CITA>
+                <P>(c) The Director may authorize alternate records to be maintained by a licensed importer to record the acquisition and disposition of firearms and armor piercing ammunition when it is shown by the licensed importer that such alternate records will accurately and readily disclose the information required by this section. A licensed importer who proposes to use alternate records shall submit a letter application to the Director and shall describe the proposed alternate records and the need therefor. Such alternate records shall not be employed by the licensed importer until approval in such regard is received from the Director.</P>
             </SECTION>
             <SECTION>
-                <SECTNO>§ 478.123</SECTNO>
-                <SUBJECT>Records maintained by manufacturers.</SUBJECT>
-                <P>(a) Each licensed manufacturer shall record the type, model, caliber or gauge, and serial number of each complete firearm manufactured or otherwise acquired, and the date such manufacture or other acquisition was made. The information required by this paragraph shall be recorded not later than the seventh day following the date such manufacture or other acquisition was made.</P>
-                <P>(b) A record of firearms disposed of by a manufacturer to another licensee and a separate record of armor piercing ammunition dispositions to governmental entities, for exportation, or for testing or experimentation authorized under the provision of § 478.149 shall be maintained by the licensed manufacturer on the licensed premises. For firearms, the record shall show the quantity, type, model, manufacturer, caliber, size or gauge, serial number of the firearms so transferred, the name and license number of the licensee to whom the firearms were transferred, and the date of the transaction. For armor piercing ammunition, the record shall show the manufacturer, caliber or gauge, quantity, the name and address of the transferee to whom the armor piercing ammunition was transferred, and the date of the transaction. The information required by this paragraph shall be entered in the proper record book not later than the seventh day following the date of the transaction, and such information shall be recorded under the format prescribed by § 478.122, except that the name of the manufacturer of a firearm or armor piercing ammunition need not be recorded if the firearm or armor piercing ammunition is of the manufacturer's own manufacture.</P>
+                <SECTNO>§ 478.123 </SECTNO>
+                <SUBJECT> Records maintained by manufacturers.</SUBJECT>
+                <P>(a) Except for adjustment or repair of a firearm that is returned to the person from whom it was received on the same day, each licensed manufacturer shall record the name of the manufacturer and importer (if any), type, model, caliber or gauge, and serial number (including any associated license number either as a prefix, or if remanufactured or imported, separated by a semicolon) of each firearm manufactured or otherwise acquired (including a frame or receiver to be disposed of separately), the date of such manufacture or other acquisition, and if otherwise acquired, the name and address or the name and license number of the person from whom it was received. Privately made firearms shall be recorded in accordance with § 478.125(i). The information required by this paragraph shall, in the case of a firearm other than a firearm defined in 26 U.S.C. 5845, be recorded not later than the seventh day following the date of such manufacture or other acquisition. In the case of a firearm defined in 26 U.S.C. 5845, such information shall be recorded by close of the next business day following the date of such manufacture or other acquisition, except that, when a commercial record is held by the licensed manufacturer separately from other commercial documents and readily available for inspection, containing all acquisition information required for the record, the period for making the required entry into the record may be delayed not to exceed the seventh day following the date of receipt. The information required by this paragraph shall be recorded in a format containing the applicable columns prescribed by § 478.122.</P>
                 <P>
-                    (c) Notwithstanding the provisions of paragraph (b) of this section, the Director of Industry Operations may authorize alternate records to be maintained by a licensed manufacturer to record the disposal of firearms and armor piercing ammunition when it is shown by the licensed manufacturer that such alternate records will accurately and readily disclose the information required by paragraph (b) of this section. A licensed manufacturer who proposes to use alternate records shall submit a 
-                    <PRTPAGE P="66"/>
-                    letter application, in duplicate, to the Director of Industry Operations and shall describe the proposed alternate record and the need therefor. Such alternate records shall not be employed by the licensed manufacturer until approval in such regard is received from the Director of Industry Operations.
+                    (b) A record of each firearm disposed of by a manufacturer and a separate record of armor piercing ammunition dispositions to governmental entities, for exportation, or for testing or experimentation authorized under the provisions of § 478.149 shall be maintained by the licensed manufacturer on the licensed premises. The record shall show the date of such sale or other disposition, and the name and license number of the licensee to whom the firearms were transferred, or if disposed of to a nonlicensee, the name and address of the person, or the transaction number of the Firearms Transaction Record, Form 4473, if the licensee transferring the firearm sequentially numbers the Forms 4473 and files them numerically. In the event the licensee records a duplicate entry with the same firearm and acquisition information, whether to close out an old record book or for any other reason, the licensee shall record a reference to the date and location of the subsequent entry (
+                    <E T="03">e.g.,</E>
+                        date of new entry, book name/number, page number, and line number) as the disposition. The information required by this paragraph shall be entered in the proper record book not later than the seventh day following the date of the transaction. Such information shall be recorded in a format containing the applicable columns prescribed by § 478.122, except that for armor piercing ammunition, the information and format shall also include the quantity of projectiles.
                 </P>
-                <P>(d) Each licensed manufacturer shall maintain separate records of the sales or other dispositions made of firearms to nonlicensees. Such records shall be maintained in the form and manner as prescribed by §§ 478.124 and 478.125 in regard to firearms transaction records and records of acquisition and disposition of firearms.</P>
-                <APPRO>(Approved by the Office of Management and Budget under control number 1140-0067)</APPRO>
-                <CITA>[T.D. ATF-270, 53 FR 10501, Mar. 31, 1988, as amended by ATF-11F, 73 FR 57241, Oct. 2, 2008]</CITA>
+                <P>(c) The Director may authorize alternate records to be maintained by a licensed manufacturer to record the acquisition or disposition of firearms and armor piercing ammunition when it is shown by the licensed manufacturer that such alternate records will accurately and readily disclose the information required by this section. A licensed manufacturer who proposes to use alternate records shall submit a letter application to the Director and shall describe the proposed alternate record and the need therefor. Such alternate records shall not be employed by the licensed manufacturer until approval in such regard is received from the Director.</P>
             </SECTION>
             <SECTION>
                 <SECTNO>§ 478.124</SECTNO>
@@ -2118,7 +2480,7 @@
                     <E T="03">Provided,</E>
                      That a firearms transaction record, Form 4473, shall not be required to record the disposition made of a firearm delivered to a licensee for the sole purpose of repair or customizing when such firearm or a replacement firearm is returned to the person from whom received.
                 </P>
-                <P>(b) A licensed manufacturer, licensed importer, or licensed dealer shall retain in alphabetical (by name of purchaser), chronological (by date of disposition), or numerical (by transaction serial number) order, and as a part of the required records, each Form 4473 obtained in the course of transferring custody of the firearms.</P>
+                <P>(b) A licensed manufacturer, licensed importer, or licensed dealer shall retain in alphabetical (by name of purchaser), chronological (by date of disposition), or numerical (by transaction number) order, and as a part of the required records, each Form 4473 obtained in the course of transferring custody of the firearms.</P>
                 <P>(c)(1) Prior to making an over-the-counter transfer of a firearm to a nonlicensee who is a resident of the State in which the licensee's business premises is located, the licensed importer, licensed manufacturer, or licensed dealer so transferring the firearm shall obtain a Form 4473 from the transferee showing the transferee's name, sex, residence address (including county or similar political subdivision), date and place of birth; height, weight and race of the transferee; the transferee's country of citizenship; the transferee's INS-issued alien number or admission number; the transferee's State of residence; and certification by the transferee that the transferee is not prohibited by the Act from transporting or shipping a firearm in interstate or foreign commerce or receiving a firearm which has been shipped or transported in interstate or foreign commerce or possessing a firearm in or affecting commerce.</P>
                 <P>(2) In order to facilitate the transfer of a firearm and enable NICS to verify the identity of the person acquiring the firearm, ATF Form 4473 also requests certain optional information. This information includes the transferee's social security number. Such information may help avoid the possibility of the transferee being misidentified as a felon or other prohibited person.</P>
                 <P>(3) After the transferee has executed the Form 4473, the licensee:</P>
@@ -2126,7 +2488,7 @@
                 <P>(ii) [Reserved]</P>
                 <P>(iii) Must, in the case of a transferee who is an alien admitted to the United States under a nonimmigrant visa who states that he or she falls within an exception to, or has a waiver from, the prohibition in section 922(g)(5)(B) of the Act, have the transferee present applicable documentation establishing the exception or waiver, note on the Form 4473 the type of documentation provided, and attach a copy of the documentation to the Form 4473; and</P>
                 <P>(iv) Shall comply with the requirements of § 478.102 and record on the form the date on which the licensee contacted the NICS, as well as any response provided by the system, including any identification number provided by the system.</P>
-                <P>(4) The licensee shall identify the firearm to be transferred by listing on the Form 4473 the name of the manufacturer, the name of the importer (if any), the type, model, caliber or gauge, and the serial number of the firearm.</P>
+                <P>(4)  The licensee shall identify the firearm to be transferred by listing on the Form 4473 the name of the manufacturer, the name of the importer (if any), the type, model, caliber or gauge, and the serial number (including any associated license number either as a prefix, or if remanufactured or imported, separated by a semicolon) of the firearm. Where no manufacturer name has been identified on a privately made firearm, the words “privately made firearm” (or abbreviation “PMF”) shall be recorded as the name of the manufacturer.</P>
                 <P>
                     (5) The licensee shall sign and date the form if the licensee does not know 
                     <PRTPAGE P="67"/>
@@ -2134,7 +2496,7 @@
                 </P>
                 <P>(d) Prior to making an over-the-counter transfer of a shotgun or rifle under the provisions contained in § 478.96(c) to a nonlicensee who is not a resident of the State in which the licensee's business premises is located, the licensee so transferring the shotgun or rifle, and such transferee, shall comply with the requirements of paragraph (c) of this section.</P>
                 <P>(e) Prior to making a transfer of a firearm to any nonlicensee who is not a resident of the State in which the licensee's business premises is located, and such nonlicensee is acquiring the firearm by loan or rental from the licensee for temporary use for lawful sporting purposes, the licensed importer, licensed manufacturer, or licensed dealer so furnishing the firearm, and such transferee, shall comply with the provisions of paragraph (c) of this section.</P>
-                <P>(f) Form 4473 shall be submitted, in duplicate, to a licensed importer, licensed manufacturer, or licensed dealer by a transferee who is purchasing or otherwise acquiring a firearm by other than an over-the-counter transaction, who is not subject to the provisions of § 478.102(a), and who is a resident of the State in which the licensee's business premises are located. The Form 4473 shall show the name, address, date and place of birth, height, weight, and race of the transferee; and the title, name, and address of the principal law enforcement officer of the locality to which the firearm will be delivered. The transferee also must date and execute the sworn statement contained on the form showing, in case the firearm to be transferred is a firearm other than a shotgun or rifle, the transferee is 21 years or more of age; in case the firearm to be transferred is a shotgun or rifle, the transferee is 18 years or more of age; whether the transferee is a citizen of the United States; the transferee's State of residence; the transferee is not prohibited by the provisions of the Act from shipping or transporting a firearm in interstate or foreign commerce or receiving a firearm which has been shipped or transported in interstate or foreign commerce or possessing a firearm in or affecting commerce; and the transferee's receipt of the firearm would not be in violation of any statute of the State or published ordinance applicable to the locality in which the transferee resides. Upon receipt of such Forms 4473, the licensee shall identify the firearm to be transferred by listing in the Forms 4473 the name of the manufacturer, the name of the importer (if any), the type, model, caliber or gauge, and the serial number of the firearm to be transferred. The licensee shall prior to shipment or delivery of the firearm to such transferee, forward by registered or certified mail (return receipt requested) a copy of the Form 4473 to the principal law enforcement officer named in the Form 4473 by the transferee, and shall delay shipment or delivery of the firearm to the transferee for a period of at least 7 days following receipt by the licensee of the return receipt evidencing delivery of the copy of the Form 4473 to such principal law enforcement officer, or the return of the copy of the Form 4473 to the licensee due to the refusal of such principal law enforcement officer to accept same in accordance with U.S. Postal Service regulations. The original Form 4473, and evidence of receipt or rejection of delivery of the copy of the Form 4473 sent to the principal law enforcement officer, shall be retained by the licensee as a part of the records required to be kept under this subpart.</P>
+                <P>(f) Form 4473 shall be submitted, in duplicate, to a licensed importer, licensed manufacturer, or licensed dealer by a transferee who is purchasing or otherwise acquiring a firearm by other than an over-the-counter transaction, who is not subject to the provisions of § 478.102(a), and who is a resident of the State in which the licensee's business premises are located. The Form 4473 shall show the name, address, date and place of birth, height, weight, and race of the transferee; and the title, name, and address of the principal law enforcement officer of the locality to which the firearm will be delivered. The transferee also must date and execute the sworn statement contained on the form showing, in case the firearm to be transferred is a firearm other than a shotgun or rifle, the transferee is 21 years or more of age; in case the firearm to be transferred is a shotgun or rifle, the transferee is 18 years or more of age; whether the transferee is a citizen of the United States; the transferee's State of residence; the transferee is not prohibited by the provisions of the Act from shipping or transporting a firearm in interstate or foreign commerce or receiving a firearm which has been shipped or transported in interstate or foreign commerce or possessing a firearm in or affecting commerce; and the transferee's receipt of the firearm would not be in violation of any statute of the State or published ordinance applicable to the locality in which the transferee resides. The licensee shall identify the firearm to be transferred by listing in the Forms 4473 the name of the manufacturer, the name of the importer (if any), the type, model, caliber or gauge, and the serial number of the firearm to be transferred. Where no manufacturer name has been identified on a privately made firearm, the words “privately made firearm” (or abbreviation “PMF”) shall be recorded as the name of the manufacturer.  Postal Service regulations. The original Form 4473, and evidence of receipt or rejection of delivery of the copy of the Form 4473 sent to the principal law enforcement officer, shall be retained by the licensee as a part of the records required to be kept under this subpart.</P>
                 <P>(g) A licensee who sells or otherwise disposes of a firearm to a nonlicensee who is other than an individual, shall obtain from the transferee the information required by this section from an individual authorized to act on behalf of the transferee. In addition, the licensee shall obtain from the individual acting on behalf of the transferee a written statement, executed under the penalties of perjury, that the firearm is being acquired for the use of and will be the property of the transferee, and showing the name and address of that transferee.</P>
                 <P>
                     (h) The requirements of this section shall be in addition to any other recordkeeping requirement contained in this part.
@@ -2205,54 +2567,106 @@
                 <P>
                     (e) 
                     <E T="03">Firearms receipt and disposition by dealers.</E>
-                     Each licensed dealer shall enter into a record each receipt and disposition of firearms. In addition, before commencing or continuing a firearms business, each licensed dealer shall inventory the firearms possessed for such business and shall record same in the record required by this paragraph. The record required by this paragraph shall be maintained in bound form under the format prescribed below. The purchase or other acquisition of a firearm shall, except as provided in paragraph (g) of this section, be recorded not later than the close of the next business day following the date of such purchase or acquisition. The record shall show the date of receipt, the name and address or the name and license number of the person from whom received, the name of the manufacturer and importer (if any), the model, serial number, type, and the caliber or gauge of the firearm. The sale or other disposition of a firearm shall be recorded by the licensed dealer not later than 7 days following the date of such transaction. When such disposition is made to a nonlicensee, the firearms transaction record, Form 4473, obtained by the licensed dealer shall be retained, until the transaction is recorded, separate from the licensee's Form 4473 file and be readily available for inspection. When such disposition is made to a licensee, the commercial record of the transaction shall be retained, until the transaction is recorded, separate from other commercial documents maintained by the licensed dealer, and be readily available for inspection. The record shall show the date of the sale or other disposition of each firearm, the name and address of the person to whom the firearm is transferred, or the name and license number of the person to whom transferred if such person is a licensee, or the firearms transaction record, Form 4473, serial number if the licensed dealer transferring the firearm serially numbers the Forms 4473 and files them numerically. The format required for the record of receipt and disposition of firearms is as follows:
+                        Except for adjustment or repair of a firearm that is returned to the person from whom it was received on the same day, each licensed dealer shall enter into a record each receipt and disposition of firearms. In addition, before commencing or continuing a firearms business, each licensed dealer shall inventory the firearms possessed for such business and shall record the same in the record required by this paragraph. The record required by this paragraph shall be maintained in bound form in the format prescribed below. The purchase or other acquisition of a firearm shall, except as provided in paragraphs (g) and (i) of this section, be recorded not later than the close of the next business day following the date of such purchase or acquisition. The record shall show the date of receipt, the name and address or the name and license number of the person from whom received, the name of the manufacturer and importer (if any), the model, serial number (including any associated license number either as a prefix, or if remanufactured or imported, separated by a semicolon), type, and the caliber or gauge of the firearm. In the event the licensee records a duplicate entry with the same firearm and acquisition information, whether to close out an old record book or for any other reason, the licensee shall record a reference to the date and location of the subsequent entry (
+                    <E T="03">e.g.,</E>
+                        date of new entry, book name/number, page number, and line number) as the disposition. The sale or other disposition of a firearm shall be recorded by the licensed dealer not later than seven days following the date of such transaction. When such disposition is made to a nonlicensee, the firearms transaction record, Form 4473, obtained by the licensed dealer shall be retained, until the transaction is recorded, separate from the licensee's Form 4473 file and be readily available for inspection. When such disposition is made to a licensee, the commercial record of the transaction shall be retained, until the transaction is recorded, separate from other commercial documents maintained by the licensed dealer, and be readily available for inspection. The record shall show the date of the sale or other disposition of each firearm, the name and address of the person to whom the firearm is transferred, or the name and license number of the person to whom transferred if such person is a licensee, or the firearms transaction record, Form 4473, transaction number if the licensed dealer transferring the firearm sequentially numbers the Forms 4473 and files them numerically. The format required for the record of receipt and disposition of firearms is as follows:
                 </P>
-                <GPOTABLE COLS="10" OPTS="L2,p6,6/1" CDEF="s20,8,8,8,8,6,9,6,6,15">
-                    <TTITLE>Firearms Acquisition and Disposition Record</TTITLE>
+                <GPOTABLE COLS="10" OPTS="L2(,0,),p7,7/0,i1" CDEF="s25,8,8,8,8,8,r25,8,8,r25">
+                    <TTITLE>
+                        Table 2 to Paragraph (
+                        <E T="01">e</E>
+                        )—Firearms Dealer Acquisition and Disposition Record
+                    </TTITLE>
                     <BOXHD>
                         <CHED H="1">Description of firearm</CHED>
-                        <CHED H="2">Manufacturer and importer (if any)</CHED>
+                        <CHED H="2">
+                            Manufacturer, importer (if any), or 
+                            <LI>“privately made firearm” </LI>
+                            <LI>(PMF)</LI>
+                        </CHED>
                         <CHED H="2">Model</CHED>
                         <CHED H="2">Serial No.</CHED>
                         <CHED H="2">Type</CHED>
                         <CHED H="2">Caliber or gauge</CHED>
                         <CHED H="1">Receipt</CHED>
                         <CHED H="2">Date</CHED>
-                        <CHED H="2">Name and address or name and license No.</CHED>
+                        <CHED H="2">
+                            Name and address of nonlicensee; 
+                            <LI>or if licensee, name and license No.</LI>
+                        </CHED>
                         <CHED H="1">Disposition</CHED>
                         <CHED H="2">Date</CHED>
                         <CHED H="2">Name</CHED>
-                        <CHED H="2">Address or license No. if licensee, or Form 4473 Serial No. if Forms 4473 filed numerically</CHED>
+                        <CHED H="2">
+                            Address of nonlicensee; license No. of 
+                            <LI>licensee; or Form 4473 transaction No. </LI>
+                            <LI>if such forms filed numerically</LI>
+                        </CHED>
                     </BOXHD>
-                    <ROW EXPSTB="09">
+                    <ROW>
                         <ENT I="22"> </ENT>
                     </ROW>
                 </GPOTABLE>
-                <P>
+                 <P>
                     (f) 
                     <E T="03">Firearms receipt and disposition by licensed collectors.</E>
-                     (1) Each licensed collector shall enter into a record each receipt and disposition of firearms curios or relics. The record required by this paragraph shall be maintained in bound form under the format prescribed below. The purchase or other acquisition of a curio or relic shall, except as provided in paragraph (g) of this section, be recorded not later than the close of the next business day following the date of such purchase or other acquisition. The record shall show the date of receipt, the name and 
-                    <PRTPAGE P="70"/>
-                    address or the name and license number of the person from whom received, the name of the manufacturer and importer (if any), the model, serial number, type, and the caliber or gauge of the firearm curio or relic. The sale or other disposition of a curio or relic shall be recorded by the licensed collector not later than 7 days following the date of such transaction. When such disposition is made to a licensee, the commercial record of the transaction shall be retained, until the transaction is recorded, separate from other commercial documents maintained by the licensee, and be readily available for inspection. The record shall show the date of the sale or other disposition of each firearm curio or relic, the name and address of the person to whom the firearm curio or relic is transferred, or the name and license number of the person to whom transferred if such person is a licensee, and the date of birth of the transferee if other than a licensee. In addition, the licensee shall cause the transferee, if other than a licensee, to be identified in any manner customarily used in commercial transactions (e.g., a driver's license), and note on the record the method used.
+                        (1) Each licensed collector shall enter into a record each receipt and disposition of firearms curios or relics. The record required by this paragraph shall be maintained in bound form under the format prescribed below. The purchase or other acquisition of a curio or relic shall, except as provided in paragraphs (g) and (i) of this section, be recorded not later than the close of the next business day following the date of such purchase or other acquisition. The record shall show the date of receipt, the name and address or the name and license number of the person from whom received, the name of the manufacturer and importer (if any), the model, serial number (including any associated license number either as a prefix, or if remanufactured or imported, separated by a semicolon), type, and the caliber or gauge of the firearm curio or relic. In the event the licensee records a duplicate entry with the same firearm and acquisition information, whether to close out an old record book or for any other reason, the licensee shall record a reference to the date and location of the subsequent entry (
+                    <E T="03">e.g.,</E>
+                        date of new entry, book name/number, page number, and line number) as the disposition. The sale or other disposition of a curio or relic shall be recorded by the licensed collector not later than seven days following the date of such transaction. When such disposition is made to a licensee, the commercial record of the transaction shall be retained, until the transaction is recorded, separate from other commercial documents maintained by the licensee, and be readily available for inspection. The record shall show the date of the sale or other disposition of each firearm curio or relic, the name and address of the person to whom the firearm curio or relic is transferred, or the name and license number of the person to whom transferred if such person is a licensee, 
+                    <PRTPAGE P="24746"/>
+                    and the date of birth of the transferee if other than a licensee. In addition, the licensee shall cause the transferee, if other than a licensee, to be identified in any manner customarily used in commercial transactions (
+                    <E T="03">e.g.,</E>
+                        a driver's license), and note on the record the method used.
                 </P>
                 <P>(2) The format required for the record of receipt and disposition of firearms by collectors is as follows:</P>
-                <GPOTABLE COLS="11" OPTS="L2,p6,6/7" CDEF="s8,6,6,6,6,6,10,6,10,10,10">
-                    <TTITLE>Firearms Collectors Acquisition and Disposition Record</TTITLE>
+                <GPOTABLE COLS="11" OPTS="L2(,0,),p7,7/8,i1" CDEF="s25,8,8,8,8,8,r25,8,r25,r25,r25">
+                    <TTITLE>
+                        Table 3 to Paragraph (
+                        <E T="01">f</E>
+                        )(2)—Firearms Collector Acquisition and Disposition Record
+                    </TTITLE>
                     <BOXHD>
                         <CHED H="1">Description of firearm</CHED>
-                        <CHED H="2">Manufacturer and importer (if any)</CHED>
+                        <CHED H="2">
+                            Manufacturer, 
+                            <LI>importer </LI>
+                            <LI>(if any), </LI>
+                            <LI>or “privately </LI>
+                            <LI>made firearm” </LI>
+                            <LI>(PMF)</LI>
+                        </CHED>
                         <CHED H="2">Model</CHED>
                         <CHED H="2">Serial No.</CHED>
                         <CHED H="2">Type</CHED>
                         <CHED H="2">Caliber or gauge</CHED>
                         <CHED H="1">Receipt</CHED>
                         <CHED H="2">Date</CHED>
-                        <CHED H="2">Name and address or name and license No.</CHED>
+                        <CHED H="2">
+                            Name and 
+                            <LI>address of </LI>
+                            <LI>nonlicensee; or </LI>
+                            <LI>if </LI>
+                            <LI>licensee, name and </LI>
+                            <LI>license No.</LI>
+                        </CHED>
                         <CHED H="1">Disposition</CHED>
                         <CHED H="2">Date</CHED>
-                        <CHED H="2">Name and address or name and license No.</CHED>
-                        <CHED H="2">Date of birth if non-licensee</CHED>
-                        <CHED H="2">Driver's license No. or other identification if non-licensee</CHED>
+                        <CHED H="2">
+                            Name and 
+                            <LI>address of </LI>
+                            <LI>nonlicensee; or </LI>
+                            <LI>if </LI>
+                            <LI>licensee, name and </LI>
+                            <LI>license No.</LI>
+                        </CHED>
+                        <CHED H="2">
+                            Date of birth if 
+                            <LI>nonlicensee</LI>
+                        </CHED>
+                        <CHED H="2">
+                            Driver's license No. or other identification if 
+                            <LI>nonlicensee</LI>
+                        </CHED>
                     </BOXHD>
                     <ROW>
                         <ENT I="22"> </ENT>
@@ -2274,10 +2688,8 @@
                 </P>
                 <P>
                     (i) 
-                    <E T="03">Requirements for importers and manufacturers.</E>
-                     Each licensed importer and 
-                    <PRTPAGE P="71"/>
-                    licensed manufacturer selling or otherwise disposing of firearms or armor piercing ammunition to nonlicensees shall maintain such records of such transactions as are required of licensed dealers by this section.
+                    <E T="03">Privately made firearms.</E>
+                        Except for adjustment or repair of a firearm that is returned to the person from whom it was received on the same day, licensees must record each receipt or other acquisition (including from a personal collection) and disposition (including to a personal collection) of a privately made firearm as required by this part. For purposes of this paragraph, the terms “receipt” and “acquisition” shall include same-day or on-the-spot placement of identifying markings unless another licensee is placing the markings for, and under the direct supervision of, the licensee who recorded the acquisition. In that case, the licensee placing the markings need not record an acquisition from the supervising licensee or disposition upon return. The serial number need not be immediately recorded if the firearm is being identified by the licensee, or under the licensee's direct supervision with the licensee's serial number, in accordance with § 478.92(a)(2). Once the privately made firearm is so identified, the licensee shall update the record of acquisition entry with the serial number, including the license number prefix, and shall record its disposition in accordance with this section. In this part and part 447, where no manufacturer name has been identified on a privately made firearm (if privately made in the United States), the words “privately made firearm” (or abbreviation “PMF”) shall be recorded as the name of the manufacturer.
                 </P>
                 <APPRO>(Approved by the Office of Management and Budget under control number 1140-0032)</APPRO>
                 <CITA>[T.D. ATF-270, 53 FR 10503, Mar. 31, 1988, as amended by T.D. ATF-273, 53 FR 24687, June 30, 1988; T.D. ATF-313, 56 FR 32508, July 17, 1991; T.D. ATF-389, 62 FR 19445, Apr. 21, 1997; ATF-11F, 73 FR 57241, Oct. 2, 2008; ATF-22I, 77 FR 33634, June 7, 2012; ATF-19 F, 79 FR 45092, Aug. 4, 2014; ATF 2015R-26, 81 FR 38071, June 13, 2016]</CITA>
@@ -2293,22 +2705,35 @@
                 <P>(1) The licensee has maintained the firearm as part of such collection for 1 year from the date the firearm was transferred from the business inventory into the personal collection or otherwise acquired as a personal firearm,</P>
                 <P>(2) The licensee recorded in the bound record prescribed by § 478.125(e) the receipt of the firearm into the business inventory or other acquisition,</P>
                 <P>(3) The licensee recorded the firearm as a disposition in the bound record prescribed by § 478.125(e) when the firearm was transferred from the business inventory into the personal firearms collection or otherwise acquired as a personal firearm, and</P>
-                <P>(4) The licensee enters the sale or other disposition of the firearm from the personal firearms collection into a bound record, under the format prescribed below, identifying the firearm transferred by recording the name of the manufacturer and importer (if any), the model, serial number, type, and the caliber or gauge, and showing the date of the sale or other disposition, the name and address of the transferee, or the name and business address of the transferee if such person is a licensee, and the date of birth of the transferee if other than a licensee. In addition, the licensee shall cause the transferee, if other than a licensee, to be identified in any manner customarily used in commercial transactions (e.g., a drivers license). The format required for the disposition record of personal firearms is as follows:</P>
-                <GPOTABLE COLS="8" OPTS="L2(,,0),p6,6/1" CDEF="13,6,12,5,11,5,11,15">
-                    <TTITLE>Disposition Record of Personal Firearms</TTITLE>
+                <P>(4) The licensee enters the sale or other disposition of the firearm from the personal firearms collection into a bound record, under the format prescribed below, identifying the firearm transferred by recording the name of the manufacturer and importer (if any), the model, serial number (including any associated license number either as a prefix, or if remanufactured or imported, separated by a semicolon), type, and the caliber or gauge, and showing the date of the sale or other disposition, the name and address of the transferee, or the name and business address of the transferee if such person is a licensee, and the date of birth of the transferee if other than a licensee. In addition, the licensee shall cause the transferee, if other than a licensee, to be identified in any manner customarily used in commercial transactions (e.g., a drivers license). Where no manufacturer name has been identified on a privately made firearm, the words “privately made firearm” (or abbreviation “PMF”) shall be recorded as the name of the manufacturer. The format required for the disposition record of personal firearms is as follows:</P>
+                <GPOTABLE COLS="8" OPTS="L2(,0,),p7,7/0,i1" CDEF="s25,12,12,12,12,12,r25,12">
+                    <TTITLE>
+                        Table 1 to Paragraph (
+                        <E T="01">a</E>
+                        )(4)—Disposition Record of Personal Firearms
+                    </TTITLE>
                     <BOXHD>
                         <CHED H="1">Description of firearm</CHED>
-                        <CHED H="2">Manufacturer and importer (if any)</CHED>
+                        <CHED H="2">
+                            Manufacturer, importer (if any), or “privately  made 
+                            <LI>firearm”  (PMF)</LI>
+                        </CHED>
                         <CHED H="2">Model</CHED>
                         <CHED H="2">Serial No.</CHED>
                         <CHED H="2">Type</CHED>
                         <CHED H="2">Caliber or gauge</CHED>
                         <CHED H="1">Disposition</CHED>
                         <CHED H="2">Date</CHED>
-                        <CHED H="2">Name and address (business address if licensee)</CHED>
-                        <CHED H="2">Date of birth if nonlicensee</CHED>
+                        <CHED H="2">
+                            Name and address 
+                            <LI>(business address if licensee)</LI>
+                        </CHED>
+                        <CHED H="2">
+                            Date of birth 
+                            <LI>if nonlicensee</LI>
+                        </CHED>
                     </BOXHD>
-                    <ROW EXPSTB="07">
+                    <ROW>
                         <ENT I="22"> </ENT>
                     </ROW>
                 </GPOTABLE>
@@ -2378,12 +2803,10 @@
                     <E T="03">Records prior to Act.</E>
                      Licensed importers and licensed manufacturers may dispose of records of sale or other disposition of firearms prior to December 16, 1968. Licensed dealers and licensed collectors may dispose of all records of firearms transactions that occurred prior to December 16, 1968.
                 </P>
-                <P>
+                 <P>
                     (b) 
-                    <E T="03">Firearms transaction record.</E>
-                     Licensees shall retain each Form 4473 and Form 4473(LV) for a period of not less than 20 years after the date of sale or disposition. Where a licensee has initiated a NICS check for a proposed firearms transaction, but the sale, delivery, or transfer of the firearm is not made, the licensee shall record any transaction number on the Form 4473, and retain the Form 4473 for a period of not less than 5 years after the date of the NICS inquiry. Forms 4473 shall be retained in the licensee's records as provided in § 478.124(b): 
-                    <E T="03">Provided,</E>
-                     That Forms 4473 with respect to which a sale, delivery or transfer did not take place shall be separately retained in alphabetical (by name of transferee) or chronological (by date of transferee's certification) order.
+                    <E T="03">Firearms Transaction Record.</E>
+                        Licensees shall retain each Form 4473 until business or licensed activity is discontinued, either on paper, or in an electronic alternate method approved by the Director, at the business premises readily accessible for inspection under this part. Paper forms over 20 years of age may be stored at a separate warehouse, which shall be considered part of the business premises for this purpose and subject to inspection under this part. Forms 4473 shall be retained in the licensee's records as provided in § 478.124(b), provided that Forms 4473 with respect to which a sale, delivery, or transfer did not take place shall be separately retained in alphabetical (by name of transferee) or chronological (by date of transferee's certification) order.
                 </P>
                 <P>
                     (c) 
@@ -2393,14 +2816,14 @@
                 <P>
                     (d) 
                     <E T="03">Records of importation and manufacture.</E>
-                     Licensees will maintain permanent records of the importation, manufacture, or other acquisition of firearms, including ATF Forms 6 and 6A as required by subpart G of this part. Licensed importers' records and licensed manufacturers' records of the sale or 
-                    <PRTPAGE P="74"/>
-                    other disposition of firearms after December 15, 1968, shall be retained through December 15, 1988, after which records of transactions over 20 years of age may be discarded.
+                        Licensees shall maintain records of the importation, manufacture, or other acquisition of firearms, including ATF Forms 6 and 6A as required by subpart G of this part, until business or licensed activity is discontinued. Licensed importers' records and licensed manufacturers' records of the sale or other disposition of firearms after December 15, 1968, shall be retained until business is discontinued, either on paper or in an electronic alternate method approved by the Director, at the business premises readily accessible for inspection under this part. Paper records that do not contain any open disposition entries and with no dispositions recorded within 20 years may be stored at a separate warehouse, which shall be considered part of the business premises for this purpose and subject to inspection under this part.
                 </P>
                 <P>
                     (e) 
-                    <E T="03">Records of dealers and collectors under the Act.</E>
-                     The records prepared by licensed dealers and licensed collectors under the Act of the sale or other disposition of firearms and the corresponding record of receipt of such firearms shall be retained through December 15, 1988, after which records of transactions over 20 years of age may be discarded.
+                    <E T="03">Records of dealers and collectors.</E>
+                        The records prepared by licensed dealers and licensed collectors of the sale or other disposition of firearms and the corresponding record of receipt of such firearms shall be retained until business or licensed activity is discontinued, either on paper, or in an electronic alternate method approved by the Director, at the business or collection premises readily accessible for inspection under this part. Paper records that do not contain any open disposition entries and with no dispositions recorded within 20 years 
+                    <PRTPAGE P="24747"/>
+                    may be stored at a separate warehouse, which shall be considered part of the business or collection premises for this purpose and subject to inspection under this part.
                 </P>
                 <P>
                     (f) 
