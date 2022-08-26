@@ -337,6 +337,14 @@
                      An officer or employee of the Bureau of Alcohol, Tobacco, Firearms, and Explosives (ATF) authorized to perform any function relating to the administration or enforcement of this part.
                 </P>
                 <P>
+                    <E T="03">Complete muffler or silencer device.</E>
+                        A muffler or silencer that contains all component parts necessary to function, whether or not assembled or operable.
+                </P>
+                <P>
+                    <E T="03">Complete weapon.</E>
+                        A firearm other than a muffler or silencer that contains all component parts necessary to function, whether or not assembled or operable.
+                </P>
+                <P>
                     <E T="03">Customs officer.</E>
                      Any officer of U.S. Customs and Border Protection, any commissioned, warrant, or petty officer of the Coast Guard, or any agent or other person authorized by law to perform the duties of a customs officer.
                 </P>
@@ -391,9 +399,9 @@
                     <E T="03">Fixed ammunition.</E>
                      That self-contained unit consisting of the case, primer, propellant charge, and projectile or projectiles.
                 </P>
-                <P>
+               <P>
                     <E T="03">Frame or receiver.</E>
-                     That part of a firearm which provides housing for the hammer, bolt or breechblock and firing mechanism, and which is usually threaded at its forward portion to receive the barrel.
+                        The term “frame or receiver” shall have the same meaning as in § 478.12 of this subchapter.
                 </P>
                 <P>
                     <E T="03">Importation.</E>
@@ -435,6 +443,50 @@
                      A weapon originally designed, made, and intended to fire a projectile (bullet) from one or more barrels when held in one hand, and having (a) a chamber(s) as an integral part(s) of, or permanently aligned with, the bore(s); and (b) a short stock designed to be gripped by one hand and at an angle to and extending below the line of the bore(s).
                 </P>
                 <P>
+                    <E T="03">Readily.</E>
+                        A process, action, or physical state that is fairly or reasonably efficient, quick, and easy, but not necessarily the most efficient, speediest, or easiest process, action, or physical state. With respect to the classification of firearms, factors relevant in making this determination include the following:
+                </P>
+                <P>
+                    (a) Time, 
+                    <E T="03">i.e.,</E>
+                        how long it takes to finish the process;
+                </P>
+                <P>
+                    (b) Ease, 
+                    <E T="03">i.e.,</E>
+                        how difficult it is to do so;
+                </P>
+                <P>
+                    (c) Expertise, 
+                    <E T="03">i.e.,</E>
+                        what knowledge and skills are required;
+                </P>
+                <P>
+                    (d) Equipment, 
+                    <E T="03">i.e.,</E>
+                        what tools are required;
+                </P>
+                <P>
+                    (e) Parts availability, 
+                    <E T="03">i.e.,</E>
+                        whether additional parts are required, and how easily they can be obtained;
+                </P>
+                <P>
+                    (f) Expense, 
+                    <E T="03">i.e.,</E>
+                        how much it costs;
+                </P>
+                <P>
+                    (g) Scope, 
+                    <E T="03">i.e.,</E>
+                        the extent to which the subject of the process must be changed to finish it; and
+                </P>
+                <P>
+                    (h) Feasibility, 
+                    <E T="03">i.e.,</E>
+                        whether the process would damage or destroy the subject of the process, or cause it to malfunction.
+                </P>
+                <P>
                     <E T="03">Responsible person.</E>
                      In the case of an unlicensed entity, including any trust, partnership, association, company (including any Limited Liability Company (LLC)), or corporation, any individual who possesses, directly or indirectly, the power or authority to direct the management and policies of the trust or entity to receive, possess, ship, transport, deliver, transfer, or otherwise dispose of a firearm for, or on behalf of, the trust or legal entity. In the case of a trust, those persons with the power or authority to direct the management and policies of the trust include any person who has the capability to exercise such power and possesses, directly or indirectly, the power or authority under any trust instrument, or under State law, to receive, possess, ship, transport, deliver, transfer, or otherwise dispose of a firearm for, or on behalf of, the trust. Examples of who may be considered a responsible person include settlors/grantors, trustees, partners, members, officers, directors, board members, or owners. An example of who may be excluded from this definition of responsible person is the beneficiary of a trust, if the beneficiary does not have the capability to exercise the powers or authorities enumerated in this section.
                 </P>
@@ -452,7 +504,7 @@
                 </P>
                 <P>
                     <E T="03">Transfer.</E>
-                     This term and the various derivatives thereof shall include selling, assigning, pledging, leasing, loaning, giving away, or otherwise disposing of.
+                     This term and the various derivatives thereof shall include selling, assigning, pledging, leasing, loaning, giving away, or otherwise disposing of. For purposes of this part, the term shall not include the temporary conveyance of a lawfully possessed firearm to a manufacturer or dealer qualified under this part for the sole purpose of repair, identification, evaluation, research, testing, or calibration and return to the same lawful possessor.
                 </P>
                 <P>
                     <E T="03">United States.</E>
@@ -1145,36 +1197,135 @@
                 <CITA>[36 FR 14256, Aug. 3, 1971. Redesignated at 40 FR 16835, Apr. 15, 1975, and amended by T.D. ATF-48, 44 FR 55843, Sept. 28, 1979]</CITA>
             </SECTION>
             <SECTION>
-                <SECTNO>§ 479.102</SECTNO>
-                <SUBJECT>How must firearms be identified?</SUBJECT>
-                <P>(a) You, as a manufacturer, importer, or maker of a firearm, must legibly identify the firearm as follows:</P>
+                <SECTNO>§ 479.102 </SECTNO>
+                <SUBJECT>Identification of firearms.</SUBJECT>
                 <P>
-                    (1) By engraving, casting, stamping (impressing), or otherwise conspicuously placing or causing to be engraved, cast, stamped (impressed) or placed on the frame or receiver thereof an individual serial number. The serial number must be placed in a manner not susceptible of being readily obliterated, altered, or removed, and must not duplicate any serial number placed by you on any other firearm. For firearms manufactured, imported, or made on and after January 30, 2002, the engraving, casting, or stamping (impressing) of the serial number must be to a minimum depth of .003 inch and in a print size no smaller than 
-                    <FR>1/16</FR>
-                     inch; and
+                    (a) 
+                    <E T="03">Identification required.</E>
+                        Except as otherwise provided in this section, you, as a manufacturer, importer, or maker of a firearm, must legibly identify the firearm as follows:
                 </P>
                 <P>
-                    (2) By engraving, casting, stamping (impressing), or otherwise conspicuously placing or causing to be engraved, cast, stamped (impressed), or placed on the frame, receiver, or barrel thereof certain additional information. This information must be placed in a manner not susceptible of being readily obliterated, altered or removed. For firearms manufactured, imported, or made on and after January 30, 2002, the engraving, casting, or stamping (impressing) of this information must be to a minimum depth of .003 inch. The additional information includes:
-                    <PRTPAGE P="103"/>
+                    (1) 
+                    <E T="03">Serial number, name, place of business.</E>
+                        By engraving, casting, stamping (impressing), or otherwise conspicuously placing or causing to be engraved, cast, stamped (impressed) or otherwise placed on the frame or receiver thereof, an individual serial number, in a manner not susceptible of being readily obliterated, altered, or removed. The serial number must not duplicate any serial number placed by you on any other firearm. The frame or receiver must also be marked with either: Your name (or recognized abbreviation), and city and State (or recognized abbreviation) where you as a manufacturer or importer maintain your place of business, or in the case of a maker, where you made the firearm; or if a manufacturer or importer, your name (or recognized abbreviation) and the serial number that begins with your abbreviated Federal firearms license number, which is the first three and last five digits, as a prefix to a unique identification number, followed by a hyphen, 
+                    <E T="03">e.g.,</E>
+                        “12345678-[unique identification number]”; and
+                </P>
+                <P>
+                    (2) 
+                    <E T="03">Model, caliber or gauge, foreign manufacturer, country of manufacture.</E>
+                        By engraving, casting, stamping (impressing), or otherwise conspicuously placing or causing to be engraved, cast, stamped (impressed) or placed on the frame or receiver, or barrel or pistol slide (if applicable) thereof certain additional information. This information must be placed in a manner not susceptible of being readily obliterated, altered, or removed. The additional information shall include:
                 </P>
                 <P>(i) The model, if such designation has been made;</P>
                 <P>(ii) The caliber or gauge;</P>
-                <P>(iii) Your name (or recognized abbreviation) and also, when applicable, the name of the foreign manufacturer or maker;</P>
-                <P>(iv) In the case of a domestically made firearm, the city and State (or recognized abbreviation thereof) where you as the manufacturer maintain your place of business, or where you, as the maker, made the firearm; and</P>
-                <P>(v) In the case of an imported firearm, the name of the country in which it was manufactured and the city and State (or recognized abbreviation thereof) where you as the importer maintain your place of business. For additional requirements relating to imported firearms, see Customs regulations at 19 CFR part 134.</P>
-                <P>(b) The depth of all markings required by this section will be measured from the flat surface of the metal and not the peaks or ridges. The height of serial numbers required by paragraph (a)(1) of this section will be measured as the distance between the latitudinal ends of the character impression bottoms (bases).</P>
-                <P>(c) The Director may authorize other means of identification upon receipt of a letter application from you, submitted in duplicate, showing that such other identification is reasonable and will not hinder the effective administration of this part.</P>
-                <P>(d) In the case of a destructive device, the Director may authorize other means of identifying that weapon upon receipt of a letter application from you, submitted in duplicate, showing that engraving, casting, or stamping (impressing) such a weapon would be dangerous or impracticable.</P>
-                <P>(e) A firearm frame or receiver that is not a component part of a complete weapon at the time it is sold, shipped, or otherwise disposed of by you must be identified as required by this section.</P>
-                <P>(f)(1) Any part defined as a machine gun, muffler, or silencer for the purposes of this part that is not a component part of a complete firearm at the time it is sold, shipped, or otherwise disposed of by you must be identified as required by this section.</P>
-                <P>(2) The Director may authorize other means of identification of parts defined as machine guns other than frames or receivers and parts defined as mufflers or silencers upon receipt of a letter application from you, submitted in duplicate, showing that such other identification is reasonable and will not hinder the effective administration of this part.</P>
-                <APPRO>(Approved by the Office of Management and Budget under control number 1140-0050)</APPRO>
-                <CITA>[T.D. ATF-461, 66 FR 40601, Aug. 3, 2001, as amended by ATF-11F, 73 FR 57242, Oct. 2, 2008]</CITA>
+                <P>(iii) When applicable, the name of the foreign manufacturer or maker; and</P>
+                <P>(iv) In the case of an imported firearm, the name of the country in which it was manufactured. For additional requirements relating to imported firearms, see Customs regulations at 19 CFR part 134.</P>
+                <P>
+                    (3) 
+                    <E T="03">Multi-piece frame or receiver.</E>
+                        In the case of a multi-piece frame or receiver, the modular subpart that is the outermost housing or structure designed to house, hold, or contain either the primary energized component of a handgun, breech blocking or sealing component of a projectile weapon other than a handgun, or internal sound reduction component of a firearm muffler or firearm silencer, as the case may be, shall be the subpart of a multi-piece frame or receiver identified in accordance with this section. If more than one subpart is similarly designed to house, hold, or contain such primary component (
+                    <E T="03">e.g.,</E>
+                        left and right halves), each of those subparts must be identified with the same serial number and associated licensee information not duplicated on any other frame or receiver. The identified subpart(s) of a complete (assembled or unassembled) multi-piece frame or receiver shall not be removed and replaced (
+                    <E T="03">see</E>
+                        § 478.34 of this subchapter, 18 U.S.C. 922(k), and 26 U.S.C. 5861(g) and (h)), unless—
+                </P>
+                <P>(A) The subpart replacement is not a firearm under 26 U.S.C. 5845;</P>
+                <P>(B) The subpart replacement is identified by the qualified manufacturer of the original subpart with the same serial number and associated licensee information in the manner prescribed by this section; and</P>
+                <P>(C) The original subpart is destroyed under the manufacturer's control or direct supervision prior to such placement.</P>
+                <P>
+                    (4) 
+                    <E T="03">Frame or receiver, machine gun conversion part, or silencer part disposed of separately.</E>
+                        Each part defined as a frame or receiver or modular subpart thereof described in paragraph (a)(3) of this section, machinegun, or firearm muffler or firearm silencer that is not a component part of a complete weapon or complete muffler or silencer device at the time it is sold, shipped, or otherwise disposed of by you must be identified as required by this section with an individual serial number not duplicated on any other firearm and all additional identifying information, except that the model designation and caliber or gauge may be omitted if that information is unknown at the time the part is identified.
+                    <PRTPAGE P="24748"/>
+                </P>
+                <P>
+                    (5) 
+                    <E T="03">Size and depth of markings.</E>
+                        The engraving, casting, or stamping (impressing) of the serial number and additional information must be to a minimum depth of .003 inch, and the serial number and any associated license number in a print size no smaller than 
+                    <FR>1/16</FR>
+                        inch. The size of the serial and license number is measured as the distance between the latitudinal ends of the character impression bottoms (bases). The depth of all markings required by this section is measured from the flat surface of the metal and not the peaks or ridges.
+                </P>
+                <P>
+                    (6) 
+                    <E T="03">Period of time to identify firearms.</E>
+                        You shall identify a complete weapon or complete muffler or silencer device no later than close of the next business day following the date the entire manufacturing process has ended for the weapon or device, or prior to disposition, whichever is sooner. You must identify each part or modular subpart defined as a machine gun (frame or receiver, or conversion part) or muffler or silencer that is not a component part of a complete weapon or complete muffler or silencer device at the time it is sold, shipped, or otherwise disposed of no later than close of the next business day following the date the entire manufacturing process has ended for the part, or prior to disposition, whichever is sooner. For purposes of this paragraph, firearms awaiting materials, parts, or equipment repair to be completed are presumed, absent reliable evidence to the contrary, to be in the manufacturing process. Importers must identify imported firearms within the period prescribed in § 478.112 of this subchapter.
+                </P>
+                <P>
+                    (7) 
+                    <E T="03">Meaning of marking terms.</E>
+                        For purposes of this section, the term “identify” means placing marks of identification, the terms “legible” and “legibly” mean that the identification markings (including any unique identification number) use exclusively Roman letters (
+                    <E T="03">e.g.,</E>
+                        A, a, B, b, C, c) and Arabic numerals (
+                    <E T="03">e.g.,</E>
+                        1, 2, 3), or solely Arabic numerals, and may include a hyphen, and the terms “conspicuous” and “conspicuously” mean that the identification markings are capable of being easily seen with the naked eye during normal handling of the firearm and are unobstructed by other markings when the complete weapon or device is assembled.
+                </P>
+                <P>
+                    (b) 
+                    <E T="03">Exceptions—</E>
+                    (1) 
+                    <E T="03">Alternate means of identification.</E>
+                        The Director may authorize other means of identification to identify firearms upon receipt of a letter application or prescribed form from you showing that such other identification is reasonable and will not hinder the effective administration of this part.
+                </P>
+                <P>
+                    (2) 
+                    <E T="03">Destructive devices.</E>
+                        In the case of a destructive device, the Director may authorize other means of identification to identify that weapon upon receipt of a letter application or prescribed form from you. The application shall show that engraving, casting, or stamping (impressing) such a weapon as required by this section would be dangerous or impracticable and that the alternate means of identification proposed will not hinder the effective administration of this part.
+                </P>
+                <P>
+                    (3) 
+                    <E T="03">Adoption of identifying markings.</E>
+                        You may adopt existing markings and are not required to mark a serial number or other identifying markings previously placed on a firearm in accordance with this section, as follows:
+                </P>
+                <P>
+                    (A) 
+                    <E T="03">Newly manufactured firearms.</E>
+                        Manufacturers may adopt the serial number and other identifying markings previously placed on a firearm by another manufacturer provided the firearm has not been sold, shipped, or otherwise disposed of to a person other than a qualified manufacturer, importer, or dealer, and the serial number adopted is not duplicated on any other firearm.
+                </P>
+                <P>
+                    (B) 
+                    <E T="03">Remanufactured or imported firearms.</E>
+                        Manufacturers and importers may adopt the serial number or other identifying markings previously placed on a firearm that otherwise meets the requirements of this section that has been sold, shipped, or otherwise disposed of to a person other than a licensee provided that, within the period and in the manner herein prescribed, the manufacturer or importer legibly and conspicuously places, or causes to be placed, on the frame or receiver either: Their name (or recognized abbreviation), and city and State (or recognized abbreviation) where they maintain their place of business; or their name (or recognized abbreviation) and abbreviated Federal firearms license number, which is the first three and last five digits, individually (
+                    <E T="03">i.e.,</E>
+                        not as a prefix to the serial number adopted) after the letters “FFL”, in the following format: “FFL12345678”. The serial number adopted must not duplicate any serial number adopted or placed on any other firearm, except that if an importer receives two or more firearms with the same foreign manufacturer's serial number, the importer may adopt the serial number by adding letters or numbers to that serial number, and may include a hyphen.
+                </P>
+                <P>
+                    (C) 
+                    <E T="03">Manufacturers performing gunsmithing services.</E>
+                        Manufacturers may adopt the serial number or other identifying markings previously placed on a firearm by a qualified manufacturer, importer, or dealer, provided the manufacturer is performing services as a gunsmith (as defined in § 478.11 of this subchapter) on existing firearms not for sale or distribution.
+                </P>
+                <P>
+                    (4)(i) 
+                    <E T="03">Firearm muffler or silencer parts transferred between qualified manufacturers for further manufacture or to complete new devices.</E>
+                        Manufacturers qualified under this part may transfer a part defined as a muffler or silencer to another qualified manufacturer without immediately identifying or registering such part provided that it is for further manufacture (
+                    <E T="03">i.e.,</E>
+                        machining, coating, 
+                    <E T="03">etc.</E>
+                    ) or manufacturing a complete muffler or silencer device. Once the new device with such part is completed, the manufacturer who completes the device shall identify and register it in the manner and within the period specified in this part for a complete muffler or silencer device.
+                </P>
+                <P>
+                    (ii) 
+                    <E T="03">Firearm muffler or silencer replacement parts transferred to qualified manufacturers or dealers to repair existing devices.</E>
+                        Manufacturers qualified under this part may transfer a replacement part defined as a muffler or silencer other than a frame or receiver to a qualified manufacturer or dealer without identifying or registering such part provided that it is for repairing a complete muffler or silencer device that was previously identified and registered in accordance with this part and part 478.
+                </P>
+                <P>
+                    (5) 
+                    <E T="03">Frames or receivers designed before August 24, 2022.</E>
+                        Manufacturers and importers may continue to identify the same component of a firearm defined as a frame or receiver as it existed before August 24, 2022 with the same information required to be marked by paragraphs (a)(1) and (a)(2) of this section that were in effect prior to that date, and any rules necessary to ensure such identification shall remain effective for that purpose. Any frame or receiver with a new design manufactured after August 24, 2022 must be marked with the identifying information and within the period prescribed by this section. For purposes of this paragraph, the term “new design” means that the design of the existing frame or receiver has been functionally modified or altered, as distinguished from performing a cosmetic process that adds to or changes the decoration of the frame or receiver (
+                    <E T="03">e.g.,</E>
+                        painting or engraving), or by adding or replacing stocks, barrels, or accessories to the frame or receiver.
+                </P>
+                <P>
+                    (c) 
+                    <E T="03">Voluntary classification of firearms.</E>
+                        The Director may issue a determination (classification) to a 
+                    <PRTPAGE P="24749"/>
+                    person whether an item, including a kit, is a firearm as defined in this part upon receipt of a written request or form prescribed by the Director. Each such voluntary request or form submitted shall be executed under the penalties of perjury with a complete and accurate description of the item or kit, the name and address of the manufacturer or importer thereof, and a sample of such item or kit for examination. A firearm sample must include all accessories and attachments relevant to such classification as each classification is limited to the firearm in the configuration submitted. Each request for classification of a partially complete, disassembled, or nonfunctional item or kit must contain any associated templates, jigs, molds, equipment, or tools that are made available by the seller or distributor of the item or kit to the purchaser or recipient of the item or kit, and any instructions, guides, or marketing materials if they will be made available by the seller or distributor with the item or kit. Upon completion of the examination, the Director may return the sample to the person who made the request unless a determination is made that return of the sample would be or place the person in violation of law. Except for the classification of a specific component as the frame or receiver of a particular weapon, a determination made by the Director under this paragraph shall not be deemed by any person to be applicable to or authoritative with respect to any other sample, design, model, or configuration.
+                </P>
             </SECTION>
             <SECTION>
                 <SECTNO>§ 479.103</SECTNO>
                 <SUBJECT>Registration of firearms manufactured.</SUBJECT>
-                <P>Each manufacturer qualified under this part shall file with the Director an accurate notice on Form 2 (Firearms), Notice of Firearms Manufactured or Imported, executed under the penalties of perjury, to show his manufacture of firearms. The notice shall set forth the name and address of the manufacturer, identify his special (occupational) tax stamp and Federal firearms license, and show the date of manufacture, the type, model, length of barrel, overall length, caliber, gauge or size, serial numbers, and other marks of identification of the firearms he manufactures, and the place where the manufactured firearms will be kept. All firearms manufactured by him during a single day shall be included on one notice, Form 2 (Firearms), filed by the manufacturer no later than the close of the next business day. The manufacturer shall prepare the notice, Form 2 (Firearms), in duplicate, file the original notice as prescribed herein and keep the copy with the records required by subpart I of this part at the premises covered by his special (occupational) tax stamp. Receipt of the notice, Form 2 (Firearms), by the Director shall effectuate the registration of the firearms listed on that notice. The requirements of this part relating to the transfer of a firearm are applicable to transfers by qualified manufacturers.</P>
+                <P>Each manufacturer qualified under this part shall file with the Director an accurate notice on Form 2 (Firearms), Notice of Firearms Manufactured or Imported, executed under the penalties of perjury, to show his manufacture of firearms. The notice shall set forth the name and address of the manufacturer, identify his special (occupational) tax stamp and Federal firearms license, and show the date of manufacture, the type, model, length of barrel, overall length, caliber, gauge or size, serial numbers, and other marks of identification of the firearms he manufactures, and the place where the manufactured firearms will be kept. Except as provided in § 479.102(b)(4), all firearms manufactured by him during a single day shall be included on one notice, Form 2 (Firearms), filed by the manufacturer no later than the close of the next business day. The manufacturer shall prepare the notice, Form 2 (Firearms), in duplicate, file the original notice as prescribed herein and keep the copy with the records required by subpart I of this part at the premises covered by his special (occupational) tax stamp. Receipt of the notice, Form 2 (Firearms), by the Director shall effectuate the registration of the firearms listed on that notice. The requirements of this part relating to the transfer of a firearm are applicable to transfers by qualified manufacturers.</P>
             </SECTION>
             <SECTION>
                 <PRTPAGE P="104"/>
