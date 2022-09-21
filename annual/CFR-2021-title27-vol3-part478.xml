@@ -677,42 +677,42 @@
                         A process, action, or physical state that is fairly or reasonably efficient, quick, and easy, but not necessarily the most efficient, speediest, or easiest process, action, or physical state. With respect to the classification of firearms, factors relevant in making this determination include the following:
                 </P>
                 <P>
-                    1. Time, 
+                    (1) Time, 
                     <E T="03">i.e.,</E>
                         how long it takes to finish the process;
                 </P>
                 <P>
-                    2. Ease, 
+                    (2) Ease, 
                     <E T="03">i.e.,</E>
                         how difficult it is to do so;
                 </P>
                 <P>
-                    3. Expertise, 
+                    (3) Expertise, 
                     <E T="03">i.e.,</E>
                         what knowledge and skills are required;
                 </P>
                 <P>
-                    4. Equipment, 
+                    (4) Equipment, 
                     <E T="03">i.e.,</E>
                         what tools are required;
                 </P>
                 <P>
-                    5. Parts availability, 
+                    (5) Parts availability, 
                     <E T="03">i.e.,</E>
                         whether additional parts are required, and how easily they can be obtained;
                 </P>
                 <P>
-                    6. Expense, 
+                    (6) Expense, 
                     <E T="03">i.e.,</E>
                         how much it costs;
                 </P>
                 <P>
-                    7. Scope, 
+                    (7) Scope, 
                     <E T="03">i.e.,</E>
                         the extent to which the subject of the process must be changed to finish it; and
                 </P>
                 <P>
-                    8. Feasibility, 
+                    (8) Feasibility, 
                     <E T="03">i.e.,</E>
                         whether the process would damage or destroy the subject of the process, or cause it to malfunction.
                 </P>
@@ -848,14 +848,16 @@
                 <SUBJECT> Definition of Frame or Receiver.</SUBJECT>
                 <P>(a) Except as otherwise provided in this section, the term “frame or receiver” means the following—</P>
                 <P>
-                    (1) The term “frame” means the part of a handgun, or variants thereof, that provides housing or a structure for the component (i.e., sear or equivalent) designed to hold back the hammer, striker, bolt, or similar primary energized component prior to initiation of the firing sequence, even if pins or other attachments are required to connect such component (i.e., sear or equivalent) to the housing or structure.
+                    (1) The term “frame” means the part of a handgun, or variants thereof, that provides housing or a structure for the primary energized component designed to hold back the hammer, striker, bolt, or similar component prior to initiation of the firing sequence (
+                    <E T="03">i.e.,</E>
+                        sear or equivalent), even if pins or other attachments are required to connect such component to the housing or structure.
                 </P>
                 <P>
                     (2) The term “receiver” means the part of a rifle, shotgun, or projectile weapon other than a handgun, or variants thereof, that provides housing or a structure for the primary component designed to block or seal the breech prior to initiation of the firing sequence (
                     <E T="03">i.e.,</E>
                         bolt, breechblock, or equivalent), even if pins or other attachments are required to connect such component to the housing or structure.
                 </P>
-                <P>(3) The terms “variant” and “variants thereof” mean a weapon utilizing a similar frame or receiver design irrespective of new or different model designations or configurations, characteristics, features, components, accessories, or attachments. For example, an AK-type firearm with a short stock (i.e., pistol grip) is a pistol variant of an AK-type rifle, an AR-type firearm with a short stock (i.e., pistol grip) is a pistol variant of an AR-type rifle, and a revolving cylinder shotgun is a shotgun variant of a revolver.</P>
+                <P>(3) The terms “variant” and “variants thereof” mean a weapon utilizing a similar frame or receiver design irrespective of new or different model designations or configurations, characteristics, features, components, accessories, or attachments. For example, an AK-type firearm with a short stock and a pistol grip is a pistol variant of an AK-type rifle, an AR-type firearm with a short stock and a pistol grip is a pistol variant of an AR-type rifle, and a revolving cylinder shotgun is a shotgun variant of a revolver.</P>
                 <P>(4) The following are nonexclusive examples that illustrate the above definitions:</P>
                 <P>
                     (i) 
@@ -885,7 +887,9 @@
                 <P>
                     (iv) 
                     <E T="03">Sig Sauer P250/P320 variant semiautomatic pistols:</E>
-                        The frame is the internal removable chassis of the pistol that provides housing for the sear or equivalent component.
+                        The frame is the internal removable chassis of the pistol that provides housing for the energized component (
+                    <E T="03">i.e.,</E>
+                        sear or equivalent).
                 </P>
                 <GPH SPAN="3" DEEP="136">
                     <GID>ER26AP22.004</GID>
@@ -982,7 +986,7 @@
                     <E T="03">Multi-piece frame or receiver.</E>
                         The term “multi-piece frame or receiver” shall mean a frame or receiver that may be disassembled into multiple modular subparts, 
                     <E T="03">i.e.,</E>
-                        standardized units that may be replaced or exchanged. The term shall not include the internal frame of a pistol that is a complete removable chassis that provides housing for the sear or equivalent component, unless the chassis itself may be disassembled. The modular subpart(s) identified in accordance with § 478.92 with an importer's or manufacturer's serial number shall be presumed, absent an official determination by the Director or other reliable evidence to the contrary, to be part of the frame or receiver of a weapon or device.
+                        standardized units that may be replaced or exchanged. The term shall not include the internal frame of a pistol that is a complete removable chassis that provides housing for the energized component, unless the chassis itself may be disassembled. The modular subpart(s) identified in accordance with § 478.92 with an importer's or manufacturer's serial number shall be presumed, absent an official determination by the Director or other reliable evidence to the contrary, to be part of the frame or receiver of a weapon or device.
                 </P>
                 <P>
                     (e) 
@@ -1033,7 +1037,7 @@
                 <P>
                     (2) 
                     <E T="03">Frame or receiver classifications of partially complete, disassembled, or nonfunctional frames or receivers before</E>
-                        April 26, 2022. Prior determinations by the Director that a partially complete, disassembled, or nonfunctional frame or receiver, including a parts kit, was not, or did not include, a “firearm frame or receiver” under § 478.11, or “frame or receiver” under § 479.11 of this subchapter, as those terms were defined prior to April 26, 2022, shall not continue to be valid or authoritative after that date. Such determinations shall include those in which the Director determined that the item or parts kit had not yet reached a stage of manufacture to be, or include, a “firearm frame or receiver” under § 478.11, or “frame or receiver” under § 479.11 of this subchapter, as those terms were defined prior to April 26, 2022.
+                        April 26, 2022. Prior determinations by the Director that a partially complete, disassembled, or nonfunctional frame or receiver, including a parts kit, was not, or did not include, a “firearm frame or receiver” under § 478.11, or “frame or receiver” under § 479.11 of this subchapter, as those terms were defined prior to April 26, 2022, shall not continue to be valid or authoritative after that date. Such determinations shall include those in which the Director determined that the item or parts kit had not yet reached a stage of manufacture to be, or include, a “firearm frame or receiver” under § 478.11, or “frame or receiver” under § 479.11 of this subchapter, as those terms were defined prior to [date of publication of the rule].
                 </P>
             </SECTION>
         </SUBPART>
@@ -1687,7 +1691,7 @@
                 <P>
                     (iii) 
                     <E T="03">Multi-piece frame or receiver.</E>
-                        In the case of a multi-piece frame or receiver, the modular subpart that is the outermost housing or structure designed to house, hold, or contain either the sear or equivalent component of a handgun, breech blocking or sealing component of a projectile weapon other than a handgun, or internal sound reduction component of a firearm muffler or firearm silencer, as the case may be, shall be the subpart of the multi-piece frame or receiver identified in accordance with this section. If more than one subpart is similarly designed to house, hold, or contain such primary component (
+                        In the case of a multi-piece frame or receiver, the modular subpart that is the outermost housing or structure designed to house, hold, or contain either the primary energized component of a handgun, breech blocking or sealing component of a projectile weapon other than a handgun, or internal sound reduction component of a firearm muffler or firearm silencer, as the case may be, shall be the subpart of the multi-piece frame or receiver identified in accordance with this section. If more than one subpart is similarly designed to house, hold, or contain such primary component (
                     <E T="03">e.g.,</E>
                         left and right halves), each of those subparts must be identified with the same serial number and associated licensee information not duplicated on any other frame or receiver. The identified subpart(s) of a complete (assembled or unassembled) multi-piece frame or receiver shall not be removed and replaced (
                     <E T="03">see</E>
@@ -1811,6 +1815,10 @@
                     (vi) 
                     <E T="03">Privately made firearms acquired before August 24, 2022.</E>
                         Licensees shall identify in the manner prescribed by this section, or cause another person to so identify, each privately made firearm received or otherwise acquired (including from a personal collection) by the licensee before August 24, 2022within sixty (60) days from that date, or prior to the date of final disposition (including to a personal collection), whichever is sooner.
+                </P>
+                <P>
+                    (b) <E T="03">Armor piercing ammunition</E>—(1) <E T="03">Marking of ammunition.</E> Each licensed manufacturer or licensed importer of armor piercing ammunition shall identify such ammunition by means of painting, staining or dying the exterior of the projectile with an opaque black coloring. This coloring must completely cover the point of the projectile and at least 50 percent of that portion of the projectile which is visible when the projectile is loaded into a cartridge case.</P>
+                    <P>(2) <E T="03">Labeling of packages.</E> Each licensed manufacturer or licensed importer of armor piercing ammunition shall clearly and conspicuously label each package in which armor piercing ammunition is contained, e.g., each box, carton, case, or other container. The label shall include the words “ARMOR PIERCING” in block letters at least <FR>1/4</FR> inch in height. The lettering shall be located on the exterior surface of the package which contains information concerning the caliber or gauge of the ammunition. There shall also be placed on the same surface of the package in block lettering at least <FR>1/8</FR> inch in height the words “FOR GOVERNMENTAL ENTITIES OR EXPORTATION ONLY.” The statements required by this subparagraph shall be on a contrasting background.
                 </P>
                 <P>
                     (c) 
@@ -2686,7 +2694,7 @@
                 <P>
                     (i) 
                     <E T="03">Privately made firearms.</E>
-                        Except for adjustment or repair of a firearm that is returned to the person from whom it was received on the same day, licensees must record each receipt or other acquisition (including from a personal collection) and disposition (including to a personal collection) of a privately made firearm within the timeframe required by paragraph (e) of this section for firearms. For purposes of this paragraph, the terms “receipt” and “acquisition” shall include same-day or on-the-spot placement of identifying markings unless another licensee is placing the markings for, and under the direct supervision of, the licensee who recorded the acquisition. In that case, the licensee placing the markings need not record an acquisition from the supervising licensee or disposition upon return. The serial number need not be immediately recorded if the firearm is being identified by the licensee, or under the licensee's direct supervision with the licensee's serial number, in accordance with § 478.92(a)(2). Once the privately made firearm is so identified, the licensee shall update the record of acquisition entry with the serial number, including the license number prefix, and shall record its disposition in accordance with this section. In this part and part 447, where no manufacturer name has been identified on a privately made firearm (if privately made in the United States), the words “privately made firearm” (or abbreviation “PMF”) shall be recorded as the name of the manufacturer.
+                        Except for adjustment or repair of a firearm that is returned to the person from whom it was received on the same day, licensees must record each receipt or other acquisition (including from a personal collection) and disposition (including to a personal collection) of a privately made firearm as required by this part. For purposes of this paragraph, the terms “receipt” and “acquisition” shall include same-day or on-the-spot placement of identifying markings unless another licensee is placing the markings for, and under the direct supervision of, the licensee who recorded the acquisition. In that case, the licensee placing the markings need not record an acquisition from the supervising licensee or disposition upon return. The serial number need not be immediately recorded if the firearm is being identified by the licensee, or under the licensee's direct supervision with the licensee's serial number, in accordance with § 478.92(a)(2). Once the privately made firearm is so identified, the licensee shall update the record of acquisition entry with the serial number, including the license number prefix, and shall record its disposition in accordance with this section. In this part and part 447, where no manufacturer name has been identified on a privately made firearm (if privately made in the United States), the words “privately made firearm” (or abbreviation “PMF”) shall be recorded as the name of the manufacturer.
                 </P>
                 <APPRO>(Approved by the Office of Management and Budget under control number 1140-0032)</APPRO>
                 <CITA>[T.D. ATF-270, 53 FR 10503, Mar. 31, 1988, as amended by T.D. ATF-273, 53 FR 24687, June 30, 1988; T.D. ATF-313, 56 FR 32508, July 17, 1991; T.D. ATF-389, 62 FR 19445, Apr. 21, 1997; ATF-11F, 73 FR 57241, Oct. 2, 2008; ATF-22I, 77 FR 33634, June 7, 2012; ATF-19 F, 79 FR 45092, Aug. 4, 2014; ATF 2015R-26, 81 FR 38071, June 13, 2016]</CITA>
