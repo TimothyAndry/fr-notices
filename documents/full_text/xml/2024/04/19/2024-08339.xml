@@ -1,0 +1,702 @@
+
+<RULE>
+<PREAMB>
+<AGENCY TYPE="N">DEPARTMENT OF JUSTICE </AGENCY>
+<SUBAGY>Bureau of Alcohol, Tobacco, Firearms, and Explosives </SUBAGY>
+<CFR>27 CFR Part 478 </CFR>
+<DEPDOC>[Docket No. ATF 2022R-09; AG Order No. 5921-2024] </DEPDOC>
+<RIN>RIN 1140-AA57 </RIN>
+<SUBJECT>Bipartisan Safer Communities Act Conforming Regulations</SUBJECT>
+<AGY>
+<HD SOURCE="HED">AGENCY:</HD>
+<P>Bureau of Alcohol, Tobacco, Firearms, and Explosives, Department of Justice.</P>
+</AGY>
+<ACT>
+<HD SOURCE="HED">ACTION:</HD>
+<P>Direct final rule.</P>
+</ACT>
+<SUM>
+<HD SOURCE="HED">SUMMARY:</HD>
+<P>The Department of Justice (“Department”) is amending Bureau of Alcohol, Tobacco, Firearms, and Explosives (“ATF”) regulations to implement firearms-related definitions and requirements established by the Bipartisan Safer Communities Act (“BSCA”) and the NICS Denial Notification Act (“NDNA”). These statutes went into effect on June 25, 2022, and October 1, 2022, respectively. It is necessary to make conforming changes to ensure that ATF's regulations are current and consistent with the applicable statutes. For this reason, this direct final rule incorporates many of the BSCA and NDNA provisions that are applicable to ATF.</P>
+</SUM>
+<EFFDATE>
+<HD SOURCE="HED">DATES:</HD>
+<P>
+This final rule is effective on July 18, 2024, unless ATF receives any significant adverse comment by May 20, 2024. If ATF receives a significant adverse comment within the stated time that warrants revising the rule (as described under the Public Participation heading in the
+<E T="02">SUPPLEMENTARY INFORMATION</E>
+section of this regulation), the Department will publish notification in the
+<E T="04">Federal Register,</E>
+withdrawing this direct final rule before its effective date.
+</P>
+</EFFDATE>
+<ADD>
+<HD SOURCE="HED">ADDRESSES:</HD>
+<P>You may submit comments, identified by docket number ATF 2022R-09, by either of the following methods—</P>
+<P>
+•
+<E T="03">Federal eRulemaking portal: www.regulations.gov.</E>
+Follow the instructions for submitting comments.
+</P>
+<P>
+•
+<E T="03">Mail:</E>
+ATF Rulemaking Comments, Mail Stop 6N-518, Office of Regulatory Affairs, Enforcement Programs and Services; Bureau of Alcohol, Tobacco, Firearms, and Explosives; 99 New York Ave. NE, Washington, DC 20226;
+<E T="03">ATTN: ATF 2022R-09.</E>
+</P>
+<P>
+<E T="03">Instructions:</E>
+All submissions received must include the agency name and docket number (ATF 2022R-09) for this direct final rule. All properly completed comments received through either of the methods described above will be posted without change to the Federal eRulemaking portal,
+<E T="03">www.regulations.gov.</E>
+This includes any personal identifying information (“PII”) submitted in the body of the comment or as part of a related attachment. Commenters who submit through the Federal eRulemaking portal and who do not want any of their PII posted on the internet should omit PII from the body of their comment or in any uploaded attachments. Commenters who submit through mail should likewise omit their PII from the body of the comment and provide any PII on the cover sheet only. For detailed instructions on submitting comments, the scope of comments for this rulemaking, and additional information on the rulemaking process,
+<PRTPAGE P="28623"/>
+see the “Public Participation” heading of the
+<E T="02">SUPPLEMENTARY INFORMATION</E>
+section of this rule.
+</P>
+</ADD>
+<FURINF>
+<HD SOURCE="HED">FOR FURTHER INFORMATION CONTACT:</HD>
+<P>Helen Koppe, Office of Regulatory Affairs, Enforcement Programs and Services; Bureau of Alcohol, Tobacco, Firearms, and Explosives; U.S. Department of Justice; 99 New York Ave. NE, Washington, DC 20226; or by telephone at (202) 648-7070 (this is not a toll-free number).</P>
+</FURINF>
+</PREAMB>
+<SUPLINF>
+<HD SOURCE="HED">SUPPLEMENTARY INFORMATION:</HD>
+<HD SOURCE="HD1">I. Background</HD>
+<P>
+The Attorney General is responsible for enforcing the Gun Control Act of 1968 (“GCA”), as amended. This responsibility includes the authority to promulgate regulations necessary to enforce the provisions of the GCA.
+<E T="03">See</E>
+18 U.S.C. 926(a). Congress and the Attorney General have delegated the responsibility for administering and enforcing the GCA to the Director of ATF, subject to the direction of the Attorney General and the Deputy Attorney General.
+<E T="03">See</E>
+28 U.S.C. 599A(b)(1), (c)(1); 28 CFR 0.130(a)(1)-(2); Treas. Order No. 221(2)(a), (d), 37 FR 11696-97 (June 10, 1972). Accordingly, the Department and ATF have promulgated regulations to implement the GCA.
+<E T="03">See</E>
+27 CFR part 478.
+</P>
+<P>The Bipartisan Safer Communities Act (“BSCA”) (Pub. L. 117-159) was signed into law and became effective on June 25, 2022. It made several changes to the mental health services system, school safety programs, and gun safety laws. Among other provisions, the BSCA requires enhanced background checks for firearm purchasers under 21 years old, addresses Federal firearms license requirements, authorizes funding for State red flag laws and other crisis intervention programs, creates new Federal offenses for firearms trafficking and straw purchases, and partially closes the “boyfriend loophole,” which previously excluded domestic violence offenses involving dating relationships from firearms restrictions that apply to spouses convicted of similar offenses. This direct final rule serves only to incorporate many of these new statutory provisions into existing ATF firearms regulations.</P>
+<P>
+Federal law prohibits persons meeting certain criteria from receiving any firearm or ammunition that has been shipped or transported in interstate or foreign commerce,
+<E T="03">see</E>
+18 U.S.C. 922(g), (n), and makes it unlawful to sell or otherwise dispose of any firearm or ammunition to any person who is known or reasonably believed to meet certain criteria,
+<E T="03">see</E>
+18 U.S.C. 922(d).
+<SU>1</SU>
+<FTREF/>
+The Brady Handgun Violence Prevention Act of 1993 (“Brady Act”) (Pub. L. 103-159), as amended, established a background check system that federally licensed manufacturers, dealers, and importers of firearms—otherwise known as Federal firearms licensees (“FFLs”),
+<E T="03">see</E>
+18 U.S.C. 923—must, unless the transfer is excepted, contact for an immediate response on whether transfer of a firearm to, or receipt of a firearm by, a prospective transferee would violate 18 U.S.C. 922 or State, local, or Tribal law. Consistent with the Brady Act's requirements, the Federal Bureau of Investigation (“FBI”) operates the National Instant Criminal Background Check System (“NICS”) for FFLs to use to initiate a background check in connection with a proposed transfer of a firearm to a non-licensee.
+</P>
+<FTNT>
+<P>
+<SU>1</SU>
+ Prior to passage of the BSCA, 18 U.S.C. 922(d) made it unlawful to sell or otherwise dispose of a firearm or ammunition to persons meeting the same criteria as provided in 18 U.S.C. 922(g) and (n). As discussed further in this preamble, the BSCA added new criteria to section 922(d) to match new prohibitions on straw purchases and firearms trafficking in 18 U.S.C. 932 and 933.
+</P>
+</FTNT>
+<P>
+When an FFL contacts NICS to initiate a background check, NICS searches three nationally held electronic systems—the National Crime Information Center (“NCIC”),
+<SU>2</SU>
+<FTREF/>
+the Interstate Identification Index,
+<SU>3</SU>
+<FTREF/>
+and the NICS Index 
+<SU>4</SU>
+<FTREF/>
+—that may reveal the existence of a record demonstrating that the person is prohibited from receiving or possessing firearms. If the query of those three systems results in no matching records, NICS provides a “Proceed” response to the FFL. If a record demonstrates that the person is prohibited from receiving or possessing a firearm, NICS provides the FFL with a “Denied” response. For those transactions for which NICS cannot provide a definitive response of either “Proceed” or “Denied” and must conduct additional research to determine whether the prospective transferee is disqualified from receiving or possessing a firearm by Federal or State law, the transaction will be placed in a “Delayed” status. If NICS has not notified the FFL that the transferee is prohibited from receiving or possessing a firearm within three business days of when the FFL initiated the NICS check, the FFL is not federally prohibited from transferring the firearm beginning on the day after the third business day.
+<E T="03">See</E>
+18 U.S.C. 922(t)(1), 27 CFR 478.102, 28 CFR 25.6. However, the BSCA now provides that, in the case of a person under 21 years old, if NICS notifies the FFL that cause exists to further investigate possible disqualifying juvenile records, an FFL may not transfer the firearm until 10 business days have elapsed 
+<SU>5</SU>
+<FTREF/>
+since the FFL contacted NICS.
+<E T="03">See</E>
+18 U.S.C. 922(t)(1)(C).
+</P>
+<FTNT>
+<P>
+<SU>2</SU>
+ The NCIC is a national criminal justice information system linking criminal (and authorized non-criminal) justice agencies located in the 50 states, the District of Columbia, U.S. territories and possessions, and select foreign countries to facilitate the cooperative sharing of criminal justice information. The NCIC provides a system to receive and maintain information contributed by participating agencies relating to criminal justice and national security.
+</P>
+</FTNT>
+<FTNT>
+<P>
+<SU>3</SU>
+ The Interstate Identification Index is part of the FBI's Next Generation Identification system and is used to search for available Federal, State, Tribal, and local criminal history records such as arrests, charges, and case dispositions.
+</P>
+</FTNT>
+<FTNT>
+<P>
+<SU>4</SU>
+ The NICS Index consists of entries from Federal, State, Tribal, and local agencies relating to persons who are prohibited from receiving or possessing firearms under Federal or State law.
+</P>
+</FTNT>
+<FTNT>
+<P>
+<SU>5</SU>
+ As discussed further below in this preamble, this delay is up through the tenth business day unless the FFL receives a “Proceed” or “Denied” response during that time.
+</P>
+</FTNT>
+<P>
+As described below, the BSCA also added new disqualifying factors to existing restrictions on the transfer of firearms and ammunition and set forth additional requirements for transfers of firearms to persons under the age of 21, including enhanced contacts to State and local entities. The BSCA provisions affecting NICS are discussed in this rulemaking only to the extent that they inform FFLs of the requirements they must follow during prospective firearms transfers. Such FFL transfer requirements are the subject of ATF regulations that are among those amended in this rule.
+<E T="03">See</E>
+27 CFR 478.102. As noted above, the Department regulates and manages NICS processes, such as notifications and responses, under the FBI's authority, not ATF's.
+</P>
+<P>The BSCA also necessitated conforming changes to the Firearms Transaction Record, ATF Form 4473 (“Form 4473”). FFLs are required to complete a Form 4473 as part of a firearms transaction involving a non-licensee, and some of the information recorded on the form must be submitted to NICS for the background check. ATF received emergency approval, beginning December 9, 2022, from the Office of Management and Budget (“OMB”) to issue a revised Form 4473 (OMB No. 1140-0020) that incorporates conforming changes so that FFLs could begin complying with the information-collecting requirements set forth in the BSCA. In August 2023, OMB approved the new form for another three years.</P>
+<P>
+In addition, on March 15, 2022, the President signed into law the Consolidated Appropriations Act of
+<PRTPAGE P="28624"/>
+2022 (Pub. L. 117-103), which included the NICS Denial Notification Act of 2022 (“NDNA”). The NDNA requires the Attorney General to report to applicable State, local, or Tribal law enforcement and, where practicable, the relevant State, local, or Tribal prosecutors, if a person has attempted to acquire a firearm and been denied pursuant to a NICS background check. NICS must provide such a report within 24 hours after NICS denies a firearm transfer and include the Federal, State, local or Tribal prohibition, the date and time of the notice, the location of the licensee where the attempted firearm transfer was sought, and the person's identity. This direct final rule incorporates relevant portions of the new statutory language into existing ATF regulations to account for the addition of State, local, and Tribal law enforcement reporting requirements in the NDNA.
+</P>
+<P>
+In summary, this direct final rule makes conforming updates to ATF regulations to incorporate many of the firearm-related statutory changes made by the BSCA and the NDNA to ensure that the regulations are consistent with the statutes and can be relied upon by the public. The Department has also published a separate proposed ATF rulemaking, “Definition of `Engaged in the Business' as a Dealer in Firearms,” that proposed implementing the BSCA provisions related to what it means to be “engaged in the business” as a wholesale or retail firearms dealer (RIN 1140-AA58; 88 FR 61993 (Sept. 8, 2023)). The Department published the final rule, “Definition of `Engaged in the Business' as a Dealer in Firearms,” in the
+<E T="04">Federal Register</E>
+of April 19, 2024 (FR Doc. 2024-07838). In addition, the Department anticipates issuing three rules that implement BSCA and NDNA provisions related to FBI's operations.
+<SU>6</SU>
+<FTREF/>
+</P>
+<FTNT>
+<P>
+<SU>6</SU>
+ 
+<E T="03">See</E>
+DOJ,
+<E T="03">Statement of Regulatory Priorities</E>
+8-10 (Fall 2023),
+<E T="03">http://www.reginfo.gov/public/jsp/eAgenda/StaticContent/202310/Statement_1100_DOJ.pdf</E>
+(outlining the Department's semiannual regulatory agenda).
+</P>
+</FTNT>
+<HD SOURCE="HD1">II. Direct Final Rule</HD>
+<P>With the enactment of the BSCA on June 25, 2022, a number of amendments to the GCA went into effect. This rule updates ATF's corresponding regulatory provisions within title 27, Code of Federal Regulations, part 478, to conform with the new statutory amendments. It also makes minor revisions to incorporate the NDNA's State, local, and Tribal law enforcement authority notification requirements.</P>
+<HD SOURCE="HD2">A. Changes To Disqualifying Criteria and Civil Penalty Provisions in Conformity With 18 U.S.C. 922(d) and (t)</HD>
+<P>
+18 U.S.C. 922(d) provides that it is unlawful for any person to sell or otherwise dispose of a firearm or ammunition to another person if the transferor knows, or has reasonable cause to believe, that the prospective transferee is disqualified as specified in that subsection. As amended by the BSCA, 18 U.S.C. 922(d) now specifies that events occurring when the person was a juvenile are disqualifying, except that the prohibition against the sale or disposition of firearms and ammunition to persons who have been adjudicated as a “mental defective,”
+<E T="03">see</E>
+GCA, Public Law 90-618, sec. 102, 82 Stat. 1213, 1220 (1968), or committed to any mental institution applies only to persons who were adjudicated or committed at 16 years of age or older, 18 U.S.C. 922(d)(4).
+</P>
+<P>To conform to the statutory changes in the BSCA, this rule adds the phrase “including as a juvenile” to the end of the introductory language in 27 CFR 478.32(d) and 478.99(c). This rule is also adding the phrase “at 16 years of age or older” to the end of paragraph (d)(4) of § 478.32 and the end of paragraph (c)(4) of § 478.99. Paragraph (d) of § 478.32 mirrors 18 U.S.C. 922(d) and prohibits the sale and disposition of firearms and ammunition to persons meeting certain criteria. Paragraph (c) of § 478.99 also mirrors 18 U.S.C. 922(d) and sets forth prohibitions against sales or deliveries by FFLs to prohibited categories of persons. Because of the BSCA amendments to 18 U.S.C. 922(d), the Department is amending both corresponding regulatory provisions. These revisions bring the existing language in the regulations into conformity with the revised statutory provisions they mirror.</P>
+<P>
+The BSCA added new offenses for “straw purchasing of firearms” and “trafficking in firearms” at 18 U.S.C. 932 and 933, respectively (discussed in detail under Section II.C of this preamble), which are accompanied by additions to the list of prohibitions under 18 U.S.C. 922(d) as new paragraphs (10) and (11). These additional prohibitions make it unlawful to sell or otherwise dispose of firearms or ammunition to persons who intend to sell or otherwise dispose of the firearms or ammunition in furtherance of a “felony,” a “Federal crime of terrorism,” or a “drug trafficking offense,” as those terms are defined in 18 U.S.C. 932(a), or who intend to sell or otherwise dispose of the firearms or ammunition to a person disqualified by any of the criteria listed under 18 U.S.C. 922(d). As a result of these additions to 18 U.S.C. 922(d), the Department is adding the same prohibitions as new 27 CFR 478.32(d)(10) and (11) and 478.99(c)(10) and (11). As noted above, paragraph (d) of § 478.32 mirrors 18 U.S.C. 922(d) and prohibits the sale and disposition of firearms and ammunition to persons meeting certain criteria. Paragraph (c) of § 478.99 also mirrors 18 U.S.C. 922(d) and sets forth prohibitions against sales or deliveries by FFLs to prohibited categories of persons. Because of the BSCA amendments to 18 U.S.C. 922(d), the Department is also adding to 27 CFR 478.11 new definitions of “drug trafficking crime,” 
+<SU>7</SU>
+<FTREF/>
+“Federal crime of terrorism,” 
+<SU>8</SU>
+<FTREF/>
+and “felony” 
+<SU>9</SU>
+<FTREF/>
+to mirror the definitions enacted by the BSCA in 18 U.S.C. 932(a). These revisions bring the existing language in the regulations into conformity with the revised statutory provisions they mirror.
+</P>
+<FTNT>
+<P>
+<SU>7</SU>
+ “Drug trafficking crime” means “(a) Any felony punishable under the Controlled Substances Act (21 U.S.C. 801
+<E T="03">et seq.</E>
+), the Controlled Substances Import and Export Act (21 U.S.C. 951
+<E T="03">et seq.</E>
+), or 46 U.S.C. chapter 705; and (b) Any felony punishable under the law of a State for which the conduct constituting the offense would constitute a felony punishable under the statutes cited in paragraph (a) of this definition.”
+<E T="03">See</E>
+18 U.S.C. 932(a)(1) (citing 18 U.S.C. 924(c)(2)).
+</P>
+</FTNT>
+<FTNT>
+<P>
+<SU>8</SU>
+ “Federal crime of terrorism has the meaning given that term in 18 U.S.C. 2332b(g)(5).”
+<E T="03">See</E>
+18 U.S.C. 932(a)(2).
+</P>
+</FTNT>
+<FTNT>
+<P>
+<SU>9</SU>
+ “Felony” means “[a]ny offense under Federal or State law punishable by imprisonment for a term exceeding 1 year.”
+<E T="03">See</E>
+18 U.S.C. 932(a)(3).
+</P>
+</FTNT>
+<P>
+The Department is also making minor revisions to the civil penalty provisions in 27 CFR 478.73(a) to reflect the statutory amendments to 18 U.S.C. 922(d) discussed above, as well as changes the BSCA made to 18 U.S.C. 922(t). Section 922(t) sets forth the requirement that FFLs initiate a background check with NICS before they transfer firearms (the process is discussed in more detail in Section II.D of this preamble). Although NICS is operated by the FBI, which has promulgated regulations on NICS use and request processes, ATF regulations (1) set forth the requirement that licensees must conduct background checks before transferring firearms, and (2) establish when they may subsequently transfer a firearm. These ATF regulations are affected by the BSCA changes regarding prohibited persons, background checks, and timing of transfers in under-21 transactions. This rule is updating the ATF regulations, and the FBI is updating its corresponding NICS regulations in separate rules.
+<PRTPAGE P="28625"/>
+</P>
+<P>Prior to the enactment of the BSCA, a unique identification number would be provided if NICS determined that the receipt of a firearm would not violate subsections 922(g) or (n), which prohibit certain qualifying persons from shipping, transporting, or receiving firearms. Relevant to this rulemaking, the BSCA revised subsection 922(t)(2) to state that NICS will provide a unique identification number for a transfer if the system determines that “transfer or” receipt of a firearm would not violate 18 U.S.C. 922(d) in addition to 922(g) and (n). And, consistent with 922(t)(2) as amended, the BSCA also revised subsection 922(t)(5), which authorizes the Attorney General to impose civil penalties when an FFL knowingly fails to comply with the background check requirements in subsection 922(t)(1), to refer to the “transfer” of a firearm and to 922(d). In addition, the NDNA added that, as a condition of NICS issuing a unique identification number, receipt of a firearm must not violate local or Tribal law. The Department is revising 27 CFR 478.73(a), which sets forth the basis for civil penalty actions against FFLs, to conform to these changes to the statute.</P>
+<P>The BSCA also includes criminal penalty provisions that amend 18 U.S.C. 924(h) and (k). As revised by the BSCA:</P>
+<P>
+• 18 U.S.C. 924(h) makes it unlawful for a person to transfer or receive a firearm or ammunition—or attempt or conspire to do so—knowing or having reasonable cause to believe that it will be used to commit any felony, a Federal crime of terrorism, a drug trafficking crime (as such terms are defined in 18 U.S.C. 932(a)), or a crime under the Arms Export Control Act (22 U.S.C. 22751
+<E T="03">et seq.</E>
+), the Export Control Reform Act of 2018 (50 U.S.C. 4081
+<E T="03">et seq.</E>
+), the International Emergency Economic Powers Act (50 U.S.C. 1701
+<E T="03">et seq.</E>
+), or the Foreign Narcotics Kingpin Designation Act (21 U.S.C. 1901
+<E T="03">et seq.</E>
+). Under this provision, persons who engage in such unlawful actions, as described, are subject to fines under title 18 of the United States Code, or imprisonment for not more than 15 years, or both.
+</P>
+<P>
+• 18 U.S.C. 924(k) makes it illegal for a person to smuggle or knowingly bring into the United States a firearm or ammunition with intent to engage in or promote conduct that is punishable under the Controlled Substances Import and Export Act (21 U.S.C. 951,
+<E T="03">et seq.</E>
+) or under 46 U.S.C. chapter 705 (pertaining to Maritime Drug Law Enforcement); or that constitutes any felony, a Federal crime of terrorism, or a drug trafficking crime (as defined in 18 U.S.C. 932(a)). This offense also includes smuggling or knowingly taking a firearm or ammunition out of the United States with intent to engage in or promote conduct punishable under the Controlled Substances Import and Export Act (21 U.S.C. 951,
+<E T="03">et seq.</E>
+) or under 46 U.S.C. chapter 705 (pertaining to Maritime Drug Law Enforcement), if the conduct had occurred within the United States; or that would constitute a felony or a Federal crime of terrorism (as such terms are defined in 18 U.S.C. 932(a)) for which the person may be prosecuted in a court of the United States, if the conduct had occurred within the United States. Under this provision, persons who engage in such unlawful actions are subject to fines under title 18 of the United States Code, or imprisonment for not more than 15 years, or both.
+</P>
+<P>Existing ATF regulations do not include every criminal provision of the GCA, and as a result, the Department is not currently amending its regulations to reflect these particular criminal provisions in the BSCA and is including them in this discussion solely for the public's awareness.</P>
+<HD SOURCE="HD2">B. Misdemeanor Crimes of Domestic Violence</HD>
+<P>
+The BSCA revises pre-existing prohibitions against selling or disposing of a firearm or ammunition to a person who has been convicted of a misdemeanor crime of domestic violence, and against such a person receiving or possessing a firearm or ammunition.
+<E T="03">See</E>
+18 U.S.C. 921(a)(33), 922(d)(9), and 922(g)(9). Previously, the domestic violence prohibitions applied only to persons convicted of crimes committed by a current or former spouse, parent, or guardian of the victim; by a person sharing a child in common with the victim; by a person who is cohabitating with or has cohabitated with the victim as a spouse, parent, or guardian; or by a person “similarly situated” to a spouse, parent, or guardian of the victim. 18 U.S.C. 921(a)(33) (2020). This left open the so-called “boyfriend loophole,” because convictions for misdemeanor crimes of domestic violence against a non-married dating partner who did not cohabitate or otherwise share a spouse-like relationship with the victim did not preclude the convicted person from receiving or possessing firearms or ammunition.
+</P>
+<P>
+The BSCA narrows this gap by including within these prohibitions persons who are, or were recently, in a dating relationship with the victim and who have been convicted of a misdemeanor crime of domestic violence after June 25, 2022. The statute defines “dating relationship” to mean a relationship between persons who have or have recently had a continuing serious relationship of a romantic or intimate nature. 18 U.S.C. 921(a)(37)(A). It also provides factors that must be considered when determining whether a relationship constitutes a dating relationship: the length of the relationship, the nature of the relationship, and the frequency and type of interaction between the persons involved in the relationship.
+<E T="03">Id.</E>
+921(a)(37)(B). A “casual acquaintanceship or ordinary fraternization in a business or social context” is not a dating relationship.
+<E T="03">Id.</E>
+921(a)(37)(C).
+</P>
+<P>A person will not be considered to have been convicted of a misdemeanor crime of domestic violence against a person in a dating relationship if the conviction has been expunged or set aside, or is an offense for which the person has been pardoned or has had firearm rights restored, unless the expungement, pardon, or restoration of rights expressly provides that the person may not ship, transport, possess, or receive firearms. In addition, the statutory prohibition does not apply to persons who have only one conviction of a misdemeanor crime of domestic violence against a person in a dating relationship if five years have elapsed from the later of their conviction or the completion of their custodial or supervisory sentence (if any), provided that the person has not subsequently been convicted of (a) another such offense, (b) a different offense that has as an element the use or attempted use of physical force or the threatened use of a deadly weapon, or (c) any other offense that would disqualify the person from purchasing or possessing firearms under 18 U.S.C. 922(g). More than one conviction for an offense of domestic violence against a person in a dating relationship committed since June 25, 2022, regardless of whether with the same or a different partner, disqualifies the person under Federal law from purchasing or possessing firearms and precludes the person from restoration pursuant to 18 U.S.C. 921(a)(33)(C).</P>
+<P>
+To incorporate the BSCA amendments relating to these provisions, the Department is amending ATF regulations to add a definition of “dating relationship” to 27 CFR 478.11. This definition mirrors the language that the BSCA added to 18 U.S.C. 921(a)(37). In addition, the Department is adding to the end of the definition of “misdemeanor crime of domestic violence,” paragraph (a)(3), the phrase “or by a person who has a current or recent former dating relationship with the victim.” This language is identical
+<PRTPAGE P="28626"/>
+to the language in 18 U.S.C. 921(a)(33)(A)(ii). In that same definition, the Department is making minor technical edits to paragraph (a)(3) to bring this part of the definition into direct alignment with the revised statutory language at 18 U.S.C. 921(a)(33)(C), which was added by the BSCA and specifically lists Federal, State, Tribal and local offenses. Further, the Department is revising paragraph (a)(1) of the regulatory definition to expressly align the regulation with the existing statutory language in 18 U.S.C. 921(a)(33)(A)(i), which also explicitly states that the definition of a “misdemeanor crime of domestic violence” involves a misdemeanor under Federal, State, Tribal, or local law. Notably, the NDNA specifically amended section 921(a)(33)(A)(i) to include misdemeanors under local law. Currently, paragraph (a)(1) of the regulatory definition provides that the term includes an offense under Federal and State law and only includes a parenthetical that less directly incorporates Tribal convictions. These changes to the definition of “misdemeanor crime of domestic violence” bring the regulatory language into alignment with 18 U.S.C. 921(a)(33)(A)(i) and (C), as amended by the BSCA and the NDNA.
+</P>
+<P>
+The Department is also adding a new paragraph (d) to the regulatory definition of “misdemeanor crime of domestic violence” to reflect the statutory changes discussed above as to when a person will, or will not, be considered convicted of a misdemeanor crime of domestic violence against a person in a dating relationship.
+<E T="03">See</E>
+18 U.S.C. 921(a)(33)(C).
+</P>
+<HD SOURCE="HD2">C. Straw Purchasing and Firearms Trafficking</HD>
+<P>
+The BSCA creates two new criminal offenses, for “straw purchasing of firearms” and for “trafficking in firearms,” as mentioned in Section II.B of this preamble.
+<E T="03">See</E>
+18 U.S.C. 932 and 933. The “straw purchasing” offense makes it illegal for any person to knowingly purchase, or conspire to purchase, a firearm on behalf of another person knowing or having reasonable cause to believe the person for whom they are making the purchase:
+</P>
+<P>• is prohibited under 18 U.S.C. 922(d);</P>
+<P>• intends to use, carry, possess, sell, or dispose of the firearm in furtherance of any felony, a Federal crime of terrorism, or a drug trafficking crime (as those terms are defined in 18 U.S.C. 932(a)); or</P>
+<P>• intends to sell or dispose of the firearm to a section 922(d)-prohibited person or a person intending to use, carry, possess, sell, or dispose of the firearm in furtherance of any felony, a Federal crime of terrorism, or a drug trafficking crime (as those terms are defined in 18 U.S.C. 932(a)).</P>
+<P>The “firearms trafficking” offense makes it illegal for any person to (1) ship, transport, cause to be transported, transfer, or otherwise dispose of a firearm knowing or having reasonable cause to believe that the use, carrying, or possession of a firearm by the recipient would constitute a felony (as defined in 18 U.S.C. 932(a)); or (2) receive a firearm from another person knowing or having reasonable cause to believe the receipt would constitute such a felony. The “firearms trafficking” offense also makes it illegal for a person to attempt or conspire to transfer or receive a firearm in the manners just described. Accordingly, this regulation further amends 27 CFR 478.32 to add new paragraphs (g) and (h) and further amends 27 CFR 478.99 to add new paragraphs (f) and (g) that mirror 18 U.S.C. 932 and 933. In addition, the Department is adding the word “purchases” into the headings of both provisions because the prohibition on straw purchasing in 18 U.S.C. 932 prohibits certain firearms purchases.</P>
+<P>
+As mentioned above, the BSCA establishes criminal penalties for the new “straw purchases” and “firearms trafficking” offenses. Both the “straw purchases” and “firearms trafficking” offenses are subject to broad criminal forfeiture provisions that provide that any person convicted of either offense shall forfeit any proceeds or property obtained, directly or indirectly, as the result of such offenses, as well as any property used or intended to be used, in any manner, to facilitate the violation. 18 U.S.C. 934. Such property may include firearms and ammunition, in which case section 924(d) applies.
+<FTREF/>
+<SU>10</SU>
+<E T="03">Id.</E>
+The BSCA also provides that a defendant who derives profits or other proceeds from a straw purchase or firearms trafficking offense under 18 U.S.C. 932 or 933 may be fined not more than the greater of the fine otherwise authorized under part I of title 18 of the United States Code or the amount equal to twice the gross profits or other proceeds of the offense. 18 U.S.C. 934(b).
+</P>
+<FTNT>
+<P>
+<SU>10</SU>
+ 18 U.S.C. 924(d) authorizes seizure and forfeiture of any firearm or ammunition involved or used in any knowing violation of subsection (a)(4), (a)(6), (f), (g), (h), (i), (j), or (k) of 18 U.S.C. 922, or knowing importation or bringing into the United States or any possession thereof any firearm or ammunition in violation of section 18 U.S.C. 922(l), or knowing violation of 18 U.S.C. 924, 932, or 933, or willful violation of any other provision of chapter 44 of title 18 of the U.S. Code, or any rule or regulation promulgated thereunder, or any violation of any other criminal law of the United States. It also authorizes seizure and forfeiture of any firearm or ammunition intended to be used in any offense listed in section 924(d)(3) (which includes sections 932 (straw purchasing of firearms) and 933 (trafficking in firearms)). Section 924(d) also provides that all provisions of the Internal Revenue Code of 1986 relating to seizure, forfeiture, and disposition of firearms, as defined in section 5845(a) of that Code, shall apply.
+</P>
+</FTNT>
+<P>To incorporate these BSCA seizure and forfeiture provisions into ATF regulations, the Department is amending ATF regulations at 27 CFR 478.152, which governs seizure and forfeiture, to add paragraphs (d) and (e). This rule is adding paragraphs (d) and (e) to incorporate and mirror the statutory provisions on fines and the forfeiture of firearms, ammunition, and other property or proceeds used in, derived from, constituting, or intended to be used to commit or facilitate commission of “straw purchases” or “firearms trafficking” and the seizure of profits provisions of the new “straw purchases” and “firearms trafficking” offenses in 18 U.S.C. 934.</P>
+<P>In addition, the BSCA establishes the maximum term of imprisonment for a “straw purchase” offense at 25 years, 18 U.S.C. 932(c), and for “trafficking in firearms” at 15 years, 18 U.S.C. 933(b), and all other unlawful transfer and possession of firearms offenses under 18 U.S.C. 922(d) and 922(g) now carry a maximum term of not more than 15 years' imprisonment, 18 U.S.C. 924(a)(8). As previously mentioned, existing ATF regulations do not include every criminal provision of the GCA and, as a result, the Department is not currently amending its regulations to reflect these particular criminal provisions in the BSCA. The Department provides a discussion above on these amendments to the statutory penalty provisions solely to inform the public that they apply in this context.</P>
+<HD SOURCE="HD2">D. Under-21 Transactions</HD>
+<P>
+The BSCA made changes to 18 U.S.C. 922(t) and 34 U.S.C. 40901(
+<E T="03">l</E>
+) to expand the records searched for background checks involving persons under the age of 21 that could preclude approval of a firearm or ammunition transfer to such persons. Related to this amendment, possibly disqualifying juvenile records are subject to further investigation, and the BSCA provides an additional investigatory period, if needed, for NICS to conduct the enhanced records checks for criminal, mental health, or other relevant juvenile records. As discussed in Section II.B of this preamble, the FBI operates NICS and FBI regulations govern NICS use and request processes, while ATF regulations (1) set out the requirement that licensees must conduct
+<PRTPAGE P="28627"/>
+background checks before transferring firearms and (2) establish when they may subsequently transfer a firearm. These regulatory provisions are outdated in light of the BSCA changes to the GCA regarding background checks and timing of transfers in under-21 transactions. The Department is updating ATF's regulations on FFL responsibilities with regard to NICS through this rule, and is also updating the related FBI NICS regulations in separate rules. For purposes of understanding the regulatory revisions the Department is making in this rule, the Department is providing a synopsis of the BSCA changes affecting NICS.
+</P>
+<P>
+When a NICS transaction is initiated, regardless of the age of the prospective transferee, NICS searches three FBI systems, as noted above, to determine if the person is disqualified from possessing or receiving firearms under 18 U.S.C. 922(d), (g), or (n), or under State, local, or Tribal law. If a possibly disqualifying record results from the search, NICS provides a “Delayed” status and advises the FFL that the transfer should not proceed pending receipt of a follow-up “Proceed” response from NICS or the expiration of three business days, whichever occurs first.
+<E T="03">See</E>
+28 CFR 25.6. State, local, or Tribal laws may impose a separate waiting period—or require a “Proceed” response—before an FFL can lawfully transfer a firearm.
+</P>
+<P>
+The BSCA now requires enhanced NICS background checks on transactions for which the prospective firearm transferee is under 21 years of age.
+<SU>11</SU>
+<FTREF/>
+With respect to these enhanced background checks of under-21 transactions, Congress imposed two overarching requirements upon NICS via the BSCA. First, in addition to the traditional NICS check of relevant FBI systems, NICS is required to conduct additional outreach to three specified types of State and local entities to determine whether the prospective transferee has a “possibly disqualifying juvenile record” under 18 U.S.C. 922(d).
+<E T="03">See</E>
+34 U.S.C. 40901(
+<E T="03">l</E>
+).
+</P>
+<FTNT>
+<P>
+<SU>11</SU>
+ Under Federal law, persons who are at least 18 years of age are of lawful age to purchase shotguns and rifles; however, some States set a higher minimum age under State law.
+<E T="03">See</E>
+18 U.S.C. 922(b).
+</P>
+</FTNT>
+<P>
+Second, beyond the possibility of a three-business-day investigatory period already allowed for a NICS transaction as noted above, the BSCA provides for an additional investigatory period, if needed, as part of an under-21 transaction, up to a total of ten business days (the traditional three business days described above plus up to an additional seven business days for further investigation), before an FFL may transfer a firearm to a person under 21.
+<E T="03">See</E>
+18 U.S.C. 922(t)(1)(C), 34 U.S.C. 40901(
+<E T="03">l</E>
+)(3). The additional investigatory period applies if NICS determines that there is cause to further investigate whether the prospective transferee has a possibly disqualifying juvenile record under 18 U.S.C. 922(d).
+<E T="03">See</E>
+18 U.S.C. 922(t)(1)(C); 34 U.S.C. 40901(
+<E T="03">l</E>
+)(3). NICS is required to notify the FFL no later than the end of the third business day if the additional investigatory period is needed.
+<E T="03">See</E>
+34 U.S.C. 40901(
+<E T="03">l</E>
+)(2).
+</P>
+<P>The BSCA amended 18 U.S.C. 922(t) to provide that, for under-21 transactions, where cause exists (in the first three business days) to investigate further whether the prospective transferee has a possibly disqualifying juvenile record under 18 U.S.C. 922(d), and the FFL is notified that such cause exists, the FFL may not transfer a firearm to the prospective transferee during the investigatory period without receiving a follow-up “Proceed” response from the system, or allowing the elapse of up to ten business days from the date the background check was initiated, whichever occurs first. The permissible transfer date for an under-21 transaction on which the FFL has been notified that there is cause for further investigation, therefore, is now the day after the tenth business day, in the absence of a follow-up “Proceed” response.</P>
+<P>Accordingly, the Department is making amendments to conform ATF's regulations that instruct FFLs on the requirement to conduct NICS checks and when they may subsequently transfer a firearm with the above-described provisions of the BSCA for under-21 transactions. The Department is amending 27 CFR 478.102(a)(2) and (3) by adding information on a possible further investigatory response from NICS for transferees under 21 years old, how that affects the timing of the possible transaction, and revising the examples to distinguish between the standard background check investigatory period and a potential additional investigatory period for a transferee who is under 21 years old.</P>
+<HD SOURCE="HD2">E. Updates to Recordkeeping Requirements</HD>
+<P>The Department is also amending 27 CFR 478.124(c)(1) to reflect the BSCA and NDNA statutory amendments by adding additional information requirements for transaction records. Section 478.124 covers firearms transaction records that licensees are required to keep for transactions with nonlicensees. Paragraph (c)(1) of § 478.124 establishes that, for each transaction, the licensee must have a transferee fill out a Form 4473 with information relevant to conducting a background check as well as recording the transfer and certifying that the transferee is not a prohibited person. In accordance with the new “straw purchase” and “firearms trafficking” prohibitions and additional transfer prohibitions included in the BSCA, the Department is adding language to the transferee certification portion of the form, whereby the transferee will certify that they do not intend to purchase or acquire a firearm for sale or other disposition to a prohibited person or in furtherance of a felony, Federal crime of terrorism, or a drug trafficking offense. These provisions requiring that the Form 4473 reflect this information implement new subsections (d)(10) and (d)(11) of 18 U.S.C. 922, which make it unlawful for a person to transfer a firearm to another if the transferor has reasonable cause to believe the transferee intends to sell or otherwise dispose of the firearm to a prohibited person or in furtherance of a felony, Federal crime of terrorism, or a drug trafficking offense. These BSCA provisions were already incorporated into the certification on ATF Form 4473, as described above.</P>
+<P>The NDNA requires the Attorney General to report when NICS issues a denial of a firearm transfer pursuant to 18 U.S.C. 922(t) to the local law enforcement authorities (as defined in 18 U.S.C. 921(a)(36)) of the State or Tribe where the person sought to acquire the firearm, or, if different, the local law enforcement authorities of the State or Tribe where the person resides. Moreover, as discussed in Section II.D of this preamble, the BSCA requires NICS to contact certain State and local authorities when a licensee contacts NICS regarding a proposed transfer of a firearm to a person under 21 years old. The Department is amending § 478.124(c)(1) to require additional information on the transferee's residence address (to add whether they reside in city limits or not) as necessary to identify the record locations that must be searched pursuant to the BSCA and NDNA, and, as necessary, for NICS to notify the “local law enforcement authority” where the transferee resides when a transfer is denied, pursuant to the NDNA (18 U.S.C. 925B). The revised Form 4473 already includes a question requesting this city limits information from potential transferees; this rule will require FFLs to collect that information from potential transferees on the Form 4473.</P>
+<P>
+The NDNA requirements for NICS background checks of, and reports to,
+<PRTPAGE P="28628"/>
+local and Tribal law enforcement also include a new definition of “local law enforcement authority” added to 18 U.S.C. 921(a)(36), and the Department is adding this definition to 27 CFR 478.11 as well. The Department is also including a minor technical revision to 27 CFR 478.124(c)(1) to update references to “INS” to references to “DHS.” Although the relevant statute refers to the INS, that agency no longer exists, and the Department is therefore taking this opportunity to update the regulation to refer to DHS, the successor agency for that function.
+</P>
+<P>Because of the BSCA and NDNA changes described above, the Department is also making technical revisions to paragraph (f) of § 478.124, which requires nonlicensees, among other provisions, to submit a Form 4473 to an FFL if they are acquiring firearms by other than an over-the-counter transaction as permitted by 18 U.S.C. 922(c). The regulations refer to the same Form 4473 whether the person is acquiring a firearm under § 478.124(c) or (f); therefore, the technical revisions the Department is making to § 478.124(f) that describe what the Form 4473 must show as submitted by the transferee are the same as those described for § 478.124(c)(1). As described above, these technical changes to conform with the BSCA and NDNA include that the Form 4473 reflect the transferee's residence address (including county or similar political subdivision and whether they reside within the city limits) and certification that the transferee does not intend to purchase or acquire a firearm for sale or other disposition to a prohibited person or in furtherance of a felony, Federal crime of terrorism, or a drug trafficking offense. Other minor revisions to § 478.124(f) include adding “sex,” “transferee's country of citizenship,” “the transferee's DHS-issue alien number or admission number” and “the transferee's State of residence” to the list of information that the Form 4473 must include when submitted by the transferee. These changes are to ensure parity between § 478.124(c)(1) and (f).</P>
+<HD SOURCE="HD1">III. Statutory and Executive Order Review</HD>
+<HD SOURCE="HD2">A. Executive Orders 12866, 13563, and 14094</HD>
+<P>Executive Order 12866 (“Regulatory Planning and Review”) directs agencies to assess the costs and benefits of available regulatory alternatives and, if regulation is necessary, to select regulatory approaches that maximize net benefits (including potential economic, environmental, public health and safety effects, distributive impacts, and equity). Executive Order 13563 (“Improving Regulation and Regulatory Review”) emphasizes the importance of quantifying both costs and benefits, of reducing costs, of harmonizing rules, and of promoting flexibility. Executive Order 14094 (“Modernizing Regulatory Review”) amends section 3(f) of Executive Order 12866.</P>
+<P>OMB has determined that this rule is not a “significant regulatory action” under Executive Order 12866, as amended by Executive Order 14094, and it is not a significant action under section 3(f)(1) of Executive Order 12866.</P>
+<P>The BSCA requires enhanced background checks for firearm purchasers under 21 years old, clarifies Federal firearms license requirements, authorizes funding for State red flag laws and other crisis intervention programs, creates new Federal offenses for arms trafficking and straw purchases, and partially closes the “boyfriend loophole,” which previously excluded domestic violence offenses involving dating relationships from firearms restrictions equivalent with those involving a spouse. The NDNA requires the Attorney General to report to State, local, and Tribal law enforcement when NICS provides a notice pursuant to 18 U.S.C. 922(t) that the receipt of a firearm by a person seeking to receive a firearm in their jurisdiction (or living in their jurisdiction and seeking a firearm from elsewhere) would violate 18 U.S.C. 922(g) or (n). This direct final rule merely incorporates the new statutory provisions into existing ATF firearms regulations (the related revisions to the FBI NICS regulations will be implemented in separate rules). Upon review of these new provisions, ATF has determined that costs associated with this rule are largely costs associated with updating ATF Form 4473 to align the questions and information regarding background checks on that form with the new statutory requirements. ATF Form 4473 was updated through OMB to align with the new requirements in December 2022 and the form was approved for another three years in August 2023. This rule does not require further updates to the form.</P>
+<HD SOURCE="HD2">B. Executive Order 13132</HD>
+<P>This regulation will not have substantial direct effects on the States, the relationship between the Federal Government and the States, or the distribution of power and responsibilities among the various levels of government. Therefore, in accordance with section 6 of Executive Order 13132 (“Federalism”), the Attorney General has determined that this regulation does not have sufficient federalism implications to warrant the preparation of a federalism summary impact statement.</P>
+<HD SOURCE="HD2">C. Executive Order 12988</HD>
+<P>This regulation meets the applicable standards set forth in sections 3(a) and 3(b)(2) of Executive Order 12988 (“Civil Justice Reform”).</P>
+<HD SOURCE="HD2">D. Regulatory Flexibility Act</HD>
+<P>In accordance with the Regulatory Flexibility Act, 5 U.S.C. 603, 604, and 605(b), a Regulatory Flexibility Analysis is not required for this direct final rule because the Department was not required to publish a general notice of proposed rulemaking for this matter.</P>
+<HD SOURCE="HD2">E. Unfunded Mandates Reform Act of 1995</HD>
+<P>This direct final rule will not result in the expenditure by State, local, and Tribal governments, in the aggregate, or by the private sector, of $100 million or more in any one year (as adjusted for inflation), and it will not significantly or uniquely affect small governments. Therefore, no actions were deemed necessary under the provisions of the Unfunded Mandates Reform Act of 1995, Pub. L. 104-4, 109 Stat. 48.</P>
+<HD SOURCE="HD2">F. Paperwork Reduction Act of 1995</HD>
+<P>Under the Paperwork Reduction Act of 1995 (“PRA”), 44 U.S.C. 3501-3521, agencies are required to submit to OMB, for review and approval, any reporting requirements inherent in a rule. This direct final rule does not impose any new reporting or recordkeeping requirements under the PRA. OMB has approved the existing Form 4473 information collection under OMB Control Number 1140-0020.</P>
+<HD SOURCE="HD2">G. Congressional Review Act</HD>
+<P>Pursuant to the Congressional Review Act, 5 U.S.C. 801-808, OMB's Office of Information and Regulatory Affairs has determined that this direct final rule is not a “major rule,” as defined in 5 U.S.C. 804(2).</P>
+<HD SOURCE="HD2">H. Direct Final Rulemaking</HD>
+<P>
+Under the Administrative Procedure Act (“APA”), 5 U.S.C. 553(b)(B), an agency may, for good cause, find that the usual requirements of prior notice and comment are impracticable, unnecessary, or contrary to the public interest. The notice-and-comment requirements also do not apply to “interpretive rules,” meaning those that “remind parties of existing statutory or regulatory duties, or `merely track[ ]'
+<PRTPAGE P="28629"/>
+preexisting requirements and explain something the statute or regulation already required.”
+<E T="03">POET Biorefining, LLC</E>
+v.
+<E T="03">EPA,</E>
+970 F.3d 392, 407 (D.C. Cir. 2020) (quotation marks omitted);
+<E T="03">see also United States</E>
+v.
+<E T="03">Kriesel,</E>
+508 F.3d 941, 945 (9th Cir. 2007) (a regulation that “mirror[s] the statute” is a “classic interpretive rule”). As described above, this direct final rule simply incorporates statutory changes into existing regulatory provisions that already mirrored preexisting statutory language. These conforming updates to ATF regulations in part 478 are to ensure that ATF regulations are consistent with the statutes and can be relied upon by the public. In the absence of this rule, however, the relevant statutes provide an adequate basis for enforcement action. Therefore, because this rulemaking is limited to directly incorporating statutory provisions, which can already be enforced absent this rule, notice and comment on this rule is unnecessary and not practical to implement the BSCA and NDNA. Were ATF to receive an adverse comment on the statutory requirements, the Department would not be able to alter those requirements in response to comments because it cannot change the statutory provisions enacted by Congress. For these reasons, the Department has determined that publishing a notice of proposed rulemaking and providing opportunity for comment is unnecessary under the good cause and interpretive rule exceptions to the APA's notice-and-comment requirements.
+<E T="03">See</E>
+5 U.S.C. 553(b)(4).
+</P>
+<P>
+Nonetheless, the Department is providing the public a 90-day delayed effective date and an opportunity to comment in accordance with Recommendation 95-4, Procedures for Noncontroversial and Expedited Rulemaking, issued by the Administrative Conference of the United States (“ACUS”). ACUS has described direct final rulemaking as an appropriate procedure where the “unnecessary” prong of the good cause exemption is available, in order to expedite promulgation of rules that are non-controversial and that are not expected to generate significant adverse comment.
+<E T="03">See</E>
+60 FR 43108, 43108 (Aug. 18, 1995).
+</P>
+<P>
+Under direct final rulemaking, an agency may issue a rule that it believes to be non-controversial “without having to go through the review process twice . . . while at the same time offering the public the opportunity to challenge the agency's view that the rule is noncontroversial.”
+<E T="03">Id.</E>
+at 43110. If the agency determines that it has received a significant adverse comment the direct final rule will be withdrawn before its effective date.
+<E T="03">Id.</E>
+Recommendation 95-4 also provides that, in determining whether a significant adverse comment is sufficient to terminate a direct final rulemaking, agencies should consider whether the comment raises an issue serious enough to warrant a substantive response in a notice-and-comment process.
+<E T="03">Id.</E>
+</P>
+<P>
+As this rulemaking is limited to directly incorporating statutory provisions (rather than effecting a substantive or discretionary change in existing law pursuant to the Department's congressional delegation of authority), direct final rulemaking is appropriate here because the Department does not expect ATF to receive any significant adverse comments.
+<SU>12</SU>
+<FTREF/>
+As discussed in more detail in Section IV of this preamble, ATF could receive adverse comments on the assessment that the rulemaking is non-controversial.
+</P>
+<FTNT>
+<P>
+<SU>12</SU>
+ To the extent that the APA and 18 U.S.C. 926(b)'s procedural requirements may apply to this rule, ATF is complying with those requirements by providing a 90-day delayed effective date and an opportunity for the public to submit comments in accordance with ACUS Recommendation 95-4.
+</P>
+</FTNT>
+<P>
+In sum, although the Department has determined that prior notice and comment and a delayed effective date are “unnecessary” in accordance with the APA's good cause and interpretive rule exceptions in 5 U.S.C. 553(b)(4), the Department is providing that the rule will take effect 90 days after publication and is allowing a 30-day period for submission of significant adverse comments for the reasons described above. Therefore, unless ATF receives a significant adverse comment by May 20, 2024, this rule will become effective on July 18, 2024. If ATF receives any timely significant adverse comments, the Department will publish notification in the
+<E T="04">Federal Register</E>
+, withdrawing this direct final rule before its effective date. See the section on “Public Participation” in this preamble for a description of a significant adverse comment.
+</P>
+<HD SOURCE="HD1">IV. Public Participation</HD>
+<HD SOURCE="HD2">A. Comments Sought</HD>
+<P>ATF accepts comments from all interested persons. Pertinent to this direct final rule, a significant adverse comment is a comment in which the commenter explains why the rule, rather than the statutory language that the Department is incorporating into ATF's regulations, is controversial or would be inappropriate, including challenges to the rule's underlying premise or approach, or would be ineffective or unacceptable without a change. A comment is significant and adverse if:</P>
+<P>(1) The comment opposes the Department's assessment regarding the non-controversial nature of the rule and provides a reason sufficient to require a substantive response in a notice-and-comment process. For example, a substantive response may be required when:</P>
+<P>(a) The comment causes the Department to reconsider its position or conduct additional analysis;</P>
+<P>(b) The comment raises an issue serious enough to warrant a substantive response to clarify or complete the record; or</P>
+<P>(c) The comment raises a relevant issue that was not previously addressed or considered by the Department;</P>
+<P>(2) The comment proposes a salient change or an addition to the rule, and it is apparent that the rule would be ineffective or unacceptable without incorporation of the change or addition; or</P>
+<P>(3) The comment causes the Department to make a change (other than editorial or administrative) to the rule.</P>
+<P>Comments that raise concerns regarding the underlying statutory provisions that this rule is incorporating into existing regulations will not be considered significant adverse comments. Those statutory provisions were enacted by Congress and cannot be altered by the Department. Accordingly, the Department is unable to provide a substantive response to such comments.</P>
+<P>
+All comments must reference this document's docket number ATF 2022R-09 and be legible. Commenters are encouraged to include the commenter's complete first and last name and contact information. If submitting a comment through the Federal eRulemaking portal, as described below in Section IV.C of this preamble, commenters should carefully review and follow the instructions on that website on submitting comments. If submitting a comment by mail, commenters should review Section IV.B (“Confidentiality”) of this preamble regarding proper submission of PII. ATF may not consider, or respond to, comments that do not meet these requirements or comments containing profanity. ATF will retain comments containing profanity as part of this direct final rule's administrative record but will not publish such documents on
+<E T="03">www.regulations.gov.</E>
+ATF will treat all comments as originals and will not acknowledge receipt of comments. In addition, if ATF cannot read your
+<PRTPAGE P="28630"/>
+comment due to technical difficulties and cannot contact you for clarification, ATF may not be able to consider your comment.
+</P>
+<HD SOURCE="HD2">B. Confidentiality</HD>
+<P>ATF will make all comments meeting the requirements of Section IV, whether submitted electronically or on paper, available for public viewing at ATF and on the internet through the Federal eRulemaking portal, and subject to the Freedom of Information Act (5 U.S.C. 552) (“FOIA”). Commenters who submit by mail and who do not want their name or other PII posted on the internet should submit their comments along with a separate cover sheet containing their PII. Both the cover sheet and comment must reference this docket number (ATF 2022R-09). For comments submitted by mail, information contained on the cover sheet will not appear when posted on the internet but any PII that appears within the body of a comment will not be redacted by ATF and it will appear on the internet. Commenters who submit through the Federal eRulemaking portal and who do not want any of their PII posted on the internet should omit such PII from the body of their comment or in any uploaded attachments.</P>
+<P>A commenter may submit to ATF information identified as proprietary or confidential business information. The commenter must place any portion of a comment that is proprietary or confidential business information under law on pages separate from the balance of the comment with each page prominently marked “PROPRIETARY OR CONFIDENTIAL BUSINESS INFORMATION” at the top of the page.</P>
+<P>ATF will not make proprietary or confidential business information submitted in compliance with these instructions available when disclosing the comments that it receives, but will disclose that the commenter provided proprietary or confidential business information that ATF is holding in a separate file to which the public does not have access. If ATF receives a request to examine or copy this information, it will treat it as any other request under FOIA. In addition, ATF will disclose such proprietary or confidential business information to the extent required by other legal processes.</P>
+<HD SOURCE="HD2">C. Submitting Comments</HD>
+<P>Submit comments using either of the two methods below (but do not submit the same comment multiple times or by more than one method). Hand-delivered comments will not be accepted.</P>
+<P>
+•
+<E T="03">Federal eRulemaking portal:</E>
+ATF recommends that you submit your comments to ATF via the Federal eRulemaking portal at
+<E T="03">www.regulations.gov</E>
+and follow the instructions. Comments will be posted within a few days of being submitted. However, if large volumes of comments are being processed simultaneously, your comment may not be viewable for up to several weeks. Please keep the comment tracking number that is provided after you have successfully uploaded your comment.
+</P>
+<P>
+•
+<E T="03">Mail:</E>
+Send written comments to the address listed in the
+<E T="02">ADDRESSES</E>
+section of this document. Written comments must appear in minimum 12-point font size (.17 inches), include the commenter's first and last name and full mailing address, be signed, and may be of any length. See also Section IV.B (“Confidentiality”) of this preamble.
+</P>
+<HD SOURCE="HD1">Disclosure</HD>
+<P>
+Copies of this direct final rule and the comments received in response to it will be available through the Federal eRulemaking portal, at
+<E T="03">www.regulations.gov</E>
+(search for RIN 1140-AA57), and for public inspection by appointment during normal business hours at: ATF Reading Room, Room 1E-063, 99 New York Ave. NE, Washington, DC 20226; telephone: (202) 648-8740.
+</P>
+<LSTSUB>
+<HD SOURCE="HED">List of Subjects in 27 CFR Part 478</HD>
+<P>Administrative practice and procedure, Arms and munitions, Exports, Freight, Imports, Intergovernmental relations, Law enforcement officers, Military personnel, Penalties, Reporting and recordkeeping requirements, Research, Seizures and forfeitures, Transportation.</P>
+</LSTSUB>
+<HD SOURCE="HD1">Authority and Issuance</HD>
+<P>For the reasons discussed in the preamble, the Department amends 27 CFR part 478 as follows:</P>
+<PART>
+<HD SOURCE="HED">PART 478—COMMERCE IN FIREARMS AND AMMUNITION</HD>
+</PART>
+<REGTEXT TITLE="27" PART="478">
+<AMDPAR>1. The authority citation for 27 CFR part 478 continues to read as follows:</AMDPAR>
+<AUTH>
+<HD SOURCE="HED">Authority:</HD>
+<P>5 U.S.C. 552(a); 18 U.S.C. 847, 921-931; 44 U.S.C. 3504(h).</P>
+</AUTH>
+</REGTEXT>
+<REGTEXT TITLE="27" PART="478">
+<AMDPAR>2. Amend § 478.11 as follows:</AMDPAR>
+<AMDPAR>a. Add, in alphabetical order, definitions for “Dating relationship,” “Drug-trafficking crime,” “Federal crime of terrorism,” “Felony,” and “Local law enforcement authority”; and</AMDPAR>
+<AMDPAR>b. In the definition of “Misdemeanor crime of domestic violence”:</AMDPAR>
+<AMDPAR>i. Redesignate paragraphs (a) introductory text and (a)(1) through (3) as paragraphs (1) introductory text and (1)(i) through (iii), respectively;</AMDPAR>
+<AMDPAR>ii. Revise newly redesignated paragraphs (1)(i) and (iii);</AMDPAR>
+<AMDPAR>iii. Redesignate paragraphs (b) introductory text, (b)(1) and (2), (b)(3) introductory text, and (b)(3)(i) and (ii) as paragraphs (2) introductory text, (2)(i) and (ii), (2)(iii) introductory text, and (2)(iii)(A) and (B), respectively;</AMDPAR>
+<AMDPAR>iv. Redesignate paragraph (c) as paragraph (iii); and</AMDPAR>
+<AMDPAR>v. Add paragraph (iv).</AMDPAR>
+<P>The revisions and additions read as follows:</P>
+<SECTION>
+<SECTNO>§ 478.11 </SECTNO>
+<SUBJECT>Meaning of terms.</SUBJECT>
+<STARS/>
+<P>
+<E T="03">Dating relationship.</E>
+A relationship between individuals who have or have recently had a continuing serious relationship of a romantic or intimate nature. A casual acquaintanceship or ordinary fraternization in a business or social context does not constitute a dating relationship. Whether a relationship constitutes a dating relationship shall be determined based on consideration of—
+</P>
+<P>(1) The length of the relationship;</P>
+<P>(2) The nature of the relationship; and</P>
+<P>(3) The frequency and type of interaction between the individuals involved in the relationship.</P>
+<STARS/>
+<P>
+<E T="03">Drug trafficking crime.</E>
+(1) Any felony punishable under the Controlled Substances Act (21 U.S.C. 801
+<E T="03">et seq.</E>
+), the Controlled Substances Import and Export Act (21 U.S.C. 951
+<E T="03">et seq.</E>
+), or 46 U.S.C. chapter 705; and
+</P>
+<P>(2) Any felony punishable under the law of a State for which the conduct constituting the offense would constitute a felony punishable under the statutes cited in paragraph (1) of this definition.</P>
+<STARS/>
+<P>
+<E T="03">Federal crime of terrorism.</E>
+Any offense as defined under 18 U.S.C. 2332b(g)(5).
+</P>
+<STARS/>
+<P>
+<E T="03">Felony.</E>
+Any offense under Federal or State law punishable by imprisonment for a term exceeding one year.
+</P>
+<STARS/>
+<P>
+<E T="03">Local law enforcement authority.</E>
+A bureau, office, department, or other authority of a State or local government or Tribe that has jurisdiction to investigate a violation or potential violation of, or enforce, a State, local, or Tribal law.
+</P>
+<STARS/>
+<P>
+<E T="03">Misdemeanor crime of domestic violence.</E>
+(1) * * *
+</P>
+<P>
+(i) Is a misdemeanor under Federal, State, Tribal, or local law or, in States which do not classify offenses as misdemeanors, is an offense punishable
+<PRTPAGE P="28631"/>
+by imprisonment for a term of one year or less, and includes offenses that are punishable only by a fine. (This is true whether or not the State statute specifically defines the offense as a “misdemeanor” or as a “misdemeanor crime of domestic violence.” The term includes all such misdemeanor convictions in Indian Courts established pursuant to 25 CFR part 11.);
+</P>
+<STARS/>
+<P>
+(iii) Was committed by a current or former spouse, parent, or guardian of the victim; by a person with whom the victim shares a child in common; by a person who is cohabiting with or has cohabited with the victim as a spouse, parent, or guardian, (
+<E T="03">e.g.,</E>
+the equivalent of a “common law” marriage even if such relationship is not recognized under the law); by a person similarly situated to a spouse, parent, or guardian of the victim (
+<E T="03">e.g.,</E>
+two persons who are residing at the same location in an intimate relationship with the intent to make that place their home would be similarly situated to a spouse); or by a person who has a current or recent former dating relationship with the victim.
+</P>
+<STARS/>
+<P>(iv)(A) Subject to paragraphs (iv)(B) and (C) of this definition, a person shall not be considered to have been convicted of a misdemeanor crime of domestic violence against an individual in a dating relationship if the conviction has been expunged or set aside, or is an offense for which the person has been pardoned or has had firearm rights restored, unless the expungement, pardon, or restoration of rights expressly provides that the person may not ship, transport, possess, or receive firearms.</P>
+<P>(B) In the case of a person who has not more than one conviction of a misdemeanor crime of domestic violence against an individual in a dating relationship, and is not otherwise prohibited under 18 U.S.C. chapter 44, the person shall not be disqualified from shipping, transport, possession, receipt, or purchase of a firearm under 18 U.S.C. chapter 44 if:</P>
+<P>
+(
+<E T="03">1</E>
+) Five years have elapsed from the later of the judgment of conviction or the completion of the person's custodial or supervisory sentence, if any; and
+</P>
+<P>
+(
+<E T="03">2</E>
+) The person has not subsequently been convicted of another such offense, or any misdemeanor under Federal, State, local, or Tribal law that has, as an element, the use or attempted use of physical force, or the threatened use of a deadly weapon, or any other offense that would disqualify the person under 18 U.S.C. 922(g).
+</P>
+<P>(C) Restoration under paragraph (iv)(B) of this definition only removes the disqualification from shipping, transport, possession, receipt, or purchase of a firearm under this part. Restoration under paragraph (iv)(B) is not available for a current or former spouse, parent, or guardian of the victim; a person with whom the victim shares a child in common; a person who is cohabiting with or has cohabited with the victim as a spouse, parent, or guardian; or a person similarly situated to a spouse, parent, or guardian of the victim.</P>
+<STARS/>
+</SECTION>
+</REGTEXT>
+<REGTEXT TITLE="27" PART="478">
+<AMDPAR>3. Amend § 478.32 as follows:</AMDPAR>
+<AMDPAR>a. Revise the section heading and paragraph (d) introductory text;</AMDPAR>
+<AMDPAR>b. Remove the comma at the end of paragraphs (d)(1) through (3) and add in its place a semicolon;</AMDPAR>
+<AMDPAR>c. Revise paragraph (d)(4);</AMDPAR>
+<AMDPAR>d. Remove the comma at the end of paragraphs (d)(5)(ii)(D) and (d)(6) and (7) and add in its place a semicolon;</AMDPAR>
+<AMDPAR>e. Remove “, or” at the end of paragraph (d)(8)(ii)(B) and add in its place a semicolon;</AMDPAR>
+<AMDPAR>f. Remove the period at the end of paragraph (d)(9) and add in its place a semicolon; and</AMDPAR>
+<AMDPAR>g. Add paragraphs (d)(10) and (11), (g), and (h).</AMDPAR>
+<P>The revisions and additions read as follows:</P>
+<SECTION>
+<SECTNO>§ 478.32 </SECTNO>
+<SUBJECT>Prohibited shipment, transportation, possession, purchase, or receipt of firearms and ammunition by certain persons.</SUBJECT>
+<STARS/>
+<P>(d) No person may sell or otherwise dispose of any firearm or ammunition to any person knowing or having reasonable cause to believe that such person, including as a juvenile:</P>
+<STARS/>
+<P>(4) Has been adjudicated as a mental defective or has been committed to a mental institution at 16 years of age or older;</P>
+<STARS/>
+<P>(10) Intends to sell or otherwise dispose of the firearm or ammunition in furtherance of a felony, a Federal crime of terrorism, or a drug trafficking offense; or</P>
+<P>(11) Intends to sell or otherwise dispose of the firearm or ammunition to a person described in any of paragraphs (d)(1) through (10) of this section.</P>
+<STARS/>
+<P>(g) No person may knowingly purchase or conspire to purchase any firearm in or otherwise affecting interstate or foreign commerce for, or on behalf of, or at the request or demand of any other person, knowing or having reasonable cause to believe that such other person:</P>
+<P>(1) Meets the criteria of 1 or more subsections of 18 U.S.C. 922(d);</P>
+<P>(2) Intends to use, carry, possess, or sell or otherwise dispose of the firearm in furtherance of a felony, a Federal crime of terrorism, or a drug trafficking crime; or</P>
+<P>(3) Intends to sell or otherwise dispose of the firearm to a person described in paragraph (g)(1) or (2) of this section.</P>
+<P>(h) No person may:</P>
+<P>(1) Ship, transport, transfer, cause to be transported, or otherwise dispose of, any firearm to another person in or otherwise affecting interstate or foreign commerce, knowing or having reasonable cause to believe that it would constitute a felony for the recipient to use, carry, or possess a firearm;</P>
+<P>(2) Receive from another person any firearm in or otherwise affecting interstate or foreign commerce if the recipient knows or has reasonable cause to believe that receiving the firearm would constitute a felony; or</P>
+<P>(3) Attempt or conspire to commit the conduct described in paragraph (h)(1) or (2) of this section.</P>
+</SECTION>
+</REGTEXT>
+<SECTION>
+<SECTNO>§ 478.73 </SECTNO>
+<SUBJECT>[Amended] </SUBJECT>
+</SECTION>
+<REGTEXT TITLE="27" PART="478">
+<AMDPAR>4. Amend § 478.73 in paragraph (a) by removing “demonstrating that the transferee's receipt of a firearm would violate 18 U.S.C. 922(g) or 922(n) or State law” and adding in its place “demonstrating that transfer to the transferee or their receipt of a firearm would violate 18 U.S.C. 922(d), 922(g), or 922(n) (as applicable), or State, local, or Tribal law”.</AMDPAR>
+</REGTEXT>
+<REGTEXT TITLE="27" PART="478">
+<AMDPAR>5. Amend § 478.99 as follows:</AMDPAR>
+<AMDPAR>a. Revise the section heading and paragraphs (c) introductory text and (c)(4);</AMDPAR>
+<AMDPAR>b. Remove “, or” at the end of paragraph (c)(8)(ii)(B) and add in its place a semicolon;</AMDPAR>
+<AMDPAR>c. Remove the period at the end of paragraph (c)(9) and add in its place a semicolon; and</AMDPAR>
+<AMDPAR>d. Add paragraphs (c)(10) and (11), (f), and (g).</AMDPAR>
+<P>The revisions and additions read as follows:</P>
+<SECTION>
+<SECTNO>§ 478.99 </SECTNO>
+<SUBJECT>Certain prohibited sales, purchases, or deliveries.</SUBJECT>
+<STARS/>
+<P>
+(c)
+<E T="03">Sales or deliveries to prohibited categories of persons.</E>
+No person may sell or otherwise dispose of any firearm or ammunition to any person knowing or having reasonable cause to believe
+<PRTPAGE P="28632"/>
+that such person, including as a juvenile:
+</P>
+<STARS/>
+<P>(4) Has been adjudicated as a mental defective or has been committed to a mental institution at 16 years of age or older;</P>
+<STARS/>
+<P>(10) Intends to sell or otherwise dispose of the firearm or ammunition in furtherance of a felony, a Federal crime of terrorism, or a drug trafficking offense; or</P>
+<P>(11) Intends to sell or otherwise dispose of the firearm or ammunition to a person described in any of paragraphs (c)(1) through (10) of this section.</P>
+<STARS/>
+<P>
+(f)
+<E T="03">Purchase for, or conspire to purchase for, or sell or otherwise dispose of firearms to certain prohibited persons.</E>
+It is unlawful for any person to knowingly purchase, or conspire to purchase, any firearm in or otherwise affecting interstate or foreign commerce for, on behalf of, or at the request or demand of any other person, knowing or having reasonable cause to believe that such other person:
+</P>
+<P>(1) Meets the criteria of one or more subsections of 18 U.S.C. 922(d);</P>
+<P>(2) Intends to use, carry, possess, or sell or otherwise dispose of, the firearm in furtherance of a felony, a Federal crime of terrorism, or a drug trafficking crime; or</P>
+<P>(3) Intends to sell or otherwise dispose of the firearm to a person described in paragraph (f)(1) or (2) of this section.</P>
+<P>
+(g)
+<E T="03">Transfer, otherwise dispose of, or attempt or conspire to dispose of, ship, transport, or cause to be transported, firearms when use, carrying, possession, or receipt constitutes a felony.</E>
+It shall be unlawful for any person to:
+</P>
+<P>(1) Transfer, otherwise dispose of, ship, transport, or cause to be transported, any firearm to another person in or otherwise affecting interstate or foreign commerce, knowing or having reasonable cause to believe that it would constitute a felony for the recipient to use, carry, or possess a firearm;</P>
+<P>(2) Receive any firearm in or otherwise affecting interstate or foreign commerce if the recipient knows or has reasonable cause to believe that receiving the firearm would constitute a felony; or</P>
+<P>(3) Attempt or conspire to commit the conduct described in paragraph (g)(1) or (2) of this section.</P>
+</SECTION>
+</REGTEXT>
+<REGTEXT TITLE="27" PART="478">
+<AMDPAR>6. Amend § 478.102 as follows:</AMDPAR>
+<AMDPAR>a. Revise paragraphs (a)(2) and (3);</AMDPAR>
+<AMDPAR>b. Remove the example following paragraph (a)(3); and</AMDPAR>
+<AMDPAR>c. Redesignate examples 1 through 3 to paragraph (c) as examples 3 through 5.</AMDPAR>
+<P>The revisions read as follows:</P>
+<SECTION>
+<SECTNO>§ 478.102 </SECTNO>
+<SUBJECT>Sales or deliveries of firearms on and after November 30, 1998.</SUBJECT>
+<P>(a) * * *</P>
+<P>(2) The licensee has verified the identity of the transferee by examining the identification document presented in accordance with the provisions of § 478.124(c); and</P>
+<P>(3) NICS has responded to the licensee with one of the following results, or has not responded to the licensee and the required investigatory period has elapsed:</P>
+<P>
+(i)
+<E T="03">Notification.</E>
+NICS provides the licensee with a “Proceed” notification and a unique identification number, at which time the transfer may proceed.
+</P>
+<P>
+(ii)
+<E T="03">Initial investigatory period.</E>
+If NICS does not respond to the licensee as described in paragraph (a)(3)(i) of this section, the licensee must not proceed with the transfer for three business days (days on which State offices are open). If three business days have elapsed from the date the licensee contacted NICS, and NICS has not provided the licensee with a “Denied” notification, the licensee may proceed with the transfer unless the transferee is under 21 years old and paragraph (a)(3)(iii) of this section applies.
+</P>
+<P>
+<E T="03">Example 1 to paragraph (a)(3)(ii):</E>
+A licensee contacts NICS on Thursday and gets a “Delayed” response. The licensee does not get a further response from NICS of any kind. If State offices are not open on Saturday and Sunday, three business days would have elapsed on the following Tuesday. The licensee may transfer the firearm on the next day, Wednesday.
+</P>
+<P>
+(iii)
+<E T="03">Additional investigatory period in the case of a transferee who is under 21 years old (applies through September 30, 2032).</E>
+In the case of a transferee under 21 years of age, if NICS notifies the licensee within three business days from the date the licensee contacted NICS that cause exists for further investigation, the licensee may not proceed with the transfer until they receive a follow-up “Proceed” response from NICS or until another seven business days have expired, exclusive of the day on which the query is made (up to ten business days in total), whichever occurs first. If ten business days have elapsed from the date the licensee contacted NICS, and NICS has not notified the licensee that transfer to, or receipt of the firearm by, the transferee is “Denied,” the transfer may proceed.
+</P>
+<P>
+<E T="03">Example 2 to paragraph (a)(3)(iii):</E>
+A licensee contacts NICS on Thursday, the 10th and gets a “Delayed” response. If State offices are not open on Saturdays and Sundays, three business days would elapse on the following Tuesday, the 15th. If the transferee is a person 21 years of age or older, the FFL may transfer the firearm at 12:01 on Wednesday, the 16th. However, if the transferee is a person less than 21 years of age, and NICS notifies the licensee by Tuesday, the 15th, that cause exists for further investigation of a possibly disqualifying juvenile record, the licensee may not transfer the firearm the next day, the 16th. If the licensee does not get a further response from NICS by the end of the tenth business day denying the transfer, the licensee may transfer the firearm the next day. Ten business days would elapse on the Thursday of the following week, the 24th. The licensee may transfer the firearm on the next day, Friday, the 25th.
+</P>
+<STARS/>
+</SECTION>
+</REGTEXT>
+<REGTEXT TITLE="27" PART="478">
+<AMDPAR>7. Amend § 478.124 by revising paragraphs (c)(1) and (f) to read as follows:</AMDPAR>
+<SECTION>
+<SECTNO>§ 478.124 </SECTNO>
+<SUBJECT>Firearms transaction record.</SUBJECT>
+<STARS/>
+<P>(c)(1) Prior to making an over-the-counter transfer of a firearm to a non-licensee who is a resident of the State in which the licensee's business premises is located, the licensed importer, licensed manufacturer, or licensed dealer so transferring the firearm shall obtain a Form 4473 from the transferee showing the transferee's name, sex, residence address (including county or similar political subdivision and whether they reside within city limits), and date and place of birth; the height, weight, and race of the transferee; the transferee's country of citizenship; the transferee's DHS-issued alien number or admission number; the transferee's State of residence; certification by the transferee that the transferee is not prohibited by the Act from transporting or shipping a firearm in interstate or foreign commerce or receiving a firearm which has been shipped or transported in interstate or foreign commerce or possessing a firearm in or affecting commerce; and certification that the transferee does not intend to purchase or acquire any firearm for sale or other disposition to a person so prohibited or in furtherance of any felony or other offense punishable by imprisonment for a term of more than one year, a Federal crime of terrorism, or a drug trafficking offense.</P>
+<STARS/>
+<PRTPAGE P="28633"/>
+<P>(f) Form 4473 shall be submitted, in duplicate, to a licensed importer, licensed manufacturer, or licensed dealer by a transferee who is purchasing or otherwise acquiring a firearm by other than an over-the-counter transaction, who is not subject to the provisions of § 478.102(a), and who is a resident of the State in which the licensee's business premises are located. The Form 4473 shall show the transferee's name, sex, residence address (including county or similar political subdivision and whether they reside within city limits), and date and place of birth; the height, weight, and race of the transferee; the transferee's country of citizenship; the transferee's DHS-issued alien number or admission number; the transferee's State of residence; and the title, name, and address of the principal law enforcement officer of the locality to which the firearm will be delivered. The transferee shall also certify on the Form 4473 that the transferee does not intend to purchase or acquire any firearm for sale or other disposition to a person so prohibited or in furtherance of any felony or other offense punishable by imprisonment for a term of more than one year, a Federal crime of terrorism, or a drug trafficking offense. The licensee shall identify the firearm to be transferred by listing in the Forms 4473 the name of the manufacturer, the name of the importer (if any), the type, model, caliber or gauge, and the serial number of the firearm to be transferred. Where no manufacturer name has been identified on a privately made firearm, the words “privately made firearm” (or abbreviation “PMF”) shall be recorded as the name of the manufacturer. The licensee shall prior to shipment or delivery of the firearm to such transferee, forward by registered or certified mail (return receipt requested) a copy of the Form 4473 to the principal law enforcement officer named in the Form 4473 by the transferee, and shall delay shipment or delivery of the firearm to the transferee for a period of at least 7 days following receipt by the licensee of the return receipt evidencing delivery of the copy of the Form 4473 to such principal law enforcement officer, or the return of the copy of the Form 4473 to the licensee due to the refusal of such principal law enforcement officer to accept same in accordance with U.S. Postal Service regulations. The original Form 4473, and evidence of receipt or rejection of delivery of the copy of the Form 4473 sent to the principal law enforcement officer, shall be retained by the licensee as a part of the records required to be kept under this subpart.</P>
+<STARS/>
+</SECTION>
+</REGTEXT>
+<REGTEXT TITLE="27" PART="478">
+<AMDPAR>8. Amend § 478.152 by adding paragraphs (d) and (e) to read as follows:</AMDPAR>
+<SECTION>
+<SECTNO>§ 478.152 </SECTNO>
+<SUBJECT>Seizure and forfeiture.</SUBJECT>
+<STARS/>
+<P>(d) Any person convicted of a violation of section 932 or 933 of the Act shall forfeit to the United States, irrespective of any provision of State law—</P>
+<P>(1) Any property constituting, or derived from, any proceeds the person obtained, directly or indirectly, as the result of such violation; and</P>
+<P>(2) Any of the person's property used, or intended to be used, in any manner or part, to commit, or to facilitate the commission of, such violation, except that for any forfeiture of any firearm or ammunition pursuant to this section, 18 U.S.C. 924(d) shall apply.</P>
+<P>(e) A defendant who derives profits or other proceeds from an offense under section 932 or 933 of the Act may be fined not more than the greater of—</P>
+<P>(1) The fine otherwise authorized by part I of title 18 of the U.S. Code; or</P>
+<P>(2) The amount equal to twice the gross profits or other proceeds of the offense under section 932 or 933.</P>
+</SECTION>
+</REGTEXT>
+<SIG>
+<DATED>Dated: April 12, 2024.</DATED>
+<NAME>Merrick B. Garland,</NAME>
+<TITLE>Attorney General.</TITLE>
+</SIG>
+</SUPLINF>
+<FRDOC>[FR Doc. 2024-08339 Filed 4-18-24; 8:45 am]</FRDOC>
+<BILCOD>BILLING CODE 4410-FY-P</BILCOD>
+</RULE>
