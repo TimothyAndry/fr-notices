@@ -30,7 +30,7 @@
                 <SUBJECT>Meaning of terms.</SUBJECT>
             </SUBJGRP>
             <SUBJGRP>
-                <HD SOURCE="HED">Records</HD>
+                <HD SOURCE="HED">Records and reports</HD>
                 <SECTNO>646.146</SECTNO>
                 <SUBJECT>General requirements.</SUBJECT>
                 <SECTNO>646.147</SECTNO>
@@ -39,7 +39,7 @@
                 <SUBJECT>Retention of records.</SUBJECT>
             </SUBJGRP>
             <SUBJGRP>
-                <HD SOURCE="HED">Other Provisions Relating to the Distribution of Cigarettes</HD>
+                <HD SOURCE="HED">Other Provisions Relating to Distributing Cigarettes and Smokeless Tobacco</HD>
                 <SECTNO>646.153</SECTNO>
                 <SUBJECT>Authority of appropriate ATF officers to enter business premises.</SUBJECT>
             </SUBJGRP>
@@ -136,7 +136,7 @@
             </SECTION>
         </SUBJGRP>
         <SUBJGRP>
-            <HD SOURCE="HED">Records</HD>
+            <HD SOURCE="HED">Records and reports</HD>
             <SECTION>
                 <SECTNO>§ 646.146</SECTNO>
                 <SUBJECT>General requirements.</SUBJECT>
