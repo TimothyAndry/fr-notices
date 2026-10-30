@@ -2072,19 +2072,19 @@ Table 15 provides the percent revenue impact the IFR would have had on small ent
 <CHED H="1">Number</CHED>
 </BOXHD>
 <ROW>
-<ENT I="01">0 = X < 1</ENT>
+<ENT I="01">0 = X &lt; 1</ENT>
 <ENT>109</ENT>
 </ROW>
 <ROW>
-<ENT I="01">1 = X < 3</ENT>
+<ENT I="01">1 = X &lt; 3</ENT>
 <ENT>34</ENT>
 </ROW>
 <ROW>
-<ENT I="01">3 = X < 5</ENT>
+<ENT I="01">3 = X &lt; 5</ENT>
 <ENT>1</ENT>
 </ROW>
 <ROW>
-<ENT I="01">5 = X < 10</ENT>
+<ENT I="01">5 = X &lt; 10</ENT>
 <ENT>0</ENT>
 </ROW>
 <ROW>
